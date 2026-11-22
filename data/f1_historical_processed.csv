@@ -1,0 +1,2301 @@
+season,round,circuit,driver,team,grid_position,driver_rolling_avg_pos,team_rolling_pts,circuit_downforce,tire_deg_factor,rain_prob,final_position,podium_finish,race_winner
+2022,1,Bahrain Grand Prix,LEC,Ferrari,1,1.0,5.0,0.65,0.65,0.05,1,1,1
+2022,1,Bahrain Grand Prix,SAI,Ferrari,3,3.0,26.0,0.65,0.65,0.05,2,1,0
+2022,1,Bahrain Grand Prix,HAM,Mercedes,5,5.0,5.0,0.65,0.65,0.05,3,1,0
+2022,1,Bahrain Grand Prix,RUS,Mercedes,9,9.0,15.0,0.65,0.65,0.05,4,0,0
+2022,1,Bahrain Grand Prix,MAG,Haas F1 Team,7,7.0,5.0,0.65,0.65,0.05,5,0,0
+2022,1,Bahrain Grand Prix,BOT,Alfa Romeo,6,6.0,5.0,0.65,0.65,0.05,6,0,0
+2022,1,Bahrain Grand Prix,OCO,Alpine F1 Team,11,11.0,5.0,0.65,0.65,0.05,7,0,0
+2022,1,Bahrain Grand Prix,TSU,AlphaTauri,16,16.0,5.0,0.65,0.65,0.05,8,0,0
+2022,1,Bahrain Grand Prix,ALO,Alpine F1 Team,8,8.0,6.0,0.65,0.65,0.05,9,0,0
+2022,1,Bahrain Grand Prix,ZHO,Alfa Romeo,15,15.0,8.0,0.65,0.65,0.05,10,0,0
+2022,1,Bahrain Grand Prix,MSC,Haas F1 Team,12,12.0,10.0,0.65,0.65,0.05,11,0,0
+2022,1,Bahrain Grand Prix,STR,Aston Martin,19,19.0,5.0,0.65,0.65,0.05,12,0,0
+2022,1,Bahrain Grand Prix,ALB,Williams,14,14.0,5.0,0.65,0.65,0.05,13,0,0
+2022,1,Bahrain Grand Prix,RIC,McLaren,18,18.0,5.0,0.65,0.65,0.05,14,0,0
+2022,1,Bahrain Grand Prix,NOR,McLaren,13,13.0,0.0,0.65,0.65,0.05,15,0,0
+2022,1,Bahrain Grand Prix,LAT,Williams,20,20.0,0.0,0.65,0.65,0.05,16,0,0
+2022,1,Bahrain Grand Prix,HUL,Aston Martin,17,17.0,0.0,0.65,0.65,0.05,17,0,0
+2022,1,Bahrain Grand Prix,PER,Red Bull,4,4.0,5.0,0.65,0.65,0.05,18,0,0
+2022,1,Bahrain Grand Prix,VER,Red Bull,2,2.0,0.0,0.65,0.65,0.05,19,0,0
+2022,1,Bahrain Grand Prix,GAS,AlphaTauri,10,10.0,4.0,0.65,0.65,0.05,20,0,0
+2022,2,Saudi Arabian Grand Prix,VER,Red Bull,4,19.0,0.0,0.4,0.5,0.05,1,1,1
+2022,2,Saudi Arabian Grand Prix,LEC,Ferrari,2,1.0,22.0,0.4,0.5,0.05,2,1,0
+2022,2,Saudi Arabian Grand Prix,SAI,Ferrari,3,2.0,21.0,0.4,0.5,0.05,3,1,0
+2022,2,Saudi Arabian Grand Prix,PER,Red Bull,1,18.0,8.33,0.4,0.5,0.05,4,0,0
+2022,2,Saudi Arabian Grand Prix,RUS,Mercedes,6,4.0,13.5,0.4,0.5,0.05,5,0,0
+2022,2,Saudi Arabian Grand Prix,OCO,Alpine F1 Team,5,7.0,4.0,0.4,0.5,0.05,6,0,0
+2022,2,Saudi Arabian Grand Prix,NOR,McLaren,11,15.0,0.0,0.4,0.5,0.05,7,0,0
+2022,2,Saudi Arabian Grand Prix,GAS,AlphaTauri,9,20.0,2.0,0.4,0.5,0.05,8,0,0
+2022,2,Saudi Arabian Grand Prix,MAG,Haas F1 Team,10,5.0,5.0,0.4,0.5,0.05,9,0,0
+2022,2,Saudi Arabian Grand Prix,HAM,Mercedes,15,3.0,12.33,0.4,0.5,0.05,10,0,0
+2022,2,Saudi Arabian Grand Prix,ZHO,Alfa Romeo,12,10.0,4.5,0.4,0.5,0.05,11,0,0
+2022,2,Saudi Arabian Grand Prix,HUL,Aston Martin,17,17.0,0.0,0.4,0.5,0.05,12,0,0
+2022,2,Saudi Arabian Grand Prix,STR,Aston Martin,13,12.0,0.0,0.4,0.5,0.05,13,0,0
+2022,2,Saudi Arabian Grand Prix,ALB,Williams,16,13.0,0.0,0.4,0.5,0.05,14,0,0
+2022,2,Saudi Arabian Grand Prix,BOT,Alfa Romeo,8,6.0,3.0,0.4,0.5,0.05,20,0,0
+2022,2,Saudi Arabian Grand Prix,ALO,Alpine F1 Team,7,9.0,5.33,0.4,0.5,0.05,20,0,0
+2022,2,Saudi Arabian Grand Prix,RIC,McLaren,14,14.0,2.0,0.4,0.5,0.05,20,0,0
+2022,2,Saudi Arabian Grand Prix,LAT,Williams,18,16.0,0.0,0.4,0.5,0.05,20,0,0
+2022,2,Saudi Arabian Grand Prix,TSU,AlphaTauri,19,8.0,2.67,0.4,0.5,0.05,20,0,0
+2022,2,Saudi Arabian Grand Prix,MSC,Haas F1 Team,20,11.0,4.0,0.4,0.5,0.05,20,0,0
+2022,3,Australian Grand Prix,LEC,Ferrari,1,1.5,17.33,0.6,0.6,0.05,1,1,1
+2022,3,Australian Grand Prix,PER,Red Bull,3,11.0,12.33,0.6,0.6,0.05,2,1,0
+2022,3,Australian Grand Prix,RUS,Mercedes,6,4.5,7.67,0.6,0.6,0.05,3,1,0
+2022,3,Australian Grand Prix,HAM,Mercedes,5,6.5,8.67,0.6,0.6,0.05,4,0,0
+2022,3,Australian Grand Prix,NOR,McLaren,4,11.0,2.0,0.6,0.6,0.05,5,0,0
+2022,3,Australian Grand Prix,RIC,McLaren,7,17.0,5.33,0.6,0.6,0.05,6,0,0
+2022,3,Australian Grand Prix,OCO,Alpine F1 Team,8,6.5,3.33,0.6,0.6,0.05,7,0,0
+2022,3,Australian Grand Prix,BOT,Alfa Romeo,12,13.0,0.33,0.6,0.6,0.05,8,0,0
+2022,3,Australian Grand Prix,GAS,AlphaTauri,11,14.0,1.33,0.6,0.6,0.05,9,0,0
+2022,3,Australian Grand Prix,ALB,Williams,20,13.5,0.0,0.6,0.6,0.05,10,0,0
+2022,3,Australian Grand Prix,ZHO,Alfa Romeo,14,10.5,1.33,0.6,0.6,0.05,11,0,0
+2022,3,Australian Grand Prix,STR,Aston Martin,19,12.5,0.0,0.6,0.6,0.05,12,0,0
+2022,3,Australian Grand Prix,MSC,Haas F1 Team,15,15.5,0.67,0.6,0.6,0.05,13,0,0
+2022,3,Australian Grand Prix,MAG,Haas F1 Team,16,7.0,0.67,0.6,0.6,0.05,14,0,0
+2022,3,Australian Grand Prix,TSU,AlphaTauri,13,14.0,2.0,0.6,0.6,0.05,15,0,0
+2022,3,Australian Grand Prix,LAT,Williams,18,18.0,0.33,0.6,0.6,0.05,16,0,0
+2022,3,Australian Grand Prix,ALO,Alpine F1 Team,10,14.5,4.67,0.6,0.6,0.05,17,0,0
+2022,3,Australian Grand Prix,VER,Red Bull,2,10.0,18.33,0.6,0.6,0.05,20,0,0
+2022,3,Australian Grand Prix,VET,Aston Martin,17,17.0,0.0,0.6,0.6,0.05,20,0,0
+2022,3,Australian Grand Prix,SAI,Ferrari,9,2.5,20.0,0.6,0.6,0.05,20,0,0
+2022,4,Emilia Romagna Grand Prix,VER,Red Bull,1,13.33,10.0,0.65,0.65,0.05,1,1,1
+2022,4,Emilia Romagna Grand Prix,PER,Red Bull,3,8.0,14.67,0.65,0.65,0.05,2,1,0
+2022,4,Emilia Romagna Grand Prix,NOR,McLaren,5,9.0,6.0,0.65,0.65,0.05,3,1,0
+2022,4,Emilia Romagna Grand Prix,RUS,Mercedes,11,4.0,9.33,0.65,0.65,0.05,4,0,0
+2022,4,Emilia Romagna Grand Prix,BOT,Alfa Romeo,7,11.33,1.33,0.65,0.65,0.05,5,0,0
+2022,4,Emilia Romagna Grand Prix,LEC,Ferrari,2,1.33,13.67,0.65,0.65,0.05,6,0,0
+2022,4,Emilia Romagna Grand Prix,TSU,AlphaTauri,12,14.33,0.67,0.65,0.65,0.05,7,0,0
+2022,4,Emilia Romagna Grand Prix,VET,Aston Martin,13,20.0,0.0,0.65,0.65,0.05,8,0,0
+2022,4,Emilia Romagna Grand Prix,MAG,Haas F1 Team,8,9.33,0.0,0.65,0.65,0.05,9,0,0
+2022,4,Emilia Romagna Grand Prix,STR,Aston Martin,15,12.33,1.33,0.65,0.65,0.05,10,0,0
+2022,4,Emilia Romagna Grand Prix,ALB,Williams,18,12.33,0.33,0.65,0.65,0.05,11,0,0
+2022,4,Emilia Romagna Grand Prix,GAS,AlphaTauri,17,12.33,2.67,0.65,0.65,0.05,12,0,0
+2022,4,Emilia Romagna Grand Prix,HAM,Mercedes,14,5.67,13.0,0.65,0.65,0.05,13,0,0
+2022,4,Emilia Romagna Grand Prix,OCO,Alpine F1 Team,16,6.67,2.0,0.65,0.65,0.05,14,0,0
+2022,4,Emilia Romagna Grand Prix,ZHO,Alfa Romeo,20,10.67,4.67,0.65,0.65,0.05,15,0,0
+2022,4,Emilia Romagna Grand Prix,LAT,Williams,19,17.33,0.33,0.65,0.65,0.05,16,0,0
+2022,4,Emilia Romagna Grand Prix,MSC,Haas F1 Team,10,14.67,0.67,0.65,0.65,0.05,17,0,0
+2022,4,Emilia Romagna Grand Prix,RIC,McLaren,6,13.33,11.0,0.65,0.65,0.05,18,0,0
+2022,4,Emilia Romagna Grand Prix,ALO,Alpine F1 Team,9,15.33,2.0,0.65,0.65,0.05,20,0,0
+2022,4,Emilia Romagna Grand Prix,SAI,Ferrari,4,8.33,11.33,0.65,0.65,0.05,20,0,0
+2022,5,Miami Grand Prix,VER,Red Bull,3,10.25,14.67,0.55,0.65,0.05,1,1,1
+2022,5,Miami Grand Prix,LEC,Ferrari,1,2.5,2.67,0.55,0.65,0.05,2,1,0
+2022,5,Miami Grand Prix,SAI,Ferrari,2,11.25,8.67,0.55,0.65,0.05,3,1,0
+2022,5,Miami Grand Prix,PER,Red Bull,4,6.5,23.33,0.55,0.65,0.05,4,0,0
+2022,5,Miami Grand Prix,RUS,Mercedes,12,4.0,8.0,0.55,0.65,0.05,5,0,0
+2022,5,Miami Grand Prix,HAM,Mercedes,6,7.5,7.33,0.55,0.65,0.05,6,0,0
+2022,5,Miami Grand Prix,BOT,Alfa Romeo,5,9.75,3.33,0.55,0.65,0.05,7,0,0
+2022,5,Miami Grand Prix,OCO,Alpine F1 Team,20,8.5,0.0,0.55,0.65,0.05,8,0,0
+2022,5,Miami Grand Prix,ALB,Williams,18,12.0,0.0,0.55,0.65,0.05,9,0,0
+2022,5,Miami Grand Prix,STR,Aston Martin,20,11.75,1.67,0.55,0.65,0.05,10,0,0
+2022,5,Miami Grand Prix,ALO,Alpine F1 Team,11,16.5,1.33,0.55,0.65,0.05,11,0,0
+2022,5,Miami Grand Prix,TSU,AlphaTauri,9,12.5,2.0,0.55,0.65,0.05,12,0,0
+2022,5,Miami Grand Prix,RIC,McLaren,14,14.5,7.67,0.55,0.65,0.05,13,0,0
+2022,5,Miami Grand Prix,LAT,Williams,19,17.0,0.67,0.55,0.65,0.05,14,0,0
+2022,5,Miami Grand Prix,MSC,Haas F1 Team,15,15.25,0.67,0.55,0.65,0.05,15,0,0
+2022,5,Miami Grand Prix,MAG,Haas F1 Team,16,9.25,0.67,0.55,0.65,0.05,16,0,0
+2022,5,Miami Grand Prix,VET,Aston Martin,20,14.0,2.0,0.55,0.65,0.05,17,0,0
+2022,5,Miami Grand Prix,GAS,AlphaTauri,7,12.25,2.0,0.55,0.65,0.05,20,0,0
+2022,5,Miami Grand Prix,NOR,McLaren,8,7.5,5.0,0.55,0.65,0.05,20,0,0
+2022,5,Miami Grand Prix,ZHO,Alfa Romeo,17,11.75,5.33,0.55,0.65,0.05,20,0,0
+2022,6,Spanish Grand Prix,VER,Red Bull,2,8.4,18.67,0.6,0.75,0.05,1,1,1
+2022,6,Spanish Grand Prix,PER,Red Bull,5,6.0,21.0,0.6,0.75,0.05,2,1,0
+2022,6,Spanish Grand Prix,RUS,Mercedes,4,4.2,6.0,0.6,0.75,0.05,3,1,0
+2022,6,Spanish Grand Prix,SAI,Ferrari,3,9.6,11.0,0.6,0.75,0.05,4,0,0
+2022,6,Spanish Grand Prix,HAM,Mercedes,6,7.2,11.0,0.6,0.75,0.05,5,0,0
+2022,6,Spanish Grand Prix,BOT,Alfa Romeo,7,9.2,2.0,0.6,0.75,0.05,6,0,0
+2022,6,Spanish Grand Prix,OCO,Alpine F1 Team,12,8.4,1.33,0.6,0.75,0.05,7,0,0
+2022,6,Spanish Grand Prix,NOR,McLaren,11,10.0,0.0,0.6,0.75,0.05,8,0,0
+2022,6,Spanish Grand Prix,ALO,Alpine F1 Team,20,15.4,3.33,0.6,0.75,0.05,9,0,0
+2022,6,Spanish Grand Prix,TSU,AlphaTauri,13,12.4,0.0,0.6,0.75,0.05,10,0,0
+2022,6,Spanish Grand Prix,VET,Aston Martin,16,15.0,0.67,0.6,0.75,0.05,11,0,0
+2022,6,Spanish Grand Prix,RIC,McLaren,9,14.2,1.33,0.6,0.75,0.05,12,0,0
+2022,6,Spanish Grand Prix,GAS,AlphaTauri,14,13.8,0.33,0.6,0.75,0.05,13,0,0
+2022,6,Spanish Grand Prix,MSC,Haas F1 Team,10,15.2,0.0,0.6,0.75,0.05,14,0,0
+2022,6,Spanish Grand Prix,STR,Aston Martin,17,11.4,0.33,0.6,0.75,0.05,15,0,0
+2022,6,Spanish Grand Prix,LAT,Williams,19,16.4,0.67,0.6,0.75,0.05,16,0,0
+2022,6,Spanish Grand Prix,MAG,Haas F1 Team,8,10.6,0.0,0.6,0.75,0.05,17,0,0
+2022,6,Spanish Grand Prix,ALB,Williams,18,11.4,0.67,0.6,0.75,0.05,18,0,0
+2022,6,Spanish Grand Prix,ZHO,Alfa Romeo,15,13.4,4.67,0.6,0.75,0.05,20,0,0
+2022,6,Spanish Grand Prix,LEC,Ferrari,1,2.4,15.0,0.6,0.75,0.05,20,0,0
+2022,7,Monaco Grand Prix,PER,Red Bull,3,2.8,18.67,0.98,0.3,0.05,1,1,1
+2022,7,Monaco Grand Prix,SAI,Ferrari,2,10.0,9.0,0.98,0.3,0.05,2,1,0
+2022,7,Monaco Grand Prix,VER,Red Bull,4,4.8,23.0,0.98,0.3,0.05,3,1,0
+2022,7,Monaco Grand Prix,LEC,Ferrari,1,6.2,10.0,0.98,0.3,0.05,4,0,0
+2022,7,Monaco Grand Prix,RUS,Mercedes,6,4.0,11.0,0.98,0.3,0.05,5,0,0
+2022,7,Monaco Grand Prix,NOR,McLaren,5,8.6,1.33,0.98,0.3,0.05,6,0,0
+2022,7,Monaco Grand Prix,ALO,Alpine F1 Team,7,15.4,2.67,0.98,0.3,0.05,7,0,0
+2022,7,Monaco Grand Prix,HAM,Mercedes,8,7.6,11.67,0.98,0.3,0.05,8,0,0
+2022,7,Monaco Grand Prix,BOT,Alfa Romeo,12,9.2,2.67,0.98,0.3,0.05,9,0,0
+2022,7,Monaco Grand Prix,VET,Aston Martin,9,14.0,0.0,0.98,0.3,0.05,10,0,0
+2022,7,Monaco Grand Prix,GAS,AlphaTauri,17,12.4,0.33,0.98,0.3,0.05,11,0,0
+2022,7,Monaco Grand Prix,OCO,Alpine F1 Team,10,8.4,4.67,0.98,0.3,0.05,12,0,0
+2022,7,Monaco Grand Prix,RIC,McLaren,14,13.8,4.33,0.98,0.3,0.05,13,0,0
+2022,7,Monaco Grand Prix,STR,Aston Martin,18,12.0,0.33,0.98,0.3,0.05,14,0,0
+2022,7,Monaco Grand Prix,LAT,Williams,19,16.4,0.0,0.98,0.3,0.05,15,0,0
+2022,7,Monaco Grand Prix,ZHO,Alfa Romeo,20,15.4,3.33,0.98,0.3,0.05,16,0,0
+2022,7,Monaco Grand Prix,TSU,AlphaTauri,11,12.8,0.33,0.98,0.3,0.05,17,0,0
+2022,7,Monaco Grand Prix,ALB,Williams,16,12.4,0.0,0.98,0.3,0.05,20,0,0
+2022,7,Monaco Grand Prix,MSC,Haas F1 Team,15,15.8,0.0,0.98,0.3,0.05,20,0,0
+2022,7,Monaco Grand Prix,MAG,Haas F1 Team,13,13.0,0.0,0.98,0.3,0.05,20,0,0
+2022,8,Azerbaijan Grand Prix,VER,Red Bull,3,5.2,19.67,0.45,0.5,0.05,1,1,1
+2022,8,Azerbaijan Grand Prix,PER,Red Bull,2,2.2,21.67,0.45,0.5,0.05,2,1,0
+2022,8,Azerbaijan Grand Prix,RUS,Mercedes,5,4.0,8.0,0.45,0.5,0.05,3,1,0
+2022,8,Azerbaijan Grand Prix,HAM,Mercedes,7,7.2,9.67,0.45,0.5,0.05,4,0,0
+2022,8,Azerbaijan Grand Prix,GAS,AlphaTauri,6,13.0,0.0,0.45,0.5,0.05,5,0,0
+2022,8,Azerbaijan Grand Prix,VET,Aston Martin,9,13.2,0.33,0.45,0.5,0.05,6,0,0
+2022,8,Azerbaijan Grand Prix,ALO,Alpine F1 Team,10,12.8,2.67,0.45,0.5,0.05,7,0,0
+2022,8,Azerbaijan Grand Prix,RIC,McLaren,12,12.4,3.0,0.45,0.5,0.05,8,0,0
+2022,8,Azerbaijan Grand Prix,NOR,McLaren,11,8.4,4.33,0.45,0.5,0.05,9,0,0
+2022,8,Azerbaijan Grand Prix,OCO,Alpine F1 Team,13,9.6,4.0,0.45,0.5,0.05,10,0,0
+2022,8,Azerbaijan Grand Prix,BOT,Alfa Romeo,15,7.0,0.67,0.45,0.5,0.05,11,0,0
+2022,8,Azerbaijan Grand Prix,ALB,Williams,17,13.6,0.0,0.45,0.5,0.05,12,0,0
+2022,8,Azerbaijan Grand Prix,TSU,AlphaTauri,8,12.2,3.33,0.45,0.5,0.05,13,0,0
+2022,8,Azerbaijan Grand Prix,MSC,Haas F1 Team,20,15.8,0.0,0.45,0.5,0.05,14,0,0
+2022,8,Azerbaijan Grand Prix,LAT,Williams,18,15.4,0.0,0.45,0.5,0.05,15,0,0
+2022,8,Azerbaijan Grand Prix,STR,Aston Martin,19,12.2,3.0,0.45,0.5,0.05,16,0,0
+2022,8,Azerbaijan Grand Prix,MAG,Haas F1 Team,16,15.2,0.0,0.45,0.5,0.05,20,0,0
+2022,8,Azerbaijan Grand Prix,ZHO,Alfa Romeo,14,16.4,0.67,0.45,0.5,0.05,20,0,0
+2022,8,Azerbaijan Grand Prix,LEC,Ferrari,1,6.6,10.0,0.45,0.5,0.05,20,0,0
+2022,8,Azerbaijan Grand Prix,SAI,Ferrari,4,9.8,10.0,0.45,0.5,0.05,20,0,0
+2022,9,Canadian Grand Prix,VER,Red Bull,1,1.4,19.67,0.65,0.65,0.05,1,1,1
+2022,9,Canadian Grand Prix,SAI,Ferrari,3,9.8,4.0,0.65,0.65,0.05,2,1,0
+2022,9,Canadian Grand Prix,HAM,Mercedes,4,7.2,10.33,0.65,0.65,0.05,3,1,0
+2022,9,Canadian Grand Prix,RUS,Mercedes,8,4.0,14.0,0.65,0.65,0.05,4,0,0
+2022,9,Canadian Grand Prix,LEC,Ferrari,19,10.4,6.33,0.65,0.65,0.05,5,0,0
+2022,9,Canadian Grand Prix,OCO,Alpine F1 Team,7,10.2,2.33,0.65,0.65,0.05,6,0,0
+2022,9,Canadian Grand Prix,BOT,Alfa Romeo,11,7.6,0.0,0.65,0.65,0.05,7,0,0
+2022,9,Canadian Grand Prix,ZHO,Alfa Romeo,10,18.2,2.0,0.65,0.65,0.05,8,0,0
+2022,9,Canadian Grand Prix,ALO,Alpine F1 Team,2,10.8,5.0,0.65,0.65,0.05,9,0,0
+2022,9,Canadian Grand Prix,STR,Aston Martin,17,13.0,2.67,0.65,0.65,0.05,10,0,0
+2022,9,Canadian Grand Prix,RIC,McLaren,9,12.8,2.0,0.65,0.65,0.05,11,0,0
+2022,9,Canadian Grand Prix,VET,Aston Martin,16,10.4,3.0,0.65,0.65,0.05,12,0,0
+2022,9,Canadian Grand Prix,ALB,Williams,12,14.0,0.0,0.65,0.65,0.05,13,0,0
+2022,9,Canadian Grand Prix,GAS,AlphaTauri,15,12.2,3.33,0.65,0.65,0.05,14,0,0
+2022,9,Canadian Grand Prix,NOR,McLaren,14,9.2,2.0,0.65,0.65,0.05,15,0,0
+2022,9,Canadian Grand Prix,LAT,Williams,18,15.2,0.0,0.65,0.65,0.05,16,0,0
+2022,9,Canadian Grand Prix,MAG,Haas F1 Team,5,16.4,0.0,0.65,0.65,0.05,17,0,0
+2022,9,Canadian Grand Prix,TSU,AlphaTauri,20,11.8,3.33,0.65,0.65,0.05,20,0,0
+2022,9,Canadian Grand Prix,MSC,Haas F1 Team,6,16.0,0.0,0.65,0.65,0.05,20,0,0
+2022,9,Canadian Grand Prix,PER,Red Bull,13,2.2,23.0,0.65,0.65,0.05,20,0,0
+2022,10,British Grand Prix,SAI,Ferrari,1,6.2,9.67,0.75,0.8,0.05,1,1,1
+2022,10,British Grand Prix,PER,Red Bull,4,5.8,14.67,0.75,0.8,0.05,2,1,0
+2022,10,British Grand Prix,HAM,Mercedes,5,5.2,13.0,0.75,0.8,0.05,3,1,0
+2022,10,British Grand Prix,LEC,Ferrari,3,10.2,18.0,0.75,0.8,0.05,4,0,0
+2022,10,British Grand Prix,ALO,Alpine F1 Team,7,8.6,3.67,0.75,0.8,0.05,5,0,0
+2022,10,British Grand Prix,NOR,McLaren,6,11.6,0.67,0.75,0.8,0.05,6,0,0
+2022,10,British Grand Prix,VER,Red Bull,2,1.4,14.33,0.75,0.8,0.05,7,0,0
+2022,10,British Grand Prix,MSC,Haas F1 Team,19,16.6,0.0,0.75,0.8,0.05,8,0,0
+2022,10,British Grand Prix,VET,Aston Martin,18,11.2,0.33,0.75,0.8,0.05,9,0,0
+2022,10,British Grand Prix,MAG,Haas F1 Team,17,18.0,1.33,0.75,0.8,0.05,10,0,0
+2022,10,British Grand Prix,STR,Aston Martin,20,13.0,1.0,0.75,0.8,0.05,11,0,0
+2022,10,British Grand Prix,LAT,Williams,10,15.2,0.0,0.75,0.8,0.05,12,0,0
+2022,10,British Grand Prix,RIC,McLaren,14,11.4,2.67,0.75,0.8,0.05,13,0,0
+2022,10,British Grand Prix,TSU,AlphaTauri,13,14.4,0.0,0.75,0.8,0.05,14,0,0
+2022,10,British Grand Prix,OCO,Alpine F1 Team,15,8.6,6.67,0.75,0.8,0.05,20,0,0
+2022,10,British Grand Prix,GAS,AlphaTauri,11,12.6,0.0,0.75,0.8,0.05,20,0,0
+2022,10,British Grand Prix,BOT,Alfa Romeo,12,8.0,3.33,0.75,0.8,0.05,20,0,0
+2022,10,British Grand Prix,RUS,Mercedes,8,4.0,14.33,0.75,0.8,0.05,20,0,0
+2022,10,British Grand Prix,ZHO,Alfa Romeo,9,16.8,3.33,0.75,0.8,0.05,20,0,0
+2022,10,British Grand Prix,ALB,Williams,16,14.4,0.0,0.75,0.8,0.05,20,0,0
+2022,11,Austrian Grand Prix,LEC,Ferrari,2,10.6,15.67,0.5,0.7,0.05,1,1,1
+2022,11,Austrian Grand Prix,VER,Red Bull,1,2.6,8.0,0.5,0.7,0.05,2,1,0
+2022,11,Austrian Grand Prix,HAM,Mercedes,8,4.6,9.33,0.5,0.7,0.05,3,1,0
+2022,11,Austrian Grand Prix,RUS,Mercedes,4,7.0,10.33,0.5,0.7,0.05,4,0,0
+2022,11,Austrian Grand Prix,OCO,Alpine F1 Team,6,11.0,4.0,0.5,0.7,0.05,5,0,0
+2022,11,Austrian Grand Prix,MSC,Haas F1 Team,9,15.2,1.67,0.5,0.7,0.05,6,0,0
+2022,11,Austrian Grand Prix,NOR,McLaren,10,8.8,2.67,0.5,0.7,0.05,7,0,0
+2022,11,Austrian Grand Prix,MAG,Haas F1 Team,7,16.8,4.33,0.5,0.7,0.05,8,0,0
+2022,11,Austrian Grand Prix,RIC,McLaren,11,11.4,4.67,0.5,0.7,0.05,9,0,0
+2022,11,Austrian Grand Prix,ALO,Alpine F1 Team,19,7.4,6.67,0.5,0.7,0.05,10,0,0
+2022,11,Austrian Grand Prix,BOT,Alfa Romeo,20,10.6,1.33,0.5,0.7,0.05,11,0,0
+2022,11,Austrian Grand Prix,ALB,Williams,15,16.6,0.0,0.5,0.7,0.05,12,0,0
+2022,11,Austrian Grand Prix,STR,Aston Martin,12,13.2,0.67,0.5,0.7,0.05,13,0,0
+2022,11,Austrian Grand Prix,ZHO,Alfa Romeo,13,16.8,0.0,0.5,0.7,0.05,14,0,0
+2022,11,Austrian Grand Prix,GAS,AlphaTauri,14,12.6,0.0,0.5,0.7,0.05,15,0,0
+2022,11,Austrian Grand Prix,TSU,AlphaTauri,16,14.8,0.0,0.5,0.7,0.05,16,0,0
+2022,11,Austrian Grand Prix,VET,Aston Martin,18,9.6,0.67,0.5,0.7,0.05,17,0,0
+2022,11,Austrian Grand Prix,SAI,Ferrari,3,5.8,20.67,0.5,0.7,0.05,20,0,0
+2022,11,Austrian Grand Prix,LAT,Williams,17,14.8,0.0,0.5,0.7,0.05,20,0,0
+2022,11,Austrian Grand Prix,PER,Red Bull,5,5.4,14.33,0.5,0.7,0.05,20,0,0
+2022,12,French Grand Prix,VER,Red Bull,2,2.8,8.33,0.65,0.65,0.05,1,1,1
+2022,12,French Grand Prix,HAM,Mercedes,4,4.2,9.0,0.65,0.65,0.05,2,1,0
+2022,12,French Grand Prix,RUS,Mercedes,6,7.2,15.0,0.65,0.65,0.05,3,1,0
+2022,12,French Grand Prix,PER,Red Bull,3,9.0,14.67,0.65,0.65,0.05,4,0,0
+2022,12,French Grand Prix,SAI,Ferrari,19,9.0,12.33,0.65,0.65,0.05,5,0,0
+2022,12,French Grand Prix,ALO,Alpine F1 Team,7,7.6,3.67,0.65,0.65,0.05,6,0,0
+2022,12,French Grand Prix,NOR,McLaren,5,8.6,2.67,0.65,0.65,0.05,7,0,0
+2022,12,French Grand Prix,OCO,Alpine F1 Team,10,10.6,6.33,0.65,0.65,0.05,8,0,0
+2022,12,French Grand Prix,RIC,McLaren,9,10.8,4.67,0.65,0.65,0.05,9,0,0
+2022,12,French Grand Prix,STR,Aston Martin,15,12.8,0.0,0.65,0.65,0.05,10,0,0
+2022,12,French Grand Prix,VET,Aston Martin,12,10.8,0.33,0.65,0.65,0.05,11,0,0
+2022,12,French Grand Prix,GAS,AlphaTauri,14,13.0,0.0,0.65,0.65,0.05,12,0,0
+2022,12,French Grand Prix,ALB,Williams,13,15.4,0.0,0.65,0.65,0.05,13,0,0
+2022,12,French Grand Prix,BOT,Alfa Romeo,11,11.6,0.0,0.65,0.65,0.05,14,0,0
+2022,12,French Grand Prix,MSC,Haas F1 Team,17,13.6,4.33,0.65,0.65,0.05,15,0,0
+2022,12,French Grand Prix,ZHO,Alfa Romeo,16,15.6,0.0,0.65,0.65,0.05,16,0,0
+2022,12,French Grand Prix,LAT,Williams,18,15.6,0.0,0.65,0.65,0.05,20,0,0
+2022,12,French Grand Prix,MAG,Haas F1 Team,20,15.0,4.0,0.65,0.65,0.05,20,0,0
+2022,12,French Grand Prix,LEC,Ferrari,1,6.8,12.0,0.65,0.65,0.05,20,0,0
+2022,12,French Grand Prix,TSU,AlphaTauri,8,16.0,0.0,0.65,0.65,0.05,20,0,0
+2022,13,Hungarian Grand Prix,VER,Red Bull,10,2.4,12.33,0.9,0.65,0.05,1,1,1
+2022,13,Hungarian Grand Prix,HAM,Mercedes,7,3.0,15.0,0.9,0.65,0.05,2,1,0
+2022,13,Hungarian Grand Prix,RUS,Mercedes,1,6.8,17.33,0.9,0.65,0.05,3,1,0
+2022,13,Hungarian Grand Prix,SAI,Ferrari,2,9.6,3.67,0.9,0.65,0.05,4,0,0
+2022,13,Hungarian Grand Prix,PER,Red Bull,11,9.6,20.67,0.9,0.65,0.05,5,0,0
+2022,13,Hungarian Grand Prix,LEC,Ferrari,3,10.0,7.67,0.9,0.65,0.05,6,0,0
+2022,13,Hungarian Grand Prix,NOR,McLaren,4,8.8,3.33,0.9,0.65,0.05,7,0,0
+2022,13,Hungarian Grand Prix,ALO,Alpine F1 Team,6,7.4,4.33,0.9,0.65,0.05,8,0,0
+2022,13,Hungarian Grand Prix,OCO,Alpine F1 Team,5,9.8,5.33,0.9,0.65,0.05,9,0,0
+2022,13,Hungarian Grand Prix,VET,Aston Martin,18,11.0,0.33,0.9,0.65,0.05,10,0,0
+2022,13,Hungarian Grand Prix,STR,Aston Martin,14,12.0,0.67,0.9,0.65,0.05,11,0,0
+2022,13,Hungarian Grand Prix,GAS,AlphaTauri,20,13.2,0.0,0.9,0.65,0.05,12,0,0
+2022,13,Hungarian Grand Prix,ZHO,Alfa Romeo,12,15.6,0.0,0.9,0.65,0.05,13,0,0
+2022,13,Hungarian Grand Prix,MSC,Haas F1 Team,15,12.6,1.33,0.9,0.65,0.05,14,0,0
+2022,13,Hungarian Grand Prix,RIC,McLaren,9,10.0,4.67,0.9,0.65,0.05,15,0,0
+2022,13,Hungarian Grand Prix,MAG,Haas F1 Team,13,15.0,0.0,0.9,0.65,0.05,16,0,0
+2022,13,Hungarian Grand Prix,ALB,Williams,17,14.0,0.0,0.9,0.65,0.05,17,0,0
+2022,13,Hungarian Grand Prix,LAT,Williams,19,16.6,0.0,0.9,0.65,0.05,18,0,0
+2022,13,Hungarian Grand Prix,TSU,AlphaTauri,16,16.6,0.0,0.9,0.65,0.05,19,0,0
+2022,13,Hungarian Grand Prix,BOT,Alfa Romeo,8,12.6,0.0,0.9,0.65,0.05,20,0,0
+2022,14,Belgian Grand Prix,VER,Red Bull,14,2.4,15.67,0.6,0.75,0.05,1,1,1
+2022,14,Belgian Grand Prix,PER,Red Bull,2,10.2,20.33,0.6,0.75,0.05,2,1,0
+2022,14,Belgian Grand Prix,SAI,Ferrari,1,6.4,6.67,0.6,0.75,0.05,3,1,0
+2022,14,Belgian Grand Prix,RUS,Mercedes,5,6.8,16.33,0.6,0.75,0.05,4,0,0
+2022,14,Belgian Grand Prix,ALO,Alpine F1 Team,3,7.6,3.33,0.6,0.75,0.05,5,0,0
+2022,14,Belgian Grand Prix,LEC,Ferrari,15,7.2,11.67,0.6,0.75,0.05,6,0,0
+2022,14,Belgian Grand Prix,OCO,Alpine F1 Team,16,9.6,5.33,0.6,0.75,0.05,7,0,0
+2022,14,Belgian Grand Prix,VET,Aston Martin,10,11.8,0.33,0.6,0.75,0.05,8,0,0
+2022,14,Belgian Grand Prix,GAS,AlphaTauri,20,14.6,0.0,0.6,0.75,0.05,9,0,0
+2022,14,Belgian Grand Prix,ALB,Williams,6,15.0,0.0,0.6,0.75,0.05,10,0,0
+2022,14,Belgian Grand Prix,STR,Aston Martin,9,11.0,1.67,0.6,0.75,0.05,11,0,0
+2022,14,Belgian Grand Prix,NOR,McLaren,17,8.4,2.67,0.6,0.75,0.05,12,0,0
+2022,14,Belgian Grand Prix,TSU,AlphaTauri,20,17.8,0.67,0.6,0.75,0.05,13,0,0
+2022,14,Belgian Grand Prix,ZHO,Alfa Romeo,18,14.2,0.0,0.6,0.75,0.05,14,0,0
+2022,14,Belgian Grand Prix,RIC,McLaren,7,11.4,2.0,0.6,0.75,0.05,15,0,0
+2022,14,Belgian Grand Prix,MAG,Haas F1 Team,12,14.2,0.0,0.6,0.75,0.05,16,0,0
+2022,14,Belgian Grand Prix,MSC,Haas F1 Team,19,12.6,0.0,0.6,0.75,0.05,17,0,0
+2022,14,Belgian Grand Prix,LAT,Williams,11,17.2,0.33,0.6,0.75,0.05,18,0,0
+2022,14,Belgian Grand Prix,BOT,Alfa Romeo,13,14.4,0.0,0.6,0.75,0.05,20,0,0
+2022,14,Belgian Grand Prix,HAM,Mercedes,4,2.6,15.33,0.6,0.75,0.05,20,0,0
+2022,15,Dutch Grand Prix,VER,Red Bull,1,2.4,18.0,0.88,0.7,0.05,1,1,1
+2022,15,Dutch Grand Prix,RUS,Mercedes,6,6.8,9.0,0.88,0.7,0.05,2,1,0
+2022,15,Dutch Grand Prix,LEC,Ferrari,2,7.4,10.33,0.88,0.7,0.05,3,1,0
+2022,15,Dutch Grand Prix,HAM,Mercedes,4,6.0,10.0,0.88,0.7,0.05,4,0,0
+2022,15,Dutch Grand Prix,PER,Red Bull,5,6.6,23.33,0.88,0.7,0.05,5,0,0
+2022,15,Dutch Grand Prix,ALO,Alpine F1 Team,13,6.8,6.0,0.88,0.7,0.05,6,0,0
+2022,15,Dutch Grand Prix,NOR,McLaren,7,7.8,0.0,0.88,0.7,0.05,7,0,0
+2022,15,Dutch Grand Prix,SAI,Ferrari,3,6.6,12.67,0.88,0.7,0.05,8,0,0
+2022,15,Dutch Grand Prix,OCO,Alpine F1 Team,12,9.8,8.0,0.88,0.7,0.05,9,0,0
+2022,15,Dutch Grand Prix,STR,Aston Martin,10,11.2,1.33,0.88,0.7,0.05,10,0,0
+2022,15,Dutch Grand Prix,GAS,AlphaTauri,11,13.6,0.67,0.88,0.7,0.05,11,0,0
+2022,15,Dutch Grand Prix,ALB,Williams,15,14.4,0.33,0.88,0.7,0.05,12,0,0
+2022,15,Dutch Grand Prix,MSC,Haas F1 Team,8,12.0,0.0,0.88,0.7,0.05,13,0,0
+2022,15,Dutch Grand Prix,VET,Aston Martin,19,11.0,1.67,0.88,0.7,0.05,14,0,0
+2022,15,Dutch Grand Prix,MAG,Haas F1 Team,18,14.0,0.0,0.88,0.7,0.05,15,0,0
+2022,15,Dutch Grand Prix,ZHO,Alfa Romeo,14,15.4,0.0,0.88,0.7,0.05,16,0,0
+2022,15,Dutch Grand Prix,RIC,McLaren,17,12.2,2.0,0.88,0.7,0.05,17,0,0
+2022,15,Dutch Grand Prix,LAT,Williams,20,17.6,0.33,0.88,0.7,0.05,18,0,0
+2022,15,Dutch Grand Prix,BOT,Alfa Romeo,16,17.0,0.0,0.88,0.7,0.05,20,0,0
+2022,15,Dutch Grand Prix,TSU,AlphaTauri,9,16.4,0.67,0.88,0.7,0.05,20,0,0
+2022,16,Italian Grand Prix,VER,Red Bull,7,1.2,18.0,0.2,0.5,0.05,1,1,1
+2022,16,Italian Grand Prix,LEC,Ferrari,1,7.2,9.0,0.2,0.5,0.05,2,1,0
+2022,16,Italian Grand Prix,RUS,Mercedes,2,3.2,10.0,0.2,0.5,0.05,3,1,0
+2022,16,Italian Grand Prix,SAI,Ferrari,18,8.0,12.33,0.2,0.5,0.05,4,0,0
+2022,16,Italian Grand Prix,HAM,Mercedes,19,6.2,15.0,0.2,0.5,0.05,5,0,0
+2022,16,Italian Grand Prix,PER,Red Bull,13,7.2,20.33,0.2,0.5,0.05,6,0,0
+2022,16,Italian Grand Prix,NOR,McLaren,3,8.0,2.0,0.2,0.5,0.05,7,0,0
+2022,16,Italian Grand Prix,GAS,AlphaTauri,5,11.8,0.0,0.2,0.5,0.05,8,0,0
+2022,16,Italian Grand Prix,DEV,Williams,8,8.0,0.0,0.2,0.5,0.05,9,0,0
+2022,16,Italian Grand Prix,ZHO,Alfa Romeo,9,14.6,0.0,0.2,0.5,0.05,10,0,0
+2022,16,Italian Grand Prix,OCO,Alpine F1 Team,14,7.6,5.33,0.2,0.5,0.05,11,0,0
+2022,16,Italian Grand Prix,MSC,Haas F1 Team,17,13.0,0.0,0.2,0.5,0.05,12,0,0
+2022,16,Italian Grand Prix,BOT,Alfa Romeo,15,17.0,0.33,0.2,0.5,0.05,13,0,0
+2022,16,Italian Grand Prix,TSU,AlphaTauri,20,17.6,1.33,0.2,0.5,0.05,14,0,0
+2022,16,Italian Grand Prix,LAT,Williams,10,18.8,0.67,0.2,0.5,0.05,15,0,0
+2022,16,Italian Grand Prix,MAG,Haas F1 Team,16,15.0,0.0,0.2,0.5,0.05,16,0,0
+2022,16,Italian Grand Prix,RIC,McLaren,4,13.0,4.0,0.2,0.5,0.05,20,0,0
+2022,16,Italian Grand Prix,STR,Aston Martin,12,11.0,0.33,0.2,0.5,0.05,20,0,0
+2022,16,Italian Grand Prix,ALO,Alpine F1 Team,6,7.0,3.33,0.2,0.5,0.05,20,0,0
+2022,16,Italian Grand Prix,VET,Aston Martin,11,12.0,0.33,0.2,0.5,0.05,20,0,0
+2022,17,Singapore Grand Prix,PER,Red Bull,2,4.4,14.67,0.9,0.85,0.05,1,1,1
+2022,17,Singapore Grand Prix,LEC,Ferrari,1,7.4,11.33,0.9,0.85,0.05,2,1,0
+2022,17,Singapore Grand Prix,SAI,Ferrari,4,4.8,16.0,0.9,0.85,0.05,3,1,0
+2022,17,Singapore Grand Prix,NOR,McLaren,6,8.0,2.0,0.9,0.85,0.05,4,0,0
+2022,17,Singapore Grand Prix,RIC,McLaren,16,15.2,6.0,0.9,0.85,0.05,5,0,0
+2022,17,Singapore Grand Prix,STR,Aston Martin,11,12.4,0.0,0.9,0.85,0.05,6,0,0
+2022,17,Singapore Grand Prix,VER,Red Bull,8,1.0,19.67,0.9,0.85,0.05,7,0,0
+2022,17,Singapore Grand Prix,VET,Aston Martin,13,12.6,2.67,0.9,0.85,0.05,8,0,0
+2022,17,Singapore Grand Prix,HAM,Mercedes,3,6.6,12.33,0.9,0.85,0.05,9,0,0
+2022,17,Singapore Grand Prix,GAS,AlphaTauri,7,10.4,1.33,0.9,0.85,0.05,10,0,0
+2022,17,Singapore Grand Prix,BOT,Alfa Romeo,15,17.4,0.33,0.9,0.85,0.05,11,0,0
+2022,17,Singapore Grand Prix,MAG,Haas F1 Team,9,16.6,0.0,0.9,0.85,0.05,12,0,0
+2022,17,Singapore Grand Prix,MSC,Haas F1 Team,12,14.2,0.0,0.9,0.85,0.05,13,0,0
+2022,17,Singapore Grand Prix,RUS,Mercedes,20,3.0,9.0,0.9,0.85,0.05,14,0,0
+2022,17,Singapore Grand Prix,TSU,AlphaTauri,10,17.2,1.67,0.9,0.85,0.05,20,0,0
+2022,17,Singapore Grand Prix,OCO,Alpine F1 Team,17,8.8,0.67,0.9,0.85,0.05,20,0,0
+2022,17,Singapore Grand Prix,ALB,Williams,18,12.8,0.67,0.9,0.85,0.05,20,0,0
+2022,17,Singapore Grand Prix,ALO,Alpine F1 Team,5,9.0,0.0,0.9,0.85,0.05,20,0,0
+2022,17,Singapore Grand Prix,LAT,Williams,19,17.8,0.67,0.9,0.85,0.05,20,0,0
+2022,17,Singapore Grand Prix,ZHO,Alfa Romeo,14,13.8,0.33,0.9,0.85,0.05,20,0,0
+2022,18,Japanese Grand Prix,VER,Red Bull,1,2.2,13.33,0.85,0.8,0.05,1,1,1
+2022,18,Japanese Grand Prix,PER,Red Bull,4,3.8,18.67,0.85,0.8,0.05,2,1,0
+2022,18,Japanese Grand Prix,LEC,Ferrari,2,3.8,15.0,0.85,0.8,0.05,3,1,0
+2022,18,Japanese Grand Prix,OCO,Alpine F1 Team,5,11.2,0.0,0.85,0.8,0.05,4,0,0
+2022,18,Japanese Grand Prix,HAM,Mercedes,6,8.0,4.0,0.85,0.8,0.05,5,0,0
+2022,18,Japanese Grand Prix,VET,Aston Martin,9,12.0,4.0,0.85,0.8,0.05,6,0,0
+2022,18,Japanese Grand Prix,ALO,Alpine F1 Team,7,11.8,4.0,0.85,0.8,0.05,7,0,0
+2022,18,Japanese Grand Prix,RUS,Mercedes,8,5.2,4.0,0.85,0.8,0.05,8,0,0
+2022,18,Japanese Grand Prix,LAT,Williams,20,17.8,0.0,0.85,0.8,0.05,9,0,0
+2022,18,Japanese Grand Prix,NOR,McLaren,10,7.4,7.33,0.85,0.8,0.05,10,0,0
+2022,18,Japanese Grand Prix,RIC,McLaren,11,14.4,7.67,0.85,0.8,0.05,11,0,0
+2022,18,Japanese Grand Prix,STR,Aston Martin,19,11.6,6.67,0.85,0.8,0.05,12,0,0
+2022,18,Japanese Grand Prix,TSU,AlphaTauri,13,17.2,0.33,0.85,0.8,0.05,13,0,0
+2022,18,Japanese Grand Prix,MAG,Haas F1 Team,18,15.0,0.0,0.85,0.8,0.05,14,0,0
+2022,18,Japanese Grand Prix,BOT,Alfa Romeo,12,16.8,0.0,0.85,0.8,0.05,15,0,0
+2022,18,Japanese Grand Prix,ZHO,Alfa Romeo,14,14.6,0.0,0.85,0.8,0.05,16,0,0
+2022,18,Japanese Grand Prix,MSC,Haas F1 Team,15,13.8,0.0,0.85,0.8,0.05,17,0,0
+2022,18,Japanese Grand Prix,GAS,AlphaTauri,17,10.0,0.33,0.85,0.8,0.05,18,0,0
+2022,18,Japanese Grand Prix,SAI,Ferrari,3,4.4,16.0,0.85,0.8,0.05,20,0,0
+2022,18,Japanese Grand Prix,ALB,Williams,16,14.4,0.67,0.85,0.8,0.05,20,0,0
+2022,19,United States Grand Prix,VER,Red Bull,2,2.2,16.33,0.65,0.65,0.05,1,1,1
+2022,19,United States Grand Prix,HAM,Mercedes,3,8.6,4.67,0.65,0.65,0.05,2,1,0
+2022,19,United States Grand Prix,LEC,Ferrari,12,3.2,10.0,0.65,0.65,0.05,3,1,0
+2022,19,United States Grand Prix,PER,Red Bull,9,3.2,22.67,0.65,0.65,0.05,4,0,0
+2022,19,United States Grand Prix,RUS,Mercedes,4,6.2,10.67,0.65,0.65,0.05,5,0,0
+2022,19,United States Grand Prix,NOR,McLaren,6,8.0,3.67,0.65,0.65,0.05,6,0,0
+2022,19,United States Grand Prix,ALO,Alpine F1 Team,14,11.6,6.0,0.65,0.65,0.05,7,0,0
+2022,19,United States Grand Prix,VET,Aston Martin,10,11.2,4.0,0.65,0.65,0.05,8,0,0
+2022,19,United States Grand Prix,MAG,Haas F1 Team,13,14.6,0.0,0.65,0.65,0.05,9,0,0
+2022,19,United States Grand Prix,TSU,AlphaTauri,19,16.0,0.0,0.65,0.65,0.05,10,0,0
+2022,19,United States Grand Prix,OCO,Alpine F1 Team,20,10.2,8.0,0.65,0.65,0.05,11,0,0
+2022,19,United States Grand Prix,ZHO,Alfa Romeo,18,15.2,0.0,0.65,0.65,0.05,12,0,0
+2022,19,United States Grand Prix,ALB,Williams,8,15.8,0.67,0.65,0.65,0.05,13,0,0
+2022,19,United States Grand Prix,GAS,AlphaTauri,11,11.2,0.33,0.65,0.65,0.05,14,0,0
+2022,19,United States Grand Prix,MSC,Haas F1 Team,16,14.4,0.67,0.65,0.65,0.05,15,0,0
+2022,19,United States Grand Prix,RIC,McLaren,15,13.6,3.0,0.65,0.65,0.05,16,0,0
+2022,19,United States Grand Prix,LAT,Williams,17,16.0,0.67,0.65,0.65,0.05,17,0,0
+2022,19,United States Grand Prix,STR,Aston Martin,5,11.8,4.0,0.65,0.65,0.05,20,0,0
+2022,19,United States Grand Prix,BOT,Alfa Romeo,7,15.8,0.0,0.65,0.65,0.05,20,0,0
+2022,19,United States Grand Prix,SAI,Ferrari,1,7.6,10.0,0.65,0.65,0.05,20,0,0
+2022,20,Mexico City Grand Prix,VER,Red Bull,1,2.2,18.33,0.95,0.6,0.05,1,1,1
+2022,20,Mexico City Grand Prix,HAM,Mercedes,3,5.0,11.0,0.95,0.6,0.05,2,1,0
+2022,20,Mexico City Grand Prix,PER,Red Bull,4,3.6,20.67,0.95,0.6,0.05,3,1,0
+2022,20,Mexico City Grand Prix,RUS,Mercedes,2,6.4,15.67,0.95,0.6,0.05,4,0,0
+2022,20,Mexico City Grand Prix,SAI,Ferrari,5,11.0,5.0,0.95,0.6,0.05,5,0,0
+2022,20,Mexico City Grand Prix,LEC,Ferrari,7,2.6,8.33,0.95,0.6,0.05,6,0,0
+2022,20,Mexico City Grand Prix,RIC,McLaren,11,13.8,2.67,0.95,0.6,0.05,7,0,0
+2022,20,Mexico City Grand Prix,OCO,Alpine F1 Team,10,11.0,4.0,0.95,0.6,0.05,8,0,0
+2022,20,Mexico City Grand Prix,NOR,McLaren,8,6.8,4.67,0.95,0.6,0.05,9,0,0
+2022,20,Mexico City Grand Prix,BOT,Alfa Romeo,6,15.8,0.0,0.95,0.6,0.05,10,0,0
+2022,20,Mexico City Grand Prix,GAS,AlphaTauri,14,12.2,0.33,0.95,0.6,0.05,11,0,0
+2022,20,Mexico City Grand Prix,ALB,Williams,17,15.0,0.0,0.95,0.6,0.05,12,0,0
+2022,20,Mexico City Grand Prix,ZHO,Alfa Romeo,12,14.8,0.33,0.95,0.6,0.05,13,0,0
+2022,20,Mexico City Grand Prix,VET,Aston Martin,16,11.2,1.33,0.95,0.6,0.05,14,0,0
+2022,20,Mexico City Grand Prix,STR,Aston Martin,20,13.6,1.33,0.95,0.6,0.05,15,0,0
+2022,20,Mexico City Grand Prix,MSC,Haas F1 Team,15,14.0,0.67,0.95,0.6,0.05,16,0,0
+2022,20,Mexico City Grand Prix,MAG,Haas F1 Team,19,13.2,0.67,0.95,0.6,0.05,17,0,0
+2022,20,Mexico City Grand Prix,LAT,Williams,18,15.8,0.0,0.95,0.6,0.05,18,0,0
+2022,20,Mexico City Grand Prix,ALO,Alpine F1 Team,9,12.0,3.33,0.95,0.6,0.05,19,0,0
+2022,20,Mexico City Grand Prix,TSU,AlphaTauri,13,15.4,0.33,0.95,0.6,0.05,20,0,0
+2022,21,São Paulo Grand Prix,RUS,Mercedes,1,6.8,14.0,0.65,0.65,0.05,1,1,1
+2022,21,São Paulo Grand Prix,HAM,Mercedes,2,4.6,19.0,0.65,0.65,0.05,2,1,0
+2022,21,São Paulo Grand Prix,SAI,Ferrari,7,10.4,6.0,0.65,0.65,0.05,3,1,0
+2022,21,São Paulo Grand Prix,LEC,Ferrari,5,3.2,11.0,0.65,0.65,0.05,4,0,0
+2022,21,São Paulo Grand Prix,ALO,Alpine F1 Team,17,14.6,1.33,0.65,0.65,0.05,5,0,0
+2022,21,São Paulo Grand Prix,VER,Red Bull,3,2.2,17.33,0.65,0.65,0.05,6,0,0
+2022,21,São Paulo Grand Prix,PER,Red Bull,4,3.2,16.0,0.65,0.65,0.05,7,0,0
+2022,21,São Paulo Grand Prix,OCO,Alpine F1 Team,16,10.8,4.67,0.65,0.65,0.05,8,0,0
+2022,21,São Paulo Grand Prix,BOT,Alfa Romeo,14,13.8,0.33,0.65,0.65,0.05,9,0,0
+2022,21,São Paulo Grand Prix,STR,Aston Martin,15,14.6,0.0,0.65,0.65,0.05,10,0,0
+2022,21,São Paulo Grand Prix,VET,Aston Martin,9,11.2,0.33,0.65,0.65,0.05,11,0,0
+2022,21,São Paulo Grand Prix,ZHO,Alfa Romeo,13,14.2,1.0,0.65,0.65,0.05,12,0,0
+2022,21,São Paulo Grand Prix,MSC,Haas F1 Team,12,14.6,0.0,0.65,0.65,0.05,13,0,0
+2022,21,São Paulo Grand Prix,GAS,AlphaTauri,10,12.2,0.0,0.65,0.65,0.05,14,0,0
+2022,21,São Paulo Grand Prix,ALB,Williams,19,15.4,0.0,0.65,0.65,0.05,15,0,0
+2022,21,São Paulo Grand Prix,LAT,Williams,18,15.8,0.0,0.65,0.65,0.05,16,0,0
+2022,21,São Paulo Grand Prix,TSU,AlphaTauri,20,15.4,0.0,0.65,0.65,0.05,17,0,0
+2022,21,São Paulo Grand Prix,NOR,McLaren,6,7.2,2.67,0.65,0.65,0.05,20,0,0
+2022,21,São Paulo Grand Prix,MAG,Haas F1 Team,8,13.6,0.0,0.65,0.65,0.05,20,0,0
+2022,21,São Paulo Grand Prix,RIC,McLaren,11,11.8,2.67,0.65,0.65,0.05,20,0,0
+2022,22,Abu Dhabi Grand Prix,VER,Red Bull,1,3.2,9.67,0.65,0.65,0.05,1,1,1
+2022,22,Abu Dhabi Grand Prix,LEC,Ferrari,3,3.6,11.67,0.65,0.65,0.05,2,1,0
+2022,22,Abu Dhabi Grand Prix,PER,Red Bull,2,3.4,13.0,0.65,0.65,0.05,3,1,0
+2022,22,Abu Dhabi Grand Prix,SAI,Ferrari,4,10.2,15.0,0.65,0.65,0.05,4,0,0
+2022,22,Abu Dhabi Grand Prix,RUS,Mercedes,6,6.4,19.0,0.65,0.65,0.05,5,0,0
+2022,22,Abu Dhabi Grand Prix,NOR,McLaren,7,9.8,0.67,0.65,0.65,0.05,6,0,0
+2022,22,Abu Dhabi Grand Prix,OCO,Alpine F1 Team,8,10.2,4.67,0.65,0.65,0.05,7,0,0
+2022,22,Abu Dhabi Grand Prix,STR,Aston Martin,14,12.6,0.33,0.65,0.65,0.05,8,0,0
+2022,22,Abu Dhabi Grand Prix,RIC,McLaren,13,11.8,3.0,0.65,0.65,0.05,9,0,0
+2022,22,Abu Dhabi Grand Prix,VET,Aston Martin,9,9.4,1.67,0.65,0.65,0.05,10,0,0
+2022,22,Abu Dhabi Grand Prix,TSU,AlphaTauri,11,16.0,0.0,0.65,0.65,0.05,11,0,0
+2022,22,Abu Dhabi Grand Prix,ZHO,Alfa Romeo,15,14.6,0.67,0.65,0.65,0.05,12,0,0
+2022,22,Abu Dhabi Grand Prix,ALB,Williams,19,16.0,0.0,0.65,0.65,0.05,13,0,0
+2022,22,Abu Dhabi Grand Prix,GAS,AlphaTauri,17,13.4,0.0,0.65,0.65,0.05,14,0,0
+2022,22,Abu Dhabi Grand Prix,BOT,Alfa Romeo,18,13.0,0.67,0.65,0.65,0.05,15,0,0
+2022,22,Abu Dhabi Grand Prix,MSC,Haas F1 Team,12,14.8,0.0,0.65,0.65,0.05,16,0,0
+2022,22,Abu Dhabi Grand Prix,MAG,Haas F1 Team,16,14.4,0.0,0.65,0.65,0.05,17,0,0
+2022,22,Abu Dhabi Grand Prix,HAM,Mercedes,5,4.0,18.0,0.65,0.65,0.05,18,0,0
+2022,22,Abu Dhabi Grand Prix,LAT,Williams,20,16.0,0.0,0.65,0.65,0.05,19,0,0
+2022,22,Abu Dhabi Grand Prix,ALO,Alpine F1 Team,10,11.6,6.67,0.65,0.65,0.05,20,0,0
+2023,1,Bahrain Grand Prix,VER,Red Bull,1,2.0,15.33,0.65,0.65,0.05,1,1,1
+2023,1,Bahrain Grand Prix,PER,Red Bull,2,3.8,21.67,0.65,0.65,0.05,2,1,0
+2023,1,Bahrain Grand Prix,ALO,Aston Martin,5,11.6,1.67,0.65,0.65,0.05,3,1,0
+2023,1,Bahrain Grand Prix,SAI,Ferrari,4,10.4,14.0,0.65,0.65,0.05,4,0,0
+2023,1,Bahrain Grand Prix,HAM,Mercedes,7,5.8,9.33,0.65,0.65,0.05,5,0,0
+2023,1,Bahrain Grand Prix,STR,Aston Martin,8,13.0,6.67,0.65,0.65,0.05,6,0,0
+2023,1,Bahrain Grand Prix,RUS,Mercedes,6,4.6,6.67,0.65,0.65,0.05,7,0,0
+2023,1,Bahrain Grand Prix,BOT,Alfa Romeo,12,13.8,0.0,0.65,0.65,0.05,8,0,0
+2023,1,Bahrain Grand Prix,GAS,Alpine F1 Team,20,14.2,3.33,0.65,0.65,0.05,9,0,0
+2023,1,Bahrain Grand Prix,ALB,Williams,15,14.6,0.0,0.65,0.65,0.05,10,0,0
+2023,1,Bahrain Grand Prix,TSU,AlphaTauri,14,14.2,0.0,0.65,0.65,0.05,11,0,0
+2023,1,Bahrain Grand Prix,SAR,Williams,16,16.0,0.33,0.65,0.65,0.05,12,0,0
+2023,1,Bahrain Grand Prix,MAG,Haas F1 Team,17,15.4,0.0,0.65,0.65,0.05,13,0,0
+2023,1,Bahrain Grand Prix,DEV,AlphaTauri,19,9.0,0.0,0.65,0.65,0.05,14,0,0
+2023,1,Bahrain Grand Prix,HUL,Haas F1 Team,10,14.5,0.0,0.65,0.65,0.05,15,0,0
+2023,1,Bahrain Grand Prix,ZHO,Alfa Romeo,13,13.0,1.33,0.65,0.65,0.05,16,0,0
+2023,1,Bahrain Grand Prix,NOR,McLaren,11,10.2,3.67,0.65,0.65,0.05,17,0,0
+2023,1,Bahrain Grand Prix,OCO,Alpine F1 Team,9,7.6,2.67,0.65,0.65,0.05,20,0,0
+2023,1,Bahrain Grand Prix,LEC,Ferrari,3,3.6,14.0,0.65,0.65,0.05,20,0,0
+2023,1,Bahrain Grand Prix,PIA,McLaren,18,18.0,3.67,0.65,0.65,0.05,20,0,0
+2023,2,Saudi Arabian Grand Prix,PER,Red Bull,1,3.8,19.33,0.4,0.5,0.05,1,1,1
+2023,2,Saudi Arabian Grand Prix,VER,Red Bull,15,2.0,22.67,0.4,0.5,0.05,2,1,0
+2023,2,Saudi Arabian Grand Prix,ALO,Aston Martin,2,10.8,8.0,0.4,0.5,0.05,3,1,0
+2023,2,Saudi Arabian Grand Prix,RUS,Mercedes,3,4.4,5.33,0.4,0.5,0.05,4,0,0
+2023,2,Saudi Arabian Grand Prix,HAM,Mercedes,7,5.8,9.33,0.4,0.5,0.05,5,0,0
+2023,2,Saudi Arabian Grand Prix,SAI,Ferrari,4,7.2,8.0,0.4,0.5,0.05,6,0,0
+2023,2,Saudi Arabian Grand Prix,LEC,Ferrari,12,7.0,6.67,0.4,0.5,0.05,7,0,0
+2023,2,Saudi Arabian Grand Prix,OCO,Alpine F1 Team,6,10.8,0.67,0.4,0.5,0.05,8,0,0
+2023,2,Saudi Arabian Grand Prix,GAS,Alpine F1 Team,9,12.4,2.0,0.4,0.5,0.05,9,0,0
+2023,2,Saudi Arabian Grand Prix,MAG,Haas F1 Team,13,15.2,0.0,0.4,0.5,0.05,10,0,0
+2023,2,Saudi Arabian Grand Prix,TSU,AlphaTauri,16,13.8,0.0,0.4,0.5,0.05,11,0,0
+2023,2,Saudi Arabian Grand Prix,HUL,Haas F1 Team,10,14.67,0.33,0.4,0.5,0.05,12,0,0
+2023,2,Saudi Arabian Grand Prix,ZHO,Alfa Romeo,11,13.0,1.33,0.4,0.5,0.05,13,0,0
+2023,2,Saudi Arabian Grand Prix,DEV,AlphaTauri,18,11.5,0.0,0.4,0.5,0.05,14,0,0
+2023,2,Saudi Arabian Grand Prix,PIA,McLaren,8,20.0,0.67,0.4,0.5,0.05,15,0,0
+2023,2,Saudi Arabian Grand Prix,SAR,Williams,20,12.0,0.33,0.4,0.5,0.05,16,0,0
+2023,2,Saudi Arabian Grand Prix,NOR,McLaren,19,11.6,0.0,0.4,0.5,0.05,17,0,0
+2023,2,Saudi Arabian Grand Prix,BOT,Alfa Romeo,14,12.4,1.33,0.4,0.5,0.05,18,0,0
+2023,2,Saudi Arabian Grand Prix,ALB,Williams,17,12.6,0.33,0.4,0.5,0.05,20,0,0
+2023,2,Saudi Arabian Grand Prix,STR,Aston Martin,5,11.8,12.67,0.4,0.5,0.05,20,0,0
+2023,3,Australian Grand Prix,VER,Red Bull,1,2.2,20.67,0.6,0.6,0.05,1,1,1
+2023,3,Australian Grand Prix,HAM,Mercedes,3,6.4,9.33,0.6,0.6,0.05,2,1,0
+2023,3,Australian Grand Prix,ALO,Aston Martin,4,10.0,7.67,0.6,0.6,0.05,3,1,0
+2023,3,Australian Grand Prix,STR,Aston Martin,6,11.8,10.0,0.6,0.6,0.05,4,0,0
+2023,3,Australian Grand Prix,PER,Red Bull,20,3.2,23.0,0.6,0.6,0.05,5,0,0
+2023,3,Australian Grand Prix,NOR,McLaren,13,13.8,0.0,0.6,0.6,0.05,6,0,0
+2023,3,Australian Grand Prix,HUL,Haas F1 Team,10,14.0,0.33,0.6,0.6,0.05,7,0,0
+2023,3,Australian Grand Prix,PIA,McLaren,16,17.5,2.67,0.6,0.6,0.05,8,0,0
+2023,3,Australian Grand Prix,ZHO,Alfa Romeo,17,13.2,0.0,0.6,0.6,0.05,9,0,0
+2023,3,Australian Grand Prix,TSU,AlphaTauri,12,14.0,0.0,0.6,0.6,0.05,10,0,0
+2023,3,Australian Grand Prix,BOT,Alfa Romeo,19,12.0,0.67,0.6,0.6,0.05,11,0,0
+2023,3,Australian Grand Prix,SAI,Ferrari,5,4.4,4.67,0.6,0.6,0.05,12,0,0
+2023,3,Australian Grand Prix,GAS,Alpine F1 Team,9,11.4,2.0,0.6,0.6,0.05,13,0,0
+2023,3,Australian Grand Prix,OCO,Alpine F1 Team,11,10.2,2.0,0.6,0.6,0.05,14,0,0
+2023,3,Australian Grand Prix,DEV,AlphaTauri,15,12.33,0.33,0.6,0.6,0.05,15,0,0
+2023,3,Australian Grand Prix,SAR,Williams,18,14.0,0.0,0.6,0.6,0.05,16,0,0
+2023,3,Australian Grand Prix,MAG,Haas F1 Team,14,15.4,2.33,0.6,0.6,0.05,17,0,0
+2023,3,Australian Grand Prix,RUS,Mercedes,2,4.2,13.33,0.6,0.6,0.05,20,0,0
+2023,3,Australian Grand Prix,ALB,Williams,8,14.0,0.0,0.6,0.6,0.05,20,0,0
+2023,3,Australian Grand Prix,LEC,Ferrari,7,7.8,4.67,0.6,0.6,0.05,20,0,0
+2023,4,Azerbaijan Grand Prix,PER,Red Bull,3,3.6,18.33,0.45,0.5,0.05,1,1,1
+2023,4,Azerbaijan Grand Prix,VER,Red Bull,2,2.2,20.33,0.45,0.5,0.05,2,1,0
+2023,4,Azerbaijan Grand Prix,LEC,Ferrari,1,10.6,2.0,0.45,0.5,0.05,3,1,0
+2023,4,Azerbaijan Grand Prix,ALO,Aston Martin,6,6.8,9.0,0.45,0.5,0.05,4,0,0
+2023,4,Azerbaijan Grand Prix,SAI,Ferrari,4,5.8,5.0,0.45,0.5,0.05,5,0,0
+2023,4,Azerbaijan Grand Prix,HAM,Mercedes,5,6.4,9.33,0.45,0.5,0.05,6,0,0
+2023,4,Azerbaijan Grand Prix,STR,Aston Martin,9,9.6,13.0,0.45,0.5,0.05,7,0,0
+2023,4,Azerbaijan Grand Prix,RUS,Mercedes,11,7.4,8.67,0.45,0.5,0.05,8,0,0
+2023,4,Azerbaijan Grand Prix,NOR,McLaren,7,13.2,4.0,0.45,0.5,0.05,9,0,0
+2023,4,Azerbaijan Grand Prix,TSU,AlphaTauri,8,12.0,0.33,0.45,0.5,0.05,10,0,0
+2023,4,Azerbaijan Grand Prix,PIA,McLaren,10,14.33,4.67,0.45,0.5,0.05,11,0,0
+2023,4,Azerbaijan Grand Prix,ALB,Williams,12,15.6,0.0,0.45,0.5,0.05,12,0,0
+2023,4,Azerbaijan Grand Prix,MAG,Haas F1 Team,16,15.4,2.0,0.45,0.5,0.05,13,0,0
+2023,4,Azerbaijan Grand Prix,GAS,Alpine F1 Team,17,11.8,0.67,0.45,0.5,0.05,14,0,0
+2023,4,Azerbaijan Grand Prix,OCO,Alpine F1 Team,19,11.4,0.0,0.45,0.5,0.05,15,0,0
+2023,4,Azerbaijan Grand Prix,SAR,Williams,14,14.67,0.0,0.45,0.5,0.05,16,0,0
+2023,4,Azerbaijan Grand Prix,HUL,Haas F1 Team,20,12.6,2.0,0.45,0.5,0.05,17,0,0
+2023,4,Azerbaijan Grand Prix,BOT,Alfa Romeo,13,12.2,0.67,0.45,0.5,0.05,18,0,0
+2023,4,Azerbaijan Grand Prix,ZHO,Alfa Romeo,15,12.4,0.67,0.45,0.5,0.05,20,0,0
+2023,4,Azerbaijan Grand Prix,DEV,AlphaTauri,18,13.0,0.67,0.45,0.5,0.05,20,0,0
+2023,5,Miami Grand Prix,VER,Red Bull,9,1.4,18.0,0.55,0.65,0.05,1,1,1
+2023,5,Miami Grand Prix,PER,Red Bull,1,2.4,23.0,0.55,0.65,0.05,2,1,0
+2023,5,Miami Grand Prix,ALO,Aston Martin,2,6.6,10.0,0.55,0.65,0.05,3,1,0
+2023,5,Miami Grand Prix,RUS,Mercedes,6,8.8,4.33,0.55,0.65,0.05,4,0,0
+2023,5,Miami Grand Prix,SAI,Ferrari,3,6.2,8.33,0.55,0.65,0.05,5,0,0
+2023,5,Miami Grand Prix,HAM,Mercedes,13,7.2,8.33,0.55,0.65,0.05,6,0,0
+2023,5,Miami Grand Prix,LEC,Ferrari,7,10.4,11.67,0.55,0.65,0.05,7,0,0
+2023,5,Miami Grand Prix,GAS,Alpine F1 Team,5,11.8,0.0,0.55,0.65,0.05,8,0,0
+2023,5,Miami Grand Prix,OCO,Alpine F1 Team,8,12.8,1.33,0.55,0.65,0.05,9,0,0
+2023,5,Miami Grand Prix,MAG,Haas F1 Team,4,14.0,0.0,0.55,0.65,0.05,10,0,0
+2023,5,Miami Grand Prix,TSU,AlphaTauri,17,10.6,0.33,0.55,0.65,0.05,11,0,0
+2023,5,Miami Grand Prix,STR,Aston Martin,18,9.0,11.0,0.55,0.65,0.05,12,0,0
+2023,5,Miami Grand Prix,BOT,Alfa Romeo,10,14.0,0.0,0.55,0.65,0.05,13,0,0
+2023,5,Miami Grand Prix,ALB,Williams,11,15.0,0.0,0.55,0.65,0.05,14,0,0
+2023,5,Miami Grand Prix,HUL,Haas F1 Team,12,12.6,0.33,0.55,0.65,0.05,15,0,0
+2023,5,Miami Grand Prix,ZHO,Alfa Romeo,14,14.0,0.0,0.55,0.65,0.05,16,0,0
+2023,5,Miami Grand Prix,NOR,McLaren,16,11.0,2.0,0.55,0.65,0.05,17,0,0
+2023,5,Miami Grand Prix,DEV,AlphaTauri,15,14.4,0.33,0.55,0.65,0.05,18,0,0
+2023,5,Miami Grand Prix,PIA,McLaren,19,13.5,0.67,0.55,0.65,0.05,19,0,0
+2023,5,Miami Grand Prix,SAR,Williams,20,15.0,0.0,0.55,0.65,0.05,20,0,0
+2023,6,Monaco Grand Prix,VER,Red Bull,1,1.4,20.67,0.98,0.3,0.05,1,1,1
+2023,6,Monaco Grand Prix,ALO,Aston Martin,2,3.2,7.0,0.98,0.3,0.05,2,1,0
+2023,6,Monaco Grand Prix,OCO,Alpine F1 Team,3,13.2,2.0,0.98,0.3,0.05,3,1,0
+2023,6,Monaco Grand Prix,HAM,Mercedes,5,4.8,8.33,0.98,0.3,0.05,4,0,0
+2023,6,Monaco Grand Prix,RUS,Mercedes,8,8.6,11.0,0.98,0.3,0.05,5,0,0
+2023,6,Monaco Grand Prix,LEC,Ferrari,6,11.4,8.67,0.98,0.3,0.05,6,0,0
+2023,6,Monaco Grand Prix,GAS,Alpine F1 Team,7,10.6,7.0,0.98,0.3,0.05,7,0,0
+2023,6,Monaco Grand Prix,SAI,Ferrari,4,6.4,8.0,0.98,0.3,0.05,8,0,0
+2023,6,Monaco Grand Prix,NOR,McLaren,10,13.2,0.0,0.98,0.3,0.05,9,0,0
+2023,6,Monaco Grand Prix,PIA,McLaren,11,14.6,0.67,0.98,0.3,0.05,10,0,0
+2023,6,Monaco Grand Prix,BOT,Alfa Romeo,15,13.6,0.0,0.98,0.3,0.05,11,0,0
+2023,6,Monaco Grand Prix,DEV,AlphaTauri,12,16.2,0.0,0.98,0.3,0.05,12,0,0
+2023,6,Monaco Grand Prix,ZHO,Alfa Romeo,19,14.8,0.0,0.98,0.3,0.05,13,0,0
+2023,6,Monaco Grand Prix,ALB,Williams,13,15.2,0.0,0.98,0.3,0.05,14,0,0
+2023,6,Monaco Grand Prix,TSU,AlphaTauri,9,10.6,0.0,0.98,0.3,0.05,15,0,0
+2023,6,Monaco Grand Prix,PER,Red Bull,20,2.2,23.0,0.98,0.3,0.05,16,0,0
+2023,6,Monaco Grand Prix,HUL,Haas F1 Team,18,13.2,0.33,0.98,0.3,0.05,17,0,0
+2023,6,Monaco Grand Prix,SAR,Williams,16,16.0,0.0,0.98,0.3,0.05,18,0,0
+2023,6,Monaco Grand Prix,MAG,Haas F1 Team,17,12.6,0.33,0.98,0.3,0.05,19,0,0
+2023,6,Monaco Grand Prix,STR,Aston Martin,14,9.8,11.0,0.98,0.3,0.05,20,0,0
+2023,7,Spanish Grand Prix,VER,Red Bull,1,1.4,14.33,0.6,0.75,0.05,1,1,1
+2023,7,Spanish Grand Prix,HAM,Mercedes,4,4.6,10.33,0.6,0.75,0.05,2,1,0
+2023,7,Spanish Grand Prix,RUS,Mercedes,12,8.2,13.67,0.6,0.75,0.05,3,1,0
+2023,7,Spanish Grand Prix,PER,Red Bull,11,5.0,17.0,0.6,0.75,0.05,4,0,0
+2023,7,Spanish Grand Prix,SAI,Ferrari,2,7.2,6.0,0.6,0.75,0.05,5,0,0
+2023,7,Spanish Grand Prix,STR,Aston Martin,5,12.6,6.0,0.6,0.75,0.05,6,0,0
+2023,7,Spanish Grand Prix,ALO,Aston Martin,8,3.0,8.67,0.6,0.75,0.05,7,0,0
+2023,7,Spanish Grand Prix,OCO,Alpine F1 Team,6,9.8,7.67,0.6,0.75,0.05,8,0,0
+2023,7,Spanish Grand Prix,ZHO,Alfa Romeo,13,14.2,0.0,0.6,0.75,0.05,9,0,0
+2023,7,Spanish Grand Prix,GAS,Alpine F1 Team,10,10.2,8.33,0.6,0.75,0.05,10,0,0
+2023,7,Spanish Grand Prix,LEC,Ferrari,19,8.6,7.33,0.6,0.75,0.05,11,0,0
+2023,7,Spanish Grand Prix,TSU,AlphaTauri,15,11.4,0.0,0.6,0.75,0.05,12,0,0
+2023,7,Spanish Grand Prix,PIA,McLaren,9,12.6,1.0,0.6,0.75,0.05,13,0,0
+2023,7,Spanish Grand Prix,DEV,AlphaTauri,14,15.8,0.0,0.6,0.75,0.05,14,0,0
+2023,7,Spanish Grand Prix,HUL,Haas F1 Team,7,13.6,0.0,0.6,0.75,0.05,15,0,0
+2023,7,Spanish Grand Prix,ALB,Williams,18,16.0,0.0,0.6,0.75,0.05,16,0,0
+2023,7,Spanish Grand Prix,NOR,McLaren,3,11.6,1.0,0.6,0.75,0.05,17,0,0
+2023,7,Spanish Grand Prix,MAG,Haas F1 Team,17,13.8,0.0,0.6,0.75,0.05,18,0,0
+2023,7,Spanish Grand Prix,BOT,Alfa Romeo,16,14.2,0.67,0.6,0.75,0.05,19,0,0
+2023,7,Spanish Grand Prix,SAR,Williams,20,17.2,0.0,0.6,0.75,0.05,20,0,0
+2023,8,Canadian Grand Prix,VER,Red Bull,1,1.2,12.67,0.65,0.65,0.05,1,1,1
+2023,8,Canadian Grand Prix,ALO,Aston Martin,2,3.8,4.67,0.65,0.65,0.05,2,1,0
+2023,8,Canadian Grand Prix,HAM,Mercedes,3,4.0,14.33,0.65,0.65,0.05,3,1,0
+2023,8,Canadian Grand Prix,LEC,Ferrari,10,9.4,4.67,0.65,0.65,0.05,4,0,0
+2023,8,Canadian Grand Prix,SAI,Ferrari,11,7.0,7.33,0.65,0.65,0.05,5,0,0
+2023,8,Canadian Grand Prix,PER,Red Bull,12,5.6,21.0,0.65,0.65,0.05,6,0,0
+2023,8,Canadian Grand Prix,ALB,Williams,9,15.2,0.0,0.65,0.65,0.05,7,0,0
+2023,8,Canadian Grand Prix,OCO,Alpine F1 Team,6,9.8,3.67,0.65,0.65,0.05,8,0,0
+2023,8,Canadian Grand Prix,STR,Aston Martin,16,9.8,10.67,0.65,0.65,0.05,9,0,0
+2023,8,Canadian Grand Prix,BOT,Alfa Romeo,14,14.4,0.67,0.65,0.65,0.05,10,0,0
+2023,8,Canadian Grand Prix,PIA,McLaren,8,12.2,0.33,0.65,0.65,0.05,11,0,0
+2023,8,Canadian Grand Prix,GAS,Alpine F1 Team,15,10.4,3.0,0.65,0.65,0.05,12,0,0
+2023,8,Canadian Grand Prix,NOR,McLaren,7,11.6,0.0,0.65,0.65,0.05,13,0,0
+2023,8,Canadian Grand Prix,TSU,AlphaTauri,19,11.6,0.0,0.65,0.65,0.05,14,0,0
+2023,8,Canadian Grand Prix,HUL,Haas F1 Team,5,14.2,0.0,0.65,0.65,0.05,15,0,0
+2023,8,Canadian Grand Prix,ZHO,Alfa Romeo,20,13.4,1.0,0.65,0.65,0.05,16,0,0
+2023,8,Canadian Grand Prix,MAG,Haas F1 Team,13,15.4,0.0,0.65,0.65,0.05,17,0,0
+2023,8,Canadian Grand Prix,DEV,AlphaTauri,17,15.8,0.0,0.65,0.65,0.05,18,0,0
+2023,8,Canadian Grand Prix,RUS,Mercedes,4,8.0,16.0,0.65,0.65,0.05,20,0,0
+2023,8,Canadian Grand Prix,SAR,Williams,18,18.0,2.0,0.65,0.65,0.05,20,0,0
+2023,9,Austrian Grand Prix,VER,Red Bull,1,1.2,15.33,0.5,0.7,0.05,1,1,1
+2023,9,Austrian Grand Prix,LEC,Ferrari,2,6.2,7.33,0.5,0.7,0.05,2,1,0
+2023,9,Austrian Grand Prix,PER,Red Bull,15,5.8,20.0,0.5,0.7,0.05,3,1,0
+2023,9,Austrian Grand Prix,NOR,McLaren,4,13.0,0.0,0.5,0.7,0.05,4,0,0
+2023,9,Austrian Grand Prix,ALO,Aston Martin,7,3.6,8.67,0.5,0.7,0.05,5,0,0
+2023,9,Austrian Grand Prix,SAI,Ferrari,3,5.6,13.33,0.5,0.7,0.05,6,0,0
+2023,9,Austrian Grand Prix,RUS,Mercedes,11,8.0,10.0,0.5,0.7,0.05,7,0,0
+2023,9,Austrian Grand Prix,HAM,Mercedes,5,4.2,7.0,0.5,0.7,0.05,8,0,0
+2023,9,Austrian Grand Prix,STR,Aston Martin,6,10.8,10.0,0.5,0.7,0.05,9,0,0
+2023,9,Austrian Grand Prix,GAS,Alpine F1 Team,9,10.2,1.67,0.5,0.7,0.05,10,0,0
+2023,9,Austrian Grand Prix,ALB,Williams,10,12.6,2.0,0.5,0.7,0.05,11,0,0
+2023,9,Austrian Grand Prix,ZHO,Alfa Romeo,17,14.8,0.33,0.5,0.7,0.05,12,0,0
+2023,9,Austrian Grand Prix,SAR,Williams,18,18.8,2.0,0.5,0.7,0.05,13,0,0
+2023,9,Austrian Grand Prix,OCO,Alpine F1 Team,12,8.6,1.67,0.5,0.7,0.05,14,0,0
+2023,9,Austrian Grand Prix,BOT,Alfa Romeo,14,14.2,0.33,0.5,0.7,0.05,15,0,0
+2023,9,Austrian Grand Prix,PIA,McLaren,13,12.8,4.0,0.5,0.7,0.05,16,0,0
+2023,9,Austrian Grand Prix,DEV,AlphaTauri,20,16.4,0.0,0.5,0.7,0.05,17,0,0
+2023,9,Austrian Grand Prix,MAG,Haas F1 Team,19,15.4,0.0,0.5,0.7,0.05,18,0,0
+2023,9,Austrian Grand Prix,TSU,AlphaTauri,16,12.4,0.0,0.5,0.7,0.05,19,0,0
+2023,9,Austrian Grand Prix,HUL,Haas F1 Team,8,15.8,0.0,0.5,0.7,0.05,20,0,0
+2023,10,British Grand Prix,VER,Red Bull,1,1.0,16.67,0.75,0.8,0.05,1,1,1
+2023,10,British Grand Prix,NOR,McLaren,2,12.0,4.0,0.75,0.8,0.05,2,1,0
+2023,10,British Grand Prix,HAM,Mercedes,7,4.6,3.33,0.75,0.8,0.05,3,1,0
+2023,10,British Grand Prix,PIA,McLaren,3,13.8,10.0,0.75,0.8,0.05,4,0,0
+2023,10,British Grand Prix,RUS,Mercedes,6,7.8,8.33,0.75,0.8,0.05,5,0,0
+2023,10,British Grand Prix,PER,Red Bull,15,6.2,22.33,0.75,0.8,0.05,6,0,0
+2023,10,British Grand Prix,ALO,Aston Martin,9,3.8,4.67,0.75,0.8,0.05,7,0,0
+2023,10,British Grand Prix,ALB,Williams,8,12.4,0.0,0.75,0.8,0.05,8,0,0
+2023,10,British Grand Prix,LEC,Ferrari,4,6.0,12.0,0.75,0.8,0.05,9,0,0
+2023,10,British Grand Prix,SAI,Ferrari,5,5.8,9.33,0.75,0.8,0.05,10,0,0
+2023,10,British Grand Prix,SAR,Williams,14,18.2,1.33,0.75,0.8,0.05,11,0,0
+2023,10,British Grand Prix,BOT,Alfa Romeo,20,13.6,0.0,0.75,0.8,0.05,12,0,0
+2023,10,British Grand Prix,HUL,Haas F1 Team,11,16.4,0.0,0.75,0.8,0.05,13,0,0
+2023,10,British Grand Prix,STR,Aston Martin,12,11.2,6.0,0.75,0.8,0.05,14,0,0
+2023,10,British Grand Prix,ZHO,Alfa Romeo,17,13.2,0.0,0.75,0.8,0.05,15,0,0
+2023,10,British Grand Prix,TSU,AlphaTauri,16,14.2,0.0,0.75,0.8,0.05,16,0,0
+2023,10,British Grand Prix,DEV,AlphaTauri,18,15.8,0.0,0.75,0.8,0.05,17,0,0
+2023,10,British Grand Prix,GAS,Alpine F1 Team,10,9.4,0.33,0.75,0.8,0.05,18,0,0
+2023,10,British Grand Prix,MAG,Haas F1 Team,19,16.4,0.0,0.75,0.8,0.05,20,0,0
+2023,10,British Grand Prix,OCO,Alpine F1 Team,13,8.4,0.33,0.75,0.8,0.05,20,0,0
+2023,11,Hungarian Grand Prix,VER,Red Bull,2,1.0,16.33,0.9,0.65,0.05,1,1,1
+2023,11,Hungarian Grand Prix,NOR,McLaren,3,9.0,10.0,0.9,0.65,0.05,2,1,0
+2023,11,Hungarian Grand Prix,PER,Red Bull,9,7.0,20.0,0.9,0.65,0.05,3,1,0
+2023,11,Hungarian Grand Prix,HAM,Mercedes,1,4.0,9.67,0.9,0.65,0.05,4,0,0
+2023,11,Hungarian Grand Prix,PIA,McLaren,4,10.8,16.0,0.9,0.65,0.05,5,0,0
+2023,11,Hungarian Grand Prix,RUS,Mercedes,18,8.0,12.33,0.9,0.65,0.05,6,0,0
+2023,11,Hungarian Grand Prix,LEC,Ferrari,6,6.4,3.67,0.9,0.65,0.05,7,0,0
+2023,11,Hungarian Grand Prix,SAI,Ferrari,11,6.8,3.0,0.9,0.65,0.05,8,0,0
+2023,11,Hungarian Grand Prix,ALO,Aston Martin,8,4.6,2.67,0.9,0.65,0.05,9,0,0
+2023,11,Hungarian Grand Prix,STR,Aston Martin,14,11.6,2.67,0.9,0.65,0.05,10,0,0
+2023,11,Hungarian Grand Prix,ALB,Williams,16,11.2,1.33,0.9,0.65,0.05,11,0,0
+2023,11,Hungarian Grand Prix,BOT,Alfa Romeo,7,13.4,0.0,0.9,0.65,0.05,12,0,0
+2023,11,Hungarian Grand Prix,RIC,AlphaTauri,13,12.6,0.0,0.9,0.65,0.05,13,0,0
+2023,11,Hungarian Grand Prix,HUL,Haas F1 Team,10,16.0,0.0,0.9,0.65,0.05,14,0,0
+2023,11,Hungarian Grand Prix,TSU,AlphaTauri,17,15.2,0.0,0.9,0.65,0.05,15,0,0
+2023,11,Hungarian Grand Prix,ZHO,Alfa Romeo,5,13.0,0.0,0.9,0.65,0.05,16,0,0
+2023,11,Hungarian Grand Prix,MAG,Haas F1 Team,19,18.4,0.0,0.9,0.65,0.05,17,0,0
+2023,11,Hungarian Grand Prix,SAR,Williams,20,16.4,1.33,0.9,0.65,0.05,18,0,0
+2023,11,Hungarian Grand Prix,OCO,Alpine F1 Team,12,10.6,0.0,0.9,0.65,0.05,20,0,0
+2023,11,Hungarian Grand Prix,GAS,Alpine F1 Team,15,11.4,0.0,0.9,0.65,0.05,20,0,0
+2023,12,Belgian Grand Prix,VER,Red Bull,6,1.0,16.33,0.6,0.75,0.05,1,1,1
+2023,12,Belgian Grand Prix,PER,Red Bull,2,4.4,22.0,0.6,0.75,0.05,2,1,0
+2023,12,Belgian Grand Prix,LEC,Ferrari,1,6.6,3.67,0.6,0.75,0.05,3,1,0
+2023,12,Belgian Grand Prix,HAM,Mercedes,3,4.0,10.0,0.6,0.75,0.05,4,0,0
+2023,12,Belgian Grand Prix,ALO,Aston Martin,9,6.0,1.0,0.6,0.75,0.05,5,0,0
+2023,12,Belgian Grand Prix,RUS,Mercedes,8,8.2,11.0,0.6,0.75,0.05,6,0,0
+2023,12,Belgian Grand Prix,NOR,McLaren,7,7.6,13.33,0.6,0.75,0.05,7,0,0
+2023,12,Belgian Grand Prix,OCO,Alpine F1 Team,14,14.0,0.0,0.6,0.75,0.05,8,0,0
+2023,12,Belgian Grand Prix,STR,Aston Martin,10,9.6,4.33,0.6,0.75,0.05,9,0,0
+2023,12,Belgian Grand Prix,TSU,AlphaTauri,11,15.2,0.0,0.6,0.75,0.05,10,0,0
+2023,12,Belgian Grand Prix,GAS,Alpine F1 Team,12,14.0,1.33,0.6,0.75,0.05,11,0,0
+2023,12,Belgian Grand Prix,BOT,Alfa Romeo,13,13.6,0.0,0.6,0.75,0.05,12,0,0
+2023,12,Belgian Grand Prix,ZHO,Alfa Romeo,17,13.6,0.0,0.6,0.75,0.05,13,0,0
+2023,12,Belgian Grand Prix,ALB,Williams,15,10.6,0.0,0.6,0.75,0.05,14,0,0
+2023,12,Belgian Grand Prix,MAG,Haas F1 Team,16,18.0,0.0,0.6,0.75,0.05,15,0,0
+2023,12,Belgian Grand Prix,RIC,AlphaTauri,19,13.0,0.33,0.6,0.75,0.05,16,0,0
+2023,12,Belgian Grand Prix,SAR,Williams,18,16.4,0.0,0.6,0.75,0.05,17,0,0
+2023,12,Belgian Grand Prix,HUL,Haas F1 Team,20,15.4,0.0,0.6,0.75,0.05,18,0,0
+2023,12,Belgian Grand Prix,SAI,Ferrari,4,6.8,8.33,0.6,0.75,0.05,20,0,0
+2023,12,Belgian Grand Prix,PIA,McLaren,5,9.8,11.33,0.6,0.75,0.05,20,0,0
+2023,13,Dutch Grand Prix,VER,Red Bull,1,1.0,19.33,0.88,0.7,0.05,1,1,1
+2023,13,Dutch Grand Prix,ALO,Aston Martin,5,5.6,4.33,0.88,0.7,0.05,2,1,0
+2023,13,Dutch Grand Prix,GAS,Alpine F1 Team,12,14.2,1.33,0.88,0.7,0.05,3,1,0
+2023,13,Dutch Grand Prix,PER,Red Bull,7,4.0,22.67,0.88,0.7,0.05,4,0,0
+2023,13,Dutch Grand Prix,SAI,Ferrari,6,9.8,6.33,0.88,0.7,0.05,5,0,0
+2023,13,Dutch Grand Prix,HAM,Mercedes,13,4.4,9.67,0.88,0.7,0.05,6,0,0
+2023,13,Dutch Grand Prix,NOR,McLaren,2,5.6,5.33,0.88,0.7,0.05,7,0,0
+2023,13,Dutch Grand Prix,ALB,Williams,4,10.2,0.0,0.88,0.7,0.05,8,0,0
+2023,13,Dutch Grand Prix,PIA,McLaren,8,11.2,4.0,0.88,0.7,0.05,9,0,0
+2023,13,Dutch Grand Prix,OCO,Alpine F1 Team,16,14.0,6.33,0.88,0.7,0.05,10,0,0
+2023,13,Dutch Grand Prix,STR,Aston Martin,11,10.2,10.33,0.88,0.7,0.05,11,0,0
+2023,13,Dutch Grand Prix,HUL,Haas F1 Team,14,16.0,0.0,0.88,0.7,0.05,12,0,0
+2023,13,Dutch Grand Prix,LAW,AlphaTauri,19,19.0,0.33,0.88,0.7,0.05,13,0,0
+2023,13,Dutch Grand Prix,BOT,Alfa Romeo,18,12.2,0.0,0.88,0.7,0.05,14,0,0
+2023,13,Dutch Grand Prix,TSU,AlphaTauri,17,14.8,0.33,0.88,0.7,0.05,15,0,0
+2023,13,Dutch Grand Prix,MAG,Haas F1 Team,20,17.4,0.0,0.88,0.7,0.05,16,0,0
+2023,13,Dutch Grand Prix,RUS,Mercedes,3,8.8,9.67,0.88,0.7,0.05,17,0,0
+2023,13,Dutch Grand Prix,ZHO,Alfa Romeo,15,14.4,0.0,0.88,0.7,0.05,20,0,0
+2023,13,Dutch Grand Prix,LEC,Ferrari,9,5.0,8.33,0.88,0.7,0.05,20,0,0
+2023,13,Dutch Grand Prix,SAR,Williams,10,15.8,1.33,0.88,0.7,0.05,20,0,0
+2023,14,Italian Grand Prix,VER,Red Bull,2,1.0,18.33,0.2,0.5,0.05,1,1,1
+2023,14,Italian Grand Prix,PER,Red Bull,5,3.6,20.67,0.2,0.5,0.05,2,1,0
+2023,14,Italian Grand Prix,SAI,Ferrari,1,9.8,3.33,0.2,0.5,0.05,3,1,0
+2023,14,Italian Grand Prix,LEC,Ferrari,3,8.2,8.33,0.2,0.5,0.05,4,0,0
+2023,14,Italian Grand Prix,RUS,Mercedes,4,8.2,5.33,0.2,0.5,0.05,5,0,0
+2023,14,Italian Grand Prix,HAM,Mercedes,8,5.0,6.0,0.2,0.5,0.05,6,0,0
+2023,14,Italian Grand Prix,ALB,Williams,6,10.4,1.33,0.2,0.5,0.05,7,0,0
+2023,14,Italian Grand Prix,NOR,McLaren,9,4.4,2.67,0.2,0.5,0.05,8,0,0
+2023,14,Italian Grand Prix,ALO,Aston Martin,10,5.6,7.0,0.2,0.5,0.05,9,0,0
+2023,14,Italian Grand Prix,BOT,Alfa Romeo,14,13.0,0.0,0.2,0.5,0.05,10,0,0
+2023,14,Italian Grand Prix,LAW,AlphaTauri,12,13.0,0.0,0.2,0.5,0.05,11,0,0
+2023,14,Italian Grand Prix,PIA,McLaren,7,10.8,4.0,0.2,0.5,0.05,12,0,0
+2023,14,Italian Grand Prix,SAR,Williams,15,15.8,3.33,0.2,0.5,0.05,13,0,0
+2023,14,Italian Grand Prix,ZHO,Alfa Romeo,16,15.2,0.33,0.2,0.5,0.05,14,0,0
+2023,14,Italian Grand Prix,GAS,Alpine F1 Team,17,12.4,5.33,0.2,0.5,0.05,15,0,0
+2023,14,Italian Grand Prix,STR,Aston Martin,20,10.6,7.0,0.2,0.5,0.05,16,0,0
+2023,14,Italian Grand Prix,HUL,Haas F1 Team,13,15.4,0.0,0.2,0.5,0.05,17,0,0
+2023,14,Italian Grand Prix,MAG,Haas F1 Team,19,17.2,0.0,0.2,0.5,0.05,18,0,0
+2023,14,Italian Grand Prix,OCO,Alpine F1 Team,18,14.4,5.33,0.2,0.5,0.05,20,0,0
+2023,14,Italian Grand Prix,TSU,AlphaTauri,11,15.0,0.0,0.2,0.5,0.05,20,0,0
+2023,15,Singapore Grand Prix,SAI,Ferrari,1,9.2,9.0,0.9,0.85,0.05,1,1,1
+2023,15,Singapore Grand Prix,NOR,McLaren,4,5.2,2.0,0.9,0.85,0.05,2,1,0
+2023,15,Singapore Grand Prix,HAM,Mercedes,5,4.6,6.0,0.9,0.85,0.05,3,1,0
+2023,15,Singapore Grand Prix,LEC,Ferrari,3,8.6,17.33,0.9,0.85,0.05,4,0,0
+2023,15,Singapore Grand Prix,VER,Red Bull,11,1.0,18.33,0.9,0.85,0.05,5,0,0
+2023,15,Singapore Grand Prix,GAS,Alpine F1 Team,12,13.4,0.33,0.9,0.85,0.05,6,0,0
+2023,15,Singapore Grand Prix,PIA,McLaren,17,10.0,7.33,0.9,0.85,0.05,7,0,0
+2023,15,Singapore Grand Prix,PER,Red Bull,13,3.4,17.67,0.9,0.85,0.05,8,0,0
+2023,15,Singapore Grand Prix,LAW,AlphaTauri,10,12.0,0.0,0.9,0.85,0.05,9,0,0
+2023,15,Singapore Grand Prix,MAG,Haas F1 Team,6,17.2,0.0,0.9,0.85,0.05,10,0,0
+2023,15,Singapore Grand Prix,ALB,Williams,14,9.6,2.0,0.9,0.85,0.05,11,0,0
+2023,15,Singapore Grand Prix,ZHO,Alfa Romeo,19,15.6,0.33,0.9,0.85,0.05,12,0,0
+2023,15,Singapore Grand Prix,HUL,Haas F1 Team,9,14.8,0.33,0.9,0.85,0.05,13,0,0
+2023,15,Singapore Grand Prix,SAR,Williams,18,15.8,2.0,0.9,0.85,0.05,14,0,0
+2023,15,Singapore Grand Prix,ALO,Aston Martin,7,6.4,0.67,0.9,0.85,0.05,15,0,0
+2023,15,Singapore Grand Prix,RUS,Mercedes,2,7.8,11.33,0.9,0.85,0.05,16,0,0
+2023,15,Singapore Grand Prix,BOT,Alfa Romeo,16,12.0,0.33,0.9,0.85,0.05,20,0,0
+2023,15,Singapore Grand Prix,OCO,Alpine F1 Team,8,15.6,2.67,0.9,0.85,0.05,20,0,0
+2023,15,Singapore Grand Prix,TSU,AlphaTauri,15,15.2,0.67,0.9,0.85,0.05,20,0,0
+2023,15,Singapore Grand Prix,STR,Aston Martin,20,12.0,0.67,0.9,0.85,0.05,20,0,0
+2023,16,Japanese Grand Prix,VER,Red Bull,1,1.8,10.67,0.85,0.8,0.05,1,1,1
+2023,16,Japanese Grand Prix,NOR,McLaren,3,5.2,8.0,0.85,0.8,0.05,2,1,0
+2023,16,Japanese Grand Prix,PIA,McLaren,2,10.6,14.0,0.85,0.8,0.05,3,1,0
+2023,16,Japanese Grand Prix,LEC,Ferrari,4,7.6,16.33,0.85,0.8,0.05,4,0,0
+2023,16,Japanese Grand Prix,HAM,Mercedes,7,4.6,8.0,0.85,0.8,0.05,5,0,0
+2023,16,Japanese Grand Prix,SAI,Ferrari,6,7.4,16.33,0.85,0.8,0.05,6,0,0
+2023,16,Japanese Grand Prix,RUS,Mercedes,8,10.0,8.67,0.85,0.8,0.05,7,0,0
+2023,16,Japanese Grand Prix,ALO,Aston Martin,10,8.0,0.0,0.85,0.8,0.05,8,0,0
+2023,16,Japanese Grand Prix,OCO,Alpine F1 Team,14,15.6,2.67,0.85,0.8,0.05,9,0,0
+2023,16,Japanese Grand Prix,GAS,Alpine F1 Team,12,11.0,3.33,0.85,0.8,0.05,10,0,0
+2023,16,Japanese Grand Prix,LAW,AlphaTauri,11,11.0,0.67,0.85,0.8,0.05,11,0,0
+2023,16,Japanese Grand Prix,TSU,AlphaTauri,9,16.0,0.67,0.85,0.8,0.05,12,0,0
+2023,16,Japanese Grand Prix,ZHO,Alfa Romeo,19,15.0,0.0,0.85,0.8,0.05,13,0,0
+2023,16,Japanese Grand Prix,HUL,Haas F1 Team,18,14.8,0.33,0.85,0.8,0.05,14,0,0
+2023,16,Japanese Grand Prix,MAG,Haas F1 Team,15,15.2,0.33,0.85,0.8,0.05,15,0,0
+2023,16,Japanese Grand Prix,ALB,Williams,13,10.2,0.0,0.85,0.8,0.05,20,0,0
+2023,16,Japanese Grand Prix,SAR,Williams,20,16.4,0.0,0.85,0.8,0.05,20,0,0
+2023,16,Japanese Grand Prix,STR,Aston Martin,17,13.2,1.33,0.85,0.8,0.05,20,0,0
+2023,16,Japanese Grand Prix,PER,Red Bull,5,3.8,13.33,0.85,0.8,0.05,20,0,0
+2023,16,Japanese Grand Prix,BOT,Alfa Romeo,16,13.6,0.0,0.85,0.8,0.05,20,0,0
+2023,17,Qatar Grand Prix,VER,Red Bull,1,1.8,10.0,0.8,0.9,0.05,1,1,1
+2023,17,Qatar Grand Prix,PIA,McLaren,6,10.2,13.0,0.8,0.9,0.05,2,1,0
+2023,17,Qatar Grand Prix,NOR,McLaren,10,5.2,17.0,0.8,0.9,0.05,3,1,0
+2023,17,Qatar Grand Prix,RUS,Mercedes,2,10.2,5.33,0.8,0.9,0.05,4,0,0
+2023,17,Qatar Grand Prix,LEC,Ferrari,5,7.0,10.67,0.8,0.9,0.05,5,0,0
+2023,17,Qatar Grand Prix,ALO,Aston Martin,4,7.8,1.33,0.8,0.9,0.05,6,0,0
+2023,17,Qatar Grand Prix,OCO,Alpine F1 Team,8,13.4,1.0,0.8,0.9,0.05,7,0,0
+2023,17,Qatar Grand Prix,BOT,Alfa Romeo,9,15.2,0.0,0.8,0.9,0.05,8,0,0
+2023,17,Qatar Grand Prix,ZHO,Alfa Romeo,19,14.4,1.33,0.8,0.9,0.05,9,0,0
+2023,17,Qatar Grand Prix,PER,Red Bull,20,7.2,17.33,0.8,0.9,0.05,10,0,0
+2023,17,Qatar Grand Prix,STR,Aston Martin,16,15.2,4.0,0.8,0.9,0.05,11,0,0
+2023,17,Qatar Grand Prix,GAS,Alpine F1 Team,7,9.0,3.0,0.8,0.9,0.05,12,0,0
+2023,17,Qatar Grand Prix,ALB,Williams,13,12.0,0.0,0.8,0.9,0.05,13,0,0
+2023,17,Qatar Grand Prix,MAG,Haas F1 Team,18,14.8,0.0,0.8,0.9,0.05,14,0,0
+2023,17,Qatar Grand Prix,TSU,AlphaTauri,11,15.4,0.0,0.8,0.9,0.05,15,0,0
+2023,17,Qatar Grand Prix,HUL,Haas F1 Team,14,14.8,0.0,0.8,0.9,0.05,16,0,0
+2023,17,Qatar Grand Prix,LAW,AlphaTauri,17,11.0,0.0,0.8,0.9,0.05,17,0,0
+2023,17,Qatar Grand Prix,SAR,Williams,15,16.8,0.0,0.8,0.9,0.05,20,0,0
+2023,17,Qatar Grand Prix,HAM,Mercedes,3,4.8,9.33,0.8,0.9,0.05,20,0,0
+2023,17,Qatar Grand Prix,SAI,Ferrari,12,7.0,10.0,0.8,0.9,0.05,20,0,0
+2023,18,United States Grand Prix,VER,Red Bull,6,1.8,9.0,0.65,0.65,0.05,1,1,1
+2023,18,United States Grand Prix,NOR,McLaren,2,4.4,16.0,0.65,0.65,0.05,2,1,0
+2023,18,United States Grand Prix,SAI,Ferrari,4,7.0,6.0,0.65,0.65,0.05,3,1,0
+2023,18,United States Grand Prix,PER,Red Bull,9,8.8,17.33,0.65,0.65,0.05,4,0,0
+2023,18,United States Grand Prix,RUS,Mercedes,5,9.8,6.0,0.65,0.65,0.05,5,0,0
+2023,18,United States Grand Prix,GAS,Alpine F1 Team,7,9.2,2.33,0.65,0.65,0.05,6,0,0
+2023,18,United States Grand Prix,STR,Aston Martin,20,15.6,2.67,0.65,0.65,0.05,7,0,0
+2023,18,United States Grand Prix,TSU,AlphaTauri,11,16.4,0.0,0.65,0.65,0.05,8,0,0
+2023,18,United States Grand Prix,ALB,Williams,15,11.8,0.0,0.65,0.65,0.05,9,0,0
+2023,18,United States Grand Prix,SAR,Williams,16,17.4,0.67,0.65,0.65,0.05,10,0,0
+2023,18,United States Grand Prix,HUL,Haas F1 Team,18,14.4,0.0,0.65,0.65,0.05,11,0,0
+2023,18,United States Grand Prix,BOT,Alfa Romeo,13,14.4,2.0,0.65,0.65,0.05,12,0,0
+2023,18,United States Grand Prix,ZHO,Alfa Romeo,12,13.6,2.0,0.65,0.65,0.05,13,0,0
+2023,18,United States Grand Prix,MAG,Haas F1 Team,17,14.6,0.0,0.65,0.65,0.05,14,0,0
+2023,18,United States Grand Prix,RIC,AlphaTauri,14,13.0,1.67,0.65,0.65,0.05,15,0,0
+2023,18,United States Grand Prix,ALO,Aston Martin,19,8.0,4.67,0.65,0.65,0.05,20,0,0
+2023,18,United States Grand Prix,PIA,McLaren,10,6.6,17.0,0.65,0.65,0.05,20,0,0
+2023,18,United States Grand Prix,OCO,Alpine F1 Team,8,13.2,4.67,0.65,0.65,0.05,20,0,0
+2023,18,United States Grand Prix,HAM,Mercedes,3,8.0,7.33,0.65,0.65,0.05,19,0,0
+2023,18,United States Grand Prix,LEC,Ferrari,1,7.4,8.33,0.65,0.65,0.05,20,0,0
+2023,19,Mexico City Grand Prix,VER,Red Bull,3,1.8,12.67,0.95,0.6,0.05,1,1,1
+2023,19,Mexico City Grand Prix,HAM,Mercedes,6,10.6,3.33,0.95,0.6,0.05,2,1,0
+2023,19,Mexico City Grand Prix,LEC,Ferrari,1,7.4,5.0,0.95,0.6,0.05,3,1,0
+2023,19,Mexico City Grand Prix,SAI,Ferrari,2,6.6,10.0,0.95,0.6,0.05,4,0,0
+2023,19,Mexico City Grand Prix,NOR,McLaren,17,3.4,11.0,0.95,0.6,0.05,5,0,0
+2023,19,Mexico City Grand Prix,RUS,Mercedes,8,7.4,9.67,0.95,0.6,0.05,6,0,0
+2023,19,Mexico City Grand Prix,RIC,AlphaTauri,4,14.6,1.67,0.95,0.6,0.05,7,0,0
+2023,19,Mexico City Grand Prix,PIA,McLaren,7,8.8,9.33,0.95,0.6,0.05,8,0,0
+2023,19,Mexico City Grand Prix,ALB,Williams,14,12.0,1.0,0.95,0.6,0.05,9,0,0
+2023,19,Mexico City Grand Prix,OCO,Alpine F1 Team,15,15.2,2.67,0.95,0.6,0.05,10,0,0
+2023,19,Mexico City Grand Prix,GAS,Alpine F1 Team,11,9.8,3.0,0.95,0.6,0.05,11,0,0
+2023,19,Mexico City Grand Prix,TSU,AlphaTauri,18,15.0,3.67,0.95,0.6,0.05,12,0,0
+2023,19,Mexico City Grand Prix,HUL,Haas F1 Team,12,14.2,0.0,0.95,0.6,0.05,13,0,0
+2023,19,Mexico City Grand Prix,ZHO,Alfa Romeo,10,12.2,0.67,0.95,0.6,0.05,14,0,0
+2023,19,Mexico City Grand Prix,BOT,Alfa Romeo,9,14.0,0.0,0.95,0.6,0.05,15,0,0
+2023,19,Mexico City Grand Prix,SAR,Williams,19,15.4,1.67,0.95,0.6,0.05,16,0,0
+2023,19,Mexico City Grand Prix,STR,Aston Martin,20,14.8,2.0,0.95,0.6,0.05,17,0,0
+2023,19,Mexico City Grand Prix,ALO,Aston Martin,13,11.6,2.0,0.95,0.6,0.05,20,0,0
+2023,19,Mexico City Grand Prix,MAG,Haas F1 Team,16,14.2,0.0,0.95,0.6,0.05,20,0,0
+2023,19,Mexico City Grand Prix,PER,Red Bull,5,8.8,20.67,0.95,0.6,0.05,20,0,0
+2023,20,São Paulo Grand Prix,VER,Red Bull,1,1.8,12.33,0.65,0.65,0.05,1,1,1
+2023,20,São Paulo Grand Prix,NOR,McLaren,6,2.8,4.67,0.65,0.65,0.05,2,1,0
+2023,20,São Paulo Grand Prix,ALO,Aston Martin,4,13.8,0.0,0.65,0.65,0.05,3,1,0
+2023,20,São Paulo Grand Prix,PER,Red Bull,9,12.4,16.67,0.65,0.65,0.05,4,0,0
+2023,20,São Paulo Grand Prix,STR,Aston Martin,3,15.0,5.0,0.65,0.65,0.05,5,0,0
+2023,20,São Paulo Grand Prix,SAI,Ferrari,7,6.8,9.0,0.65,0.65,0.05,6,0,0
+2023,20,São Paulo Grand Prix,GAS,Alpine F1 Team,15,9.0,0.33,0.65,0.65,0.05,7,0,0
+2023,20,São Paulo Grand Prix,HAM,Mercedes,5,9.8,9.0,0.65,0.65,0.05,8,0,0
+2023,20,São Paulo Grand Prix,TSU,AlphaTauri,16,13.4,2.0,0.65,0.65,0.05,9,0,0
+2023,20,São Paulo Grand Prix,OCO,Alpine F1 Team,14,13.2,2.33,0.65,0.65,0.05,10,0,0
+2023,20,São Paulo Grand Prix,SAR,Williams,19,16.0,1.0,0.65,0.65,0.05,11,0,0
+2023,20,São Paulo Grand Prix,HUL,Haas F1 Team,11,13.4,0.0,0.65,0.65,0.05,12,0,0
+2023,20,São Paulo Grand Prix,RIC,AlphaTauri,17,12.0,2.67,0.65,0.65,0.05,13,0,0
+2023,20,São Paulo Grand Prix,PIA,McLaren,10,8.0,11.0,0.65,0.65,0.05,14,0,0
+2023,20,São Paulo Grand Prix,RUS,Mercedes,8,7.6,10.33,0.65,0.65,0.05,20,0,0
+2023,20,São Paulo Grand Prix,BOT,Alfa Romeo,18,15.0,0.0,0.65,0.65,0.05,20,0,0
+2023,20,São Paulo Grand Prix,ZHO,Alfa Romeo,20,12.2,0.0,0.65,0.65,0.05,20,0,0
+2023,20,São Paulo Grand Prix,MAG,Haas F1 Team,12,14.6,0.0,0.65,0.65,0.05,20,0,0
+2023,20,São Paulo Grand Prix,ALB,Williams,13,12.4,0.67,0.65,0.65,0.05,20,0,0
+2023,20,São Paulo Grand Prix,LEC,Ferrari,2,7.2,11.67,0.65,0.65,0.05,20,0,0
+2023,21,Las Vegas Grand Prix,VER,Red Bull,2,1.0,12.33,0.3,0.4,0.05,1,1,1
+2023,21,Las Vegas Grand Prix,LEC,Ferrari,1,10.4,6.67,0.3,0.4,0.05,2,1,0
+2023,21,Las Vegas Grand Prix,PER,Red Bull,11,11.6,20.67,0.3,0.4,0.05,3,1,0
+2023,21,Las Vegas Grand Prix,OCO,Alpine F1 Team,16,11.2,2.33,0.3,0.4,0.05,4,0,0
+2023,21,Las Vegas Grand Prix,STR,Aston Martin,19,12.0,8.33,0.3,0.4,0.05,5,0,0
+2023,21,Las Vegas Grand Prix,SAI,Ferrari,12,7.8,8.67,0.3,0.4,0.05,6,0,0
+2023,21,Las Vegas Grand Prix,HAM,Mercedes,10,10.8,4.0,0.3,0.4,0.05,7,0,0
+2023,21,Las Vegas Grand Prix,RUS,Mercedes,3,8.4,3.33,0.3,0.4,0.05,8,0,0
+2023,21,Las Vegas Grand Prix,ALO,Aston Martin,9,11.4,11.67,0.3,0.4,0.05,9,0,0
+2023,21,Las Vegas Grand Prix,PIA,McLaren,18,9.4,7.67,0.3,0.4,0.05,10,0,0
+2023,21,Las Vegas Grand Prix,GAS,Alpine F1 Team,4,9.2,6.33,0.3,0.4,0.05,11,0,0
+2023,21,Las Vegas Grand Prix,ALB,Williams,5,14.2,0.0,0.3,0.4,0.05,12,0,0
+2023,21,Las Vegas Grand Prix,MAG,Haas F1 Team,8,16.6,0.0,0.3,0.4,0.05,13,0,0
+2023,21,Las Vegas Grand Prix,RIC,AlphaTauri,14,12.8,0.67,0.3,0.4,0.05,14,0,0
+2023,21,Las Vegas Grand Prix,ZHO,Alfa Romeo,17,13.8,0.0,0.3,0.4,0.05,15,0,0
+2023,21,Las Vegas Grand Prix,SAR,Williams,6,15.4,0.0,0.3,0.4,0.05,16,0,0
+2023,21,Las Vegas Grand Prix,BOT,Alfa Romeo,7,15.0,0.0,0.3,0.4,0.05,17,0,0
+2023,21,Las Vegas Grand Prix,TSU,AlphaTauri,20,11.2,0.67,0.3,0.4,0.05,18,0,0
+2023,21,Las Vegas Grand Prix,HUL,Haas F1 Team,13,13.2,0.0,0.3,0.4,0.05,19,0,0
+2023,21,Las Vegas Grand Prix,NOR,McLaren,15,2.8,7.0,0.3,0.4,0.05,20,0,0
+2023,22,Abu Dhabi Grand Prix,VER,Red Bull,1,1.0,17.33,0.65,0.65,0.05,1,1,1
+2023,22,Abu Dhabi Grand Prix,LEC,Ferrari,2,10.0,8.67,0.65,0.65,0.05,2,1,0
+2023,22,Abu Dhabi Grand Prix,RUS,Mercedes,4,8.6,3.33,0.65,0.65,0.05,3,1,0
+2023,22,Abu Dhabi Grand Prix,PER,Red Bull,9,8.2,22.0,0.65,0.65,0.05,4,0,0
+2023,22,Abu Dhabi Grand Prix,NOR,McLaren,5,6.4,0.67,0.65,0.65,0.05,5,0,0
+2023,22,Abu Dhabi Grand Prix,PIA,McLaren,3,10.8,4.0,0.65,0.65,0.05,6,0,0
+2023,22,Abu Dhabi Grand Prix,ALO,Aston Martin,7,11.6,7.33,0.65,0.65,0.05,7,0,0
+2023,22,Abu Dhabi Grand Prix,TSU,AlphaTauri,6,12.4,0.0,0.65,0.65,0.05,8,0,0
+2023,22,Abu Dhabi Grand Prix,HAM,Mercedes,11,11.2,8.33,0.65,0.65,0.05,9,0,0
+2023,22,Abu Dhabi Grand Prix,STR,Aston Martin,13,9.0,6.0,0.65,0.65,0.05,10,0,0
+2023,22,Abu Dhabi Grand Prix,RIC,AlphaTauri,15,13.0,1.33,0.65,0.65,0.05,11,0,0
+2023,22,Abu Dhabi Grand Prix,OCO,Alpine F1 Team,12,10.2,4.33,0.65,0.65,0.05,12,0,0
+2023,22,Abu Dhabi Grand Prix,GAS,Alpine F1 Team,10,9.4,4.0,0.65,0.65,0.05,13,0,0
+2023,22,Abu Dhabi Grand Prix,ALB,Williams,14,12.6,0.0,0.65,0.65,0.05,14,0,0
+2023,22,Abu Dhabi Grand Prix,HUL,Haas F1 Team,8,14.2,0.0,0.65,0.65,0.05,15,0,0
+2023,22,Abu Dhabi Grand Prix,SAR,Williams,20,14.6,0.0,0.65,0.65,0.05,16,0,0
+2023,22,Abu Dhabi Grand Prix,ZHO,Alfa Romeo,19,14.2,0.0,0.65,0.65,0.05,17,0,0
+2023,22,Abu Dhabi Grand Prix,SAI,Ferrari,16,7.8,14.67,0.65,0.65,0.05,18,0,0
+2023,22,Abu Dhabi Grand Prix,BOT,Alfa Romeo,18,14.4,0.0,0.65,0.65,0.05,19,0,0
+2023,22,Abu Dhabi Grand Prix,MAG,Haas F1 Team,17,16.2,0.0,0.65,0.65,0.05,20,0,0
+2024,1,Bahrain Grand Prix,VER,Red Bull,1,1.0,17.67,0.65,0.65,0.05,1,1,1
+2024,1,Bahrain Grand Prix,PER,Red Bull,5,7.0,21.33,0.65,0.65,0.05,2,1,0
+2024,1,Bahrain Grand Prix,SAI,Ferrari,4,7.4,8.67,0.65,0.65,0.05,3,1,0
+2024,1,Bahrain Grand Prix,LEC,Ferrari,2,9.4,11.0,0.65,0.65,0.05,4,0,0
+2024,1,Bahrain Grand Prix,RUS,Mercedes,3,8.4,7.0,0.65,0.65,0.05,5,0,0
+2024,1,Bahrain Grand Prix,NOR,McLaren,7,6.8,6.0,0.65,0.65,0.05,6,0,0
+2024,1,Bahrain Grand Prix,HAM,Mercedes,9,9.0,9.0,0.65,0.65,0.05,7,0,0
+2024,1,Bahrain Grand Prix,PIA,McLaren,8,11.6,8.67,0.65,0.65,0.05,8,0,0
+2024,1,Bahrain Grand Prix,ALO,Aston Martin,6,11.8,3.0,0.65,0.65,0.05,9,0,0
+2024,1,Bahrain Grand Prix,STR,Aston Martin,12,8.8,3.0,0.65,0.65,0.05,10,0,0
+2024,1,Bahrain Grand Prix,ZHO,Sauber,17,15.8,5.0,0.65,0.65,0.05,11,0,0
+2024,1,Bahrain Grand Prix,MAG,Haas F1 Team,15,17.4,0.0,0.65,0.65,0.05,12,0,0
+2024,1,Bahrain Grand Prix,RIC,RB F1 Team,14,12.0,5.0,0.65,0.65,0.05,13,0,0
+2024,1,Bahrain Grand Prix,TSU,RB F1 Team,11,11.0,0.0,0.65,0.65,0.05,14,0,0
+2024,1,Bahrain Grand Prix,ALB,Williams,13,12.8,0.0,0.65,0.65,0.05,15,0,0
+2024,1,Bahrain Grand Prix,HUL,Haas F1 Team,10,14.0,0.0,0.65,0.65,0.05,16,0,0
+2024,1,Bahrain Grand Prix,OCO,Alpine F1 Team,19,11.2,0.0,0.65,0.65,0.05,17,0,0
+2024,1,Bahrain Grand Prix,GAS,Alpine F1 Team,20,9.6,0.0,0.65,0.65,0.05,18,0,0
+2024,1,Bahrain Grand Prix,BOT,Sauber,16,16.6,0.0,0.65,0.65,0.05,19,0,0
+2024,1,Bahrain Grand Prix,SAR,Williams,18,13.8,0.0,0.65,0.65,0.05,20,0,0
+2024,2,Saudi Arabian Grand Prix,VER,Red Bull,1,1.0,18.67,0.4,0.5,0.05,1,1,1
+2024,2,Saudi Arabian Grand Prix,PER,Red Bull,3,6.6,23.0,0.4,0.5,0.05,2,1,0
+2024,2,Saudi Arabian Grand Prix,LEC,Ferrari,2,6.2,9.0,0.4,0.5,0.05,3,1,0
+2024,2,Saudi Arabian Grand Prix,PIA,McLaren,5,9.2,6.67,0.4,0.5,0.05,4,0,0
+2024,2,Saudi Arabian Grand Prix,ALO,Aston Martin,4,9.6,1.33,0.4,0.5,0.05,5,0,0
+2024,2,Saudi Arabian Grand Prix,RUS,Mercedes,7,8.4,6.0,0.4,0.5,0.05,6,0,0
+2024,2,Saudi Arabian Grand Prix,BEA,Ferrari,11,11.0,14.33,0.4,0.5,0.05,7,0,0
+2024,2,Saudi Arabian Grand Prix,NOR,McLaren,6,7.6,8.0,0.4,0.5,0.05,8,0,0
+2024,2,Saudi Arabian Grand Prix,HAM,Mercedes,8,6.6,8.0,0.4,0.5,0.05,9,0,0
+2024,2,Saudi Arabian Grand Prix,HUL,Haas F1 Team,15,15.0,0.0,0.4,0.5,0.05,10,0,0
+2024,2,Saudi Arabian Grand Prix,ALB,Williams,12,14.0,0.0,0.4,0.5,0.05,11,0,0
+2024,2,Saudi Arabian Grand Prix,MAG,Haas F1 Team,13,17.0,0.33,0.4,0.5,0.05,12,0,0
+2024,2,Saudi Arabian Grand Prix,OCO,Alpine F1 Team,17,10.6,0.0,0.4,0.5,0.05,13,0,0
+2024,2,Saudi Arabian Grand Prix,SAR,Williams,19,15.8,0.0,0.4,0.5,0.05,14,0,0
+2024,2,Saudi Arabian Grand Prix,TSU,RB F1 Team,9,12.2,0.0,0.4,0.5,0.05,15,0,0
+2024,2,Saudi Arabian Grand Prix,RIC,RB F1 Team,14,11.6,0.0,0.4,0.5,0.05,16,0,0
+2024,2,Saudi Arabian Grand Prix,BOT,Sauber,16,18.0,0.0,0.4,0.5,0.05,17,0,0
+2024,2,Saudi Arabian Grand Prix,ZHO,Sauber,20,15.4,0.0,0.4,0.5,0.05,18,0,0
+2024,2,Saudi Arabian Grand Prix,STR,Aston Martin,10,9.4,4.33,0.4,0.5,0.05,20,0,0
+2024,2,Saudi Arabian Grand Prix,GAS,Alpine F1 Team,18,12.0,0.0,0.4,0.5,0.05,20,0,0
+2024,3,Australian Grand Prix,SAI,Ferrari,2,7.4,11.33,0.6,0.6,0.05,1,1,1
+2024,3,Australian Grand Prix,LEC,Ferrari,4,6.2,15.67,0.6,0.6,0.05,2,1,0
+2024,3,Australian Grand Prix,NOR,McLaren,3,8.2,6.67,0.6,0.6,0.05,3,1,0
+2024,3,Australian Grand Prix,PIA,McLaren,5,8.4,10.33,0.6,0.6,0.05,4,0,0
+2024,3,Australian Grand Prix,PER,Red Bull,6,3.0,20.33,0.6,0.6,0.05,5,0,0
+2024,3,Australian Grand Prix,STR,Aston Martin,9,10.0,3.67,0.6,0.6,0.05,6,0,0
+2024,3,Australian Grand Prix,TSU,RB F1 Team,8,12.8,0.0,0.6,0.6,0.05,7,0,0
+2024,3,Australian Grand Prix,ALO,Aston Martin,10,6.6,6.0,0.6,0.6,0.05,8,0,0
+2024,3,Australian Grand Prix,HUL,Haas F1 Team,16,14.4,0.33,0.6,0.6,0.05,9,0,0
+2024,3,Australian Grand Prix,MAG,Haas F1 Team,14,15.4,1.0,0.6,0.6,0.05,10,0,0
+2024,3,Australian Grand Prix,ALB,Williams,12,14.4,0.0,0.6,0.6,0.05,11,0,0
+2024,3,Australian Grand Prix,RIC,RB F1 Team,18,13.4,2.0,0.6,0.6,0.05,12,0,0
+2024,3,Australian Grand Prix,GAS,Alpine F1 Team,17,13.8,0.0,0.6,0.6,0.05,13,0,0
+2024,3,Australian Grand Prix,BOT,Sauber,13,18.4,0.0,0.6,0.6,0.05,14,0,0
+2024,3,Australian Grand Prix,ZHO,Sauber,19,16.2,0.0,0.6,0.6,0.05,15,0,0
+2024,3,Australian Grand Prix,OCO,Alpine F1 Team,15,11.2,0.0,0.6,0.6,0.05,16,0,0
+2024,3,Australian Grand Prix,RUS,Mercedes,7,8.4,5.33,0.6,0.6,0.05,17,0,0
+2024,3,Australian Grand Prix,HAM,Mercedes,11,8.0,3.33,0.6,0.6,0.05,20,0,0
+2024,3,Australian Grand Prix,VER,Red Bull,1,1.0,17.67,0.6,0.6,0.05,20,0,0
+2024,4,Japanese Grand Prix,VER,Red Bull,1,4.8,9.33,0.85,0.8,0.05,1,1,1
+2024,4,Japanese Grand Prix,PER,Red Bull,2,3.2,12.0,0.85,0.8,0.05,2,1,0
+2024,4,Japanese Grand Prix,SAI,Ferrari,4,6.8,16.67,0.85,0.8,0.05,3,1,0
+2024,4,Japanese Grand Prix,LEC,Ferrari,8,2.6,19.67,0.85,0.8,0.05,4,0,0
+2024,4,Japanese Grand Prix,NOR,McLaren,3,8.4,10.33,0.85,0.8,0.05,5,0,0
+2024,4,Japanese Grand Prix,ALO,Aston Martin,5,7.6,4.0,0.85,0.8,0.05,6,0,0
+2024,4,Japanese Grand Prix,RUS,Mercedes,9,7.8,0.67,0.85,0.8,0.05,7,0,0
+2024,4,Japanese Grand Prix,PIA,McLaren,6,6.4,12.33,0.85,0.8,0.05,8,0,0
+2024,4,Japanese Grand Prix,HAM,Mercedes,7,10.4,2.0,0.85,0.8,0.05,9,0,0
+2024,4,Japanese Grand Prix,TSU,RB F1 Team,10,12.4,2.0,0.85,0.8,0.05,10,0,0
+2024,4,Japanese Grand Prix,HUL,Haas F1 Team,12,13.8,1.0,0.85,0.8,0.05,11,0,0
+2024,4,Japanese Grand Prix,STR,Aston Martin,16,10.2,6.67,0.85,0.8,0.05,12,0,0
+2024,4,Japanese Grand Prix,MAG,Haas F1 Team,18,13.4,1.0,0.85,0.8,0.05,13,0,0
+2024,4,Japanese Grand Prix,BOT,Sauber,13,17.2,0.0,0.85,0.8,0.05,14,0,0
+2024,4,Japanese Grand Prix,OCO,Alpine F1 Team,15,12.4,0.0,0.85,0.8,0.05,15,0,0
+2024,4,Japanese Grand Prix,GAS,Alpine F1 Team,17,15.0,0.0,0.85,0.8,0.05,16,0,0
+2024,4,Japanese Grand Prix,SAR,Williams,19,15.4,0.0,0.85,0.8,0.05,17,0,0
+2024,4,Japanese Grand Prix,ZHO,Sauber,20,15.2,0.0,0.85,0.8,0.05,20,0,0
+2024,4,Japanese Grand Prix,RIC,RB F1 Team,11,13.2,2.33,0.85,0.8,0.05,20,0,0
+2024,4,Japanese Grand Prix,ALB,Williams,14,12.6,0.0,0.85,0.8,0.05,20,0,0
+2024,5,Chinese Grand Prix,VER,Red Bull,1,4.8,14.67,0.7,0.7,0.05,1,1,1
+2024,5,Chinese Grand Prix,NOR,McLaren,4,5.4,8.67,0.7,0.7,0.05,2,1,0
+2024,5,Chinese Grand Prix,PER,Red Bull,2,3.0,23.0,0.7,0.7,0.05,3,1,0
+2024,5,Chinese Grand Prix,LEC,Ferrari,6,3.0,15.33,0.7,0.7,0.05,4,0,0
+2024,5,Chinese Grand Prix,SAI,Ferrari,7,6.2,13.0,0.7,0.7,0.05,5,0,0
+2024,5,Chinese Grand Prix,RUS,Mercedes,8,7.6,2.67,0.7,0.7,0.05,6,0,0
+2024,5,Chinese Grand Prix,ALO,Aston Martin,3,7.0,4.0,0.7,0.7,0.05,7,0,0
+2024,5,Chinese Grand Prix,PIA,McLaren,5,6.0,10.67,0.7,0.7,0.05,8,0,0
+2024,5,Chinese Grand Prix,HAM,Mercedes,18,10.8,5.33,0.7,0.7,0.05,9,0,0
+2024,5,Chinese Grand Prix,HUL,Haas F1 Team,9,12.2,0.33,0.7,0.7,0.05,10,0,0
+2024,5,Chinese Grand Prix,OCO,Alpine F1 Team,13,14.6,0.0,0.7,0.7,0.05,11,0,0
+2024,5,Chinese Grand Prix,ALB,Williams,14,14.2,0.0,0.7,0.7,0.05,12,0,0
+2024,5,Chinese Grand Prix,GAS,Alpine F1 Team,15,16.0,0.0,0.7,0.7,0.05,13,0,0
+2024,5,Chinese Grand Prix,ZHO,Sauber,16,16.2,0.0,0.7,0.7,0.05,14,0,0
+2024,5,Chinese Grand Prix,STR,Aston Martin,11,11.6,5.0,0.7,0.7,0.05,15,0,0
+2024,5,Chinese Grand Prix,MAG,Haas F1 Team,17,13.4,0.33,0.7,0.7,0.05,16,0,0
+2024,5,Chinese Grand Prix,SAR,Williams,20,16.6,0.0,0.7,0.7,0.05,17,0,0
+2024,5,Chinese Grand Prix,RIC,RB F1 Team,12,14.4,0.33,0.7,0.7,0.05,20,0,0
+2024,5,Chinese Grand Prix,TSU,RB F1 Team,19,10.8,0.33,0.7,0.7,0.05,20,0,0
+2024,5,Chinese Grand Prix,BOT,Sauber,10,16.6,0.0,0.7,0.7,0.05,20,0,0
+2024,6,Miami Grand Prix,NOR,McLaren,5,4.8,8.67,0.55,0.65,0.05,1,1,1
+2024,6,Miami Grand Prix,VER,Red Bull,1,4.8,19.33,0.55,0.65,0.05,2,1,0
+2024,6,Miami Grand Prix,LEC,Ferrari,2,3.4,11.33,0.55,0.65,0.05,3,1,0
+2024,6,Miami Grand Prix,PER,Red Bull,4,2.8,19.33,0.55,0.65,0.05,4,0,0
+2024,6,Miami Grand Prix,SAI,Ferrari,3,6.0,12.33,0.55,0.65,0.05,5,0,0
+2024,6,Miami Grand Prix,HAM,Mercedes,8,10.8,4.0,0.55,0.65,0.05,6,0,0
+2024,6,Miami Grand Prix,TSU,RB F1 Team,10,13.2,0.0,0.55,0.65,0.05,7,0,0
+2024,6,Miami Grand Prix,RUS,Mercedes,7,8.2,6.0,0.55,0.65,0.05,8,0,0
+2024,6,Miami Grand Prix,ALO,Aston Martin,15,7.0,2.33,0.55,0.65,0.05,9,0,0
+2024,6,Miami Grand Prix,OCO,Alpine F1 Team,13,14.4,0.0,0.55,0.65,0.05,10,0,0
+2024,6,Miami Grand Prix,HUL,Haas F1 Team,9,11.2,0.33,0.55,0.65,0.05,11,0,0
+2024,6,Miami Grand Prix,GAS,Alpine F1 Team,12,16.0,0.33,0.55,0.65,0.05,12,0,0
+2024,6,Miami Grand Prix,PIA,McLaren,6,6.4,15.67,0.55,0.65,0.05,13,0,0
+2024,6,Miami Grand Prix,ZHO,Sauber,19,15.6,0.0,0.55,0.65,0.05,14,0,0
+2024,6,Miami Grand Prix,RIC,RB F1 Team,20,16.2,2.0,0.55,0.65,0.05,15,0,0
+2024,6,Miami Grand Prix,BOT,Sauber,16,16.8,0.0,0.55,0.65,0.05,16,0,0
+2024,6,Miami Grand Prix,STR,Aston Martin,11,12.6,3.0,0.55,0.65,0.05,17,0,0
+2024,6,Miami Grand Prix,ALB,Williams,14,13.8,0.0,0.55,0.65,0.05,18,0,0
+2024,6,Miami Grand Prix,MAG,Haas F1 Team,18,12.6,0.33,0.55,0.65,0.05,19,0,0
+2024,6,Miami Grand Prix,SAR,Williams,17,16.8,0.0,0.55,0.65,0.05,20,0,0
+2024,7,Emilia Romagna Grand Prix,VER,Red Bull,1,5.0,15.0,0.65,0.65,0.05,1,1,1
+2024,7,Emilia Romagna Grand Prix,NOR,McLaren,2,3.8,9.67,0.65,0.65,0.05,2,1,0
+2024,7,Emilia Romagna Grand Prix,LEC,Ferrari,3,3.2,11.67,0.65,0.65,0.05,3,1,0
+2024,7,Emilia Romagna Grand Prix,PIA,McLaren,5,7.4,14.33,0.65,0.65,0.05,4,0,0
+2024,7,Emilia Romagna Grand Prix,SAI,Ferrari,4,3.4,13.33,0.65,0.65,0.05,5,0,0
+2024,7,Emilia Romagna Grand Prix,HAM,Mercedes,8,10.6,4.67,0.65,0.65,0.05,6,0,0
+2024,7,Emilia Romagna Grand Prix,RUS,Mercedes,6,8.8,6.67,0.65,0.65,0.05,7,0,0
+2024,7,Emilia Romagna Grand Prix,PER,Red Bull,11,3.2,18.33,0.65,0.65,0.05,8,0,0
+2024,7,Emilia Romagna Grand Prix,STR,Aston Martin,13,14.0,0.67,0.65,0.65,0.05,9,0,0
+2024,7,Emilia Romagna Grand Prix,TSU,RB F1 Team,7,11.8,2.0,0.65,0.65,0.05,10,0,0
+2024,7,Emilia Romagna Grand Prix,HUL,Haas F1 Team,10,10.2,0.0,0.65,0.65,0.05,11,0,0
+2024,7,Emilia Romagna Grand Prix,MAG,Haas F1 Team,18,14.0,0.0,0.65,0.65,0.05,12,0,0
+2024,7,Emilia Romagna Grand Prix,RIC,RB F1 Team,9,16.6,2.33,0.65,0.65,0.05,13,0,0
+2024,7,Emilia Romagna Grand Prix,OCO,Alpine F1 Team,12,13.0,0.33,0.65,0.65,0.05,14,0,0
+2024,7,Emilia Romagna Grand Prix,ZHO,Sauber,17,16.2,0.0,0.65,0.65,0.05,15,0,0
+2024,7,Emilia Romagna Grand Prix,GAS,Alpine F1 Team,15,14.8,0.33,0.65,0.65,0.05,16,0,0
+2024,7,Emilia Romagna Grand Prix,SAR,Williams,19,17.6,0.0,0.65,0.65,0.05,17,0,0
+2024,7,Emilia Romagna Grand Prix,BOT,Sauber,16,16.2,0.0,0.65,0.65,0.05,18,0,0
+2024,7,Emilia Romagna Grand Prix,ALO,Aston Martin,20,7.0,1.33,0.65,0.65,0.05,19,0,0
+2024,7,Emilia Romagna Grand Prix,ALB,Williams,14,14.4,0.0,0.65,0.65,0.05,20,0,0
+2024,8,Monaco Grand Prix,LEC,Ferrari,1,3.2,11.67,0.98,0.3,0.05,1,1,1
+2024,8,Monaco Grand Prix,PIA,McLaren,2,7.4,10.0,0.98,0.3,0.05,2,1,0
+2024,8,Monaco Grand Prix,SAI,Ferrari,3,3.8,16.67,0.98,0.3,0.05,3,1,0
+2024,8,Monaco Grand Prix,NOR,McLaren,4,2.6,16.0,0.98,0.3,0.05,4,0,0
+2024,8,Monaco Grand Prix,RUS,Mercedes,5,9.0,6.33,0.98,0.3,0.05,5,0,0
+2024,8,Monaco Grand Prix,VER,Red Bull,6,5.0,13.67,0.98,0.3,0.05,6,0,0
+2024,8,Monaco Grand Prix,HAM,Mercedes,7,10.0,8.33,0.98,0.3,0.05,7,0,0
+2024,8,Monaco Grand Prix,TSU,RB F1 Team,8,10.8,0.33,0.98,0.3,0.05,8,0,0
+2024,8,Monaco Grand Prix,ALB,Williams,9,16.2,0.0,0.98,0.3,0.05,9,0,0
+2024,8,Monaco Grand Prix,GAS,Alpine F1 Team,10,14.0,0.0,0.98,0.3,0.05,10,0,0
+2024,8,Monaco Grand Prix,ALO,Aston Martin,14,9.8,0.67,0.98,0.3,0.05,11,0,0
+2024,8,Monaco Grand Prix,RIC,RB F1 Team,12,16.0,1.67,0.98,0.3,0.05,12,0,0
+2024,8,Monaco Grand Prix,BOT,Sauber,17,16.4,0.0,0.98,0.3,0.05,13,0,0
+2024,8,Monaco Grand Prix,STR,Aston Martin,13,11.8,0.67,0.98,0.3,0.05,14,0,0
+2024,8,Monaco Grand Prix,SAR,Williams,15,17.0,0.67,0.98,0.3,0.05,15,0,0
+2024,8,Monaco Grand Prix,ZHO,Sauber,18,15.6,0.0,0.98,0.3,0.05,16,0,0
+2024,8,Monaco Grand Prix,OCO,Alpine F1 Team,11,13.2,0.33,0.98,0.3,0.05,20,0,0
+2024,8,Monaco Grand Prix,PER,Red Bull,16,4.4,12.33,0.98,0.3,0.05,20,0,0
+2024,8,Monaco Grand Prix,HUL,Haas F1 Team,19,10.4,0.0,0.98,0.3,0.05,20,0,0
+2024,8,Monaco Grand Prix,MAG,Haas F1 Team,20,14.0,0.0,0.98,0.3,0.05,20,0,0
+2024,9,Canadian Grand Prix,VER,Red Bull,2,2.2,4.0,0.65,0.65,0.05,1,1,1
+2024,9,Canadian Grand Prix,NOR,McLaren,3,2.8,14.0,0.65,0.65,0.05,2,1,0
+2024,9,Canadian Grand Prix,RUS,Mercedes,1,6.6,8.0,0.65,0.65,0.05,3,1,0
+2024,9,Canadian Grand Prix,HAM,Mercedes,7,7.4,10.67,0.65,0.65,0.05,4,0,0
+2024,9,Canadian Grand Prix,PIA,McLaren,4,7.0,16.0,0.65,0.65,0.05,5,0,0
+2024,9,Canadian Grand Prix,ALO,Aston Martin,6,10.4,0.0,0.65,0.65,0.05,6,0,0
+2024,9,Canadian Grand Prix,STR,Aston Martin,9,13.4,2.67,0.65,0.65,0.05,7,0,0
+2024,9,Canadian Grand Prix,RIC,RB F1 Team,5,16.0,1.33,0.65,0.65,0.05,8,0,0
+2024,9,Canadian Grand Prix,GAS,Alpine F1 Team,15,13.4,0.33,0.65,0.65,0.05,9,0,0
+2024,9,Canadian Grand Prix,OCO,Alpine F1 Team,18,14.0,1.0,0.65,0.65,0.05,10,0,0
+2024,9,Canadian Grand Prix,HUL,Haas F1 Team,17,12.6,0.0,0.65,0.65,0.05,11,0,0
+2024,9,Canadian Grand Prix,MAG,Haas F1 Team,14,16.0,0.0,0.65,0.65,0.05,12,0,0
+2024,9,Canadian Grand Prix,BOT,Sauber,19,16.2,0.0,0.65,0.65,0.05,13,0,0
+2024,9,Canadian Grand Prix,TSU,RB F1 Team,8,11.0,2.67,0.65,0.65,0.05,14,0,0
+2024,9,Canadian Grand Prix,ZHO,Sauber,20,15.8,0.0,0.65,0.65,0.05,15,0,0
+2024,9,Canadian Grand Prix,SAI,Ferrari,12,4.2,16.67,0.65,0.65,0.05,20,0,0
+2024,9,Canadian Grand Prix,ALB,Williams,10,15.8,0.67,0.65,0.65,0.05,20,0,0
+2024,9,Canadian Grand Prix,PER,Red Bull,16,7.4,11.0,0.65,0.65,0.05,20,0,0
+2024,9,Canadian Grand Prix,LEC,Ferrari,11,3.0,13.33,0.65,0.65,0.05,20,0,0
+2024,9,Canadian Grand Prix,SAR,Williams,13,17.2,0.67,0.65,0.65,0.05,20,0,0
+2024,10,Spanish Grand Prix,VER,Red Bull,2,2.2,8.33,0.6,0.75,0.05,1,1,1
+2024,10,Spanish Grand Prix,NOR,McLaren,1,2.2,13.33,0.6,0.75,0.05,2,1,0
+2024,10,Spanish Grand Prix,HAM,Mercedes,3,6.4,11.67,0.6,0.75,0.05,3,1,0
+2024,10,Spanish Grand Prix,RUS,Mercedes,4,5.8,14.33,0.6,0.75,0.05,4,0,0
+2024,10,Spanish Grand Prix,LEC,Ferrari,5,6.2,5.0,0.6,0.75,0.05,5,0,0
+2024,10,Spanish Grand Prix,SAI,Ferrari,6,7.6,3.33,0.6,0.75,0.05,6,0,0
+2024,10,Spanish Grand Prix,PIA,McLaren,9,6.4,15.67,0.6,0.75,0.05,7,0,0
+2024,10,Spanish Grand Prix,PER,Red Bull,11,11.0,16.67,0.6,0.75,0.05,8,0,0
+2024,10,Spanish Grand Prix,GAS,Alpine F1 Team,7,12.0,1.0,0.6,0.75,0.05,9,0,0
+2024,10,Spanish Grand Prix,OCO,Alpine F1 Team,8,13.0,1.67,0.6,0.75,0.05,10,0,0
+2024,10,Spanish Grand Prix,HUL,Haas F1 Team,13,12.6,0.0,0.6,0.75,0.05,11,0,0
+2024,10,Spanish Grand Prix,ALO,Aston Martin,10,10.4,4.67,0.6,0.75,0.05,12,0,0
+2024,10,Spanish Grand Prix,ZHO,Sauber,15,14.8,0.0,0.6,0.75,0.05,13,0,0
+2024,10,Spanish Grand Prix,STR,Aston Martin,14,12.4,4.67,0.6,0.75,0.05,14,0,0
+2024,10,Spanish Grand Prix,RIC,RB F1 Team,18,13.6,1.33,0.6,0.75,0.05,15,0,0
+2024,10,Spanish Grand Prix,BOT,Sauber,12,16.0,0.0,0.6,0.75,0.05,16,0,0
+2024,10,Spanish Grand Prix,MAG,Haas F1 Team,16,15.8,0.0,0.6,0.75,0.05,17,0,0
+2024,10,Spanish Grand Prix,ALB,Williams,20,15.8,0.0,0.6,0.75,0.05,18,0,0
+2024,10,Spanish Grand Prix,TSU,RB F1 Team,17,11.8,1.33,0.6,0.75,0.05,19,0,0
+2024,10,Spanish Grand Prix,SAR,Williams,19,17.8,0.0,0.6,0.75,0.05,20,0,0
+2024,11,Austrian Grand Prix,RUS,Mercedes,3,5.4,13.33,0.5,0.7,0.05,1,1,1
+2024,11,Austrian Grand Prix,PIA,McLaren,7,6.2,11.67,0.5,0.7,0.05,2,1,0
+2024,11,Austrian Grand Prix,SAI,Ferrari,4,7.8,6.0,0.5,0.7,0.05,3,1,0
+2024,11,Austrian Grand Prix,HAM,Mercedes,5,5.2,17.33,0.5,0.7,0.05,4,0,0
+2024,11,Austrian Grand Prix,VER,Red Bull,1,2.2,9.67,0.5,0.7,0.05,5,0,0
+2024,11,Austrian Grand Prix,HUL,Haas F1 Team,9,12.8,0.0,0.5,0.7,0.05,6,0,0
+2024,11,Austrian Grand Prix,PER,Red Bull,8,12.0,13.0,0.5,0.7,0.05,7,0,0
+2024,11,Austrian Grand Prix,MAG,Haas F1 Team,12,16.0,2.67,0.5,0.7,0.05,8,0,0
+2024,11,Austrian Grand Prix,RIC,RB F1 Team,11,12.6,0.0,0.5,0.7,0.05,9,0,0
+2024,11,Austrian Grand Prix,GAS,Alpine F1 Team,13,11.2,1.33,0.5,0.7,0.05,10,0,0
+2024,11,Austrian Grand Prix,LEC,Ferrari,6,6.4,11.0,0.5,0.7,0.05,11,0,0
+2024,11,Austrian Grand Prix,OCO,Alpine F1 Team,10,12.8,1.33,0.5,0.7,0.05,12,0,0
+2024,11,Austrian Grand Prix,STR,Aston Martin,17,12.2,2.0,0.5,0.7,0.05,13,0,0
+2024,11,Austrian Grand Prix,TSU,RB F1 Team,14,11.6,0.67,0.5,0.7,0.05,14,0,0
+2024,11,Austrian Grand Prix,ALB,Williams,16,17.0,0.0,0.5,0.7,0.05,15,0,0
+2024,11,Austrian Grand Prix,BOT,Sauber,18,15.2,0.0,0.5,0.7,0.05,16,0,0
+2024,11,Austrian Grand Prix,ZHO,Sauber,20,14.6,0.0,0.5,0.7,0.05,17,0,0
+2024,11,Austrian Grand Prix,ALO,Aston Martin,15,11.4,0.0,0.5,0.7,0.05,18,0,0
+2024,11,Austrian Grand Prix,SAR,Williams,19,18.4,0.0,0.5,0.7,0.05,19,0,0
+2024,11,Austrian Grand Prix,NOR,McLaren,2,2.2,14.33,0.5,0.7,0.05,20,0,0
+2024,12,British Grand Prix,HAM,Mercedes,2,4.8,16.33,0.75,0.8,0.05,1,1,1
+2024,12,British Grand Prix,VER,Red Bull,4,2.8,6.67,0.75,0.8,0.05,2,1,0
+2024,12,British Grand Prix,NOR,McLaren,3,6.0,8.0,0.75,0.8,0.05,3,1,0
+2024,12,British Grand Prix,PIA,McLaren,5,4.0,11.0,0.75,0.8,0.05,4,0,0
+2024,12,British Grand Prix,SAI,Ferrari,7,7.4,7.67,0.75,0.8,0.05,5,0,0
+2024,12,British Grand Prix,HUL,Haas F1 Team,6,11.8,4.0,0.75,0.8,0.05,6,0,0
+2024,12,British Grand Prix,STR,Aston Martin,8,11.4,0.0,0.75,0.8,0.05,7,0,0
+2024,12,British Grand Prix,ALO,Aston Martin,10,13.2,2.0,0.75,0.8,0.05,8,0,0
+2024,12,British Grand Prix,ALB,Williams,9,16.4,0.0,0.75,0.8,0.05,9,0,0
+2024,12,British Grand Prix,TSU,RB F1 Team,13,13.0,0.67,0.75,0.8,0.05,10,0,0
+2024,12,British Grand Prix,SAR,Williams,12,18.2,0.67,0.75,0.8,0.05,11,0,0
+2024,12,British Grand Prix,MAG,Haas F1 Team,17,13.8,6.67,0.75,0.8,0.05,12,0,0
+2024,12,British Grand Prix,RIC,RB F1 Team,15,11.4,1.0,0.75,0.8,0.05,13,0,0
+2024,12,British Grand Prix,LEC,Ferrari,11,8.0,8.67,0.75,0.8,0.05,14,0,0
+2024,12,British Grand Prix,BOT,Sauber,16,15.2,0.0,0.75,0.8,0.05,15,0,0
+2024,12,British Grand Prix,OCO,Alpine F1 Team,18,13.2,0.67,0.75,0.8,0.05,16,0,0
+2024,12,British Grand Prix,PER,Red Bull,20,12.6,11.33,0.75,0.8,0.05,17,0,0
+2024,12,British Grand Prix,ZHO,Sauber,14,15.2,0.0,0.75,0.8,0.05,18,0,0
+2024,12,British Grand Prix,RUS,Mercedes,1,4.0,20.67,0.75,0.8,0.05,20,0,0
+2024,12,British Grand Prix,GAS,Alpine F1 Team,19,10.8,0.33,0.75,0.8,0.05,20,0,0
+2024,13,Hungarian Grand Prix,PIA,McLaren,2,4.0,9.0,0.9,0.65,0.05,1,1,1
+2024,13,Hungarian Grand Prix,NOR,McLaren,1,6.2,17.33,0.9,0.65,0.05,2,1,0
+2024,13,Hungarian Grand Prix,HAM,Mercedes,5,3.8,12.33,0.9,0.65,0.05,3,1,0
+2024,13,Hungarian Grand Prix,LEC,Ferrari,6,10.2,3.67,0.9,0.65,0.05,4,0,0
+2024,13,Hungarian Grand Prix,VER,Red Bull,3,3.0,8.0,0.9,0.65,0.05,5,0,0
+2024,13,Hungarian Grand Prix,SAI,Ferrari,4,7.4,7.67,0.9,0.65,0.05,6,0,0
+2024,13,Hungarian Grand Prix,PER,Red Bull,16,14.4,9.33,0.9,0.65,0.05,7,0,0
+2024,13,Hungarian Grand Prix,RUS,Mercedes,17,6.6,13.33,0.9,0.65,0.05,8,0,0
+2024,13,Hungarian Grand Prix,TSU,RB F1 Team,10,13.0,0.33,0.9,0.65,0.05,9,0,0
+2024,13,Hungarian Grand Prix,STR,Aston Martin,8,11.0,3.33,0.9,0.65,0.05,10,0,0
+2024,13,Hungarian Grand Prix,ALO,Aston Martin,7,11.0,3.67,0.9,0.65,0.05,11,0,0
+2024,13,Hungarian Grand Prix,RIC,RB F1 Team,9,11.4,1.0,0.9,0.65,0.05,12,0,0
+2024,13,Hungarian Grand Prix,HUL,Haas F1 Team,11,10.8,4.0,0.9,0.65,0.05,13,0,0
+2024,13,Hungarian Grand Prix,ALB,Williams,13,14.2,0.67,0.9,0.65,0.05,14,0,0
+2024,13,Hungarian Grand Prix,MAG,Haas F1 Team,15,13.8,2.67,0.9,0.65,0.05,15,0,0
+2024,13,Hungarian Grand Prix,BOT,Sauber,12,14.6,0.0,0.9,0.65,0.05,16,0,0
+2024,13,Hungarian Grand Prix,SAR,Williams,14,17.0,0.67,0.9,0.65,0.05,17,0,0
+2024,13,Hungarian Grand Prix,OCO,Alpine F1 Team,19,13.6,0.0,0.9,0.65,0.05,18,0,0
+2024,13,Hungarian Grand Prix,ZHO,Sauber,18,15.8,0.0,0.9,0.65,0.05,19,0,0
+2024,13,Hungarian Grand Prix,GAS,Alpine F1 Team,20,11.6,0.0,0.9,0.65,0.05,20,0,0
+2024,14,Belgian Grand Prix,HAM,Mercedes,3,3.0,6.67,0.6,0.75,0.05,1,1,1
+2024,14,Belgian Grand Prix,PIA,McLaren,5,3.8,18.33,0.6,0.75,0.05,2,1,0
+2024,14,Belgian Grand Prix,LEC,Ferrari,1,10.8,6.67,0.6,0.75,0.05,3,1,0
+2024,14,Belgian Grand Prix,VER,Red Bull,11,2.8,5.33,0.6,0.75,0.05,4,0,0
+2024,14,Belgian Grand Prix,NOR,McLaren,4,5.8,20.33,0.6,0.75,0.05,5,0,0
+2024,14,Belgian Grand Prix,SAI,Ferrari,7,8.0,11.67,0.6,0.75,0.05,6,0,0
+2024,14,Belgian Grand Prix,PER,Red Bull,2,11.8,9.33,0.6,0.75,0.05,7,0,0
+2024,14,Belgian Grand Prix,ALO,Aston Martin,8,11.0,1.67,0.6,0.75,0.05,8,0,0
+2024,14,Belgian Grand Prix,OCO,Alpine F1 Team,9,13.2,0.0,0.6,0.75,0.05,9,0,0
+2024,14,Belgian Grand Prix,RIC,RB F1 Team,13,11.4,0.67,0.6,0.75,0.05,10,0,0
+2024,14,Belgian Grand Prix,STR,Aston Martin,15,10.2,1.67,0.6,0.75,0.05,11,0,0
+2024,14,Belgian Grand Prix,ALB,Williams,10,15.2,0.0,0.6,0.75,0.05,12,0,0
+2024,14,Belgian Grand Prix,GAS,Alpine F1 Team,12,13.6,0.67,0.6,0.75,0.05,13,0,0
+2024,14,Belgian Grand Prix,MAG,Haas F1 Team,17,12.8,0.0,0.6,0.75,0.05,14,0,0
+2024,14,Belgian Grand Prix,BOT,Sauber,14,15.2,0.0,0.6,0.75,0.05,15,0,0
+2024,14,Belgian Grand Prix,TSU,RB F1 Team,20,13.2,1.0,0.6,0.75,0.05,16,0,0
+2024,14,Belgian Grand Prix,SAR,Williams,18,17.4,0.0,0.6,0.75,0.05,17,0,0
+2024,14,Belgian Grand Prix,HUL,Haas F1 Team,16,9.4,0.0,0.6,0.75,0.05,18,0,0
+2024,14,Belgian Grand Prix,ZHO,Sauber,19,16.4,0.0,0.6,0.75,0.05,20,0,0
+2024,14,Belgian Grand Prix,RUS,Mercedes,6,7.2,15.0,0.6,0.75,0.05,20,0,0
+2024,15,Dutch Grand Prix,NOR,McLaren,1,6.4,15.33,0.88,0.7,0.05,1,1,1
+2024,15,Dutch Grand Prix,VER,Red Bull,2,3.4,8.33,0.88,0.7,0.05,2,1,0
+2024,15,Dutch Grand Prix,LEC,Ferrari,6,7.4,10.33,0.88,0.7,0.05,3,1,0
+2024,15,Dutch Grand Prix,PIA,McLaren,3,3.2,18.0,0.88,0.7,0.05,4,0,0
+2024,15,Dutch Grand Prix,SAI,Ferrari,10,5.2,12.67,0.88,0.7,0.05,5,0,0
+2024,15,Dutch Grand Prix,PER,Red Bull,5,9.2,12.33,0.88,0.7,0.05,6,0,0
+2024,15,Dutch Grand Prix,RUS,Mercedes,4,10.6,10.0,0.88,0.7,0.05,7,0,0
+2024,15,Dutch Grand Prix,HAM,Mercedes,14,2.4,10.33,0.88,0.7,0.05,8,0,0
+2024,15,Dutch Grand Prix,GAS,Alpine F1 Team,9,14.4,0.67,0.88,0.7,0.05,9,0,0
+2024,15,Dutch Grand Prix,ALO,Aston Martin,7,11.4,1.33,0.88,0.7,0.05,10,0,0
+2024,15,Dutch Grand Prix,HUL,Haas F1 Team,12,10.8,0.0,0.88,0.7,0.05,11,0,0
+2024,15,Dutch Grand Prix,RIC,RB F1 Team,13,11.8,0.33,0.88,0.7,0.05,12,0,0
+2024,15,Dutch Grand Prix,STR,Aston Martin,8,11.0,1.67,0.88,0.7,0.05,13,0,0
+2024,15,Dutch Grand Prix,ALB,Williams,19,13.6,0.0,0.88,0.7,0.05,14,0,0
+2024,15,Dutch Grand Prix,OCO,Alpine F1 Team,15,13.0,1.33,0.88,0.7,0.05,15,0,0
+2024,15,Dutch Grand Prix,SAR,Williams,18,16.8,0.0,0.88,0.7,0.05,16,0,0
+2024,15,Dutch Grand Prix,TSU,RB F1 Team,11,13.6,0.33,0.88,0.7,0.05,17,0,0
+2024,15,Dutch Grand Prix,MAG,Haas F1 Team,20,13.2,0.0,0.88,0.7,0.05,18,0,0
+2024,15,Dutch Grand Prix,BOT,Sauber,16,15.6,0.0,0.88,0.7,0.05,19,0,0
+2024,15,Dutch Grand Prix,ZHO,Sauber,17,17.4,0.0,0.88,0.7,0.05,20,0,0
+2024,16,Italian Grand Prix,LEC,Ferrari,4,7.0,11.0,0.2,0.5,0.05,1,1,1
+2024,16,Italian Grand Prix,PIA,McLaren,2,2.6,16.0,0.2,0.5,0.05,2,1,0
+2024,16,Italian Grand Prix,NOR,McLaren,1,6.2,18.67,0.2,0.5,0.05,3,1,0
+2024,16,Italian Grand Prix,SAI,Ferrari,5,5.0,16.67,0.2,0.5,0.05,4,0,0
+2024,16,Italian Grand Prix,HAM,Mercedes,6,3.4,3.33,0.2,0.5,0.05,5,0,0
+2024,16,Italian Grand Prix,VER,Red Bull,7,3.6,11.0,0.2,0.5,0.05,6,0,0
+2024,16,Italian Grand Prix,RUS,Mercedes,3,11.2,6.67,0.2,0.5,0.05,7,0,0
+2024,16,Italian Grand Prix,PER,Red Bull,8,8.8,11.33,0.2,0.5,0.05,8,0,0
+2024,16,Italian Grand Prix,ALB,Williams,9,12.8,0.0,0.2,0.5,0.05,9,0,0
+2024,16,Italian Grand Prix,MAG,Haas F1 Team,13,13.4,0.0,0.2,0.5,0.05,10,0,0
+2024,16,Italian Grand Prix,ALO,Aston Martin,11,11.0,0.33,0.2,0.5,0.05,11,0,0
+2024,16,Italian Grand Prix,COL,Williams,18,18.0,0.67,0.2,0.5,0.05,12,0,0
+2024,16,Italian Grand Prix,RIC,RB F1 Team,12,11.2,0.0,0.2,0.5,0.05,13,0,0
+2024,16,Italian Grand Prix,OCO,Alpine F1 Team,15,14.0,0.67,0.2,0.5,0.05,14,0,0
+2024,16,Italian Grand Prix,GAS,Alpine F1 Team,14,14.4,0.67,0.2,0.5,0.05,15,0,0
+2024,16,Italian Grand Prix,BOT,Sauber,19,16.2,0.0,0.2,0.5,0.05,16,0,0
+2024,16,Italian Grand Prix,HUL,Haas F1 Team,10,10.8,0.33,0.2,0.5,0.05,17,0,0
+2024,16,Italian Grand Prix,ZHO,Sauber,20,18.8,0.0,0.2,0.5,0.05,18,0,0
+2024,16,Italian Grand Prix,STR,Aston Martin,17,10.8,0.33,0.2,0.5,0.05,19,0,0
+2024,16,Italian Grand Prix,TSU,RB F1 Team,16,13.2,0.0,0.2,0.5,0.05,20,0,0
+2024,17,Azerbaijan Grand Prix,PIA,McLaren,2,2.6,15.33,0.45,0.5,0.05,1,1,1
+2024,17,Azerbaijan Grand Prix,LEC,Ferrari,1,5.0,15.67,0.45,0.5,0.05,2,1,0
+2024,17,Azerbaijan Grand Prix,RUS,Mercedes,5,12.4,6.67,0.45,0.5,0.05,3,1,0
+2024,17,Azerbaijan Grand Prix,NOR,McLaren,15,2.8,19.67,0.45,0.5,0.05,4,0,0
+2024,17,Azerbaijan Grand Prix,VER,Red Bull,6,3.8,6.67,0.45,0.5,0.05,5,0,0
+2024,17,Azerbaijan Grand Prix,ALO,Aston Martin,7,9.6,0.0,0.45,0.5,0.05,6,0,0
+2024,17,Azerbaijan Grand Prix,ALB,Williams,9,11.6,0.67,0.45,0.5,0.05,7,0,0
+2024,17,Azerbaijan Grand Prix,COL,Williams,8,12.0,2.67,0.45,0.5,0.05,8,0,0
+2024,17,Azerbaijan Grand Prix,HAM,Mercedes,19,3.6,10.33,0.45,0.5,0.05,9,0,0
+2024,17,Azerbaijan Grand Prix,BEA,Haas F1 Team,10,7.0,0.33,0.45,0.5,0.05,10,0,0
+2024,17,Azerbaijan Grand Prix,HUL,Haas F1 Team,12,13.0,0.67,0.45,0.5,0.05,11,0,0
+2024,17,Azerbaijan Grand Prix,GAS,Alpine F1 Team,18,15.4,0.0,0.45,0.5,0.05,12,0,0
+2024,17,Azerbaijan Grand Prix,RIC,RB F1 Team,14,12.0,0.0,0.45,0.5,0.05,13,0,0
+2024,17,Azerbaijan Grand Prix,ZHO,Sauber,17,19.0,0.0,0.45,0.5,0.05,14,0,0
+2024,17,Azerbaijan Grand Prix,OCO,Alpine F1 Team,20,14.4,0.0,0.45,0.5,0.05,15,0,0
+2024,17,Azerbaijan Grand Prix,BOT,Sauber,16,16.2,0.0,0.45,0.5,0.05,16,0,0
+2024,17,Azerbaijan Grand Prix,PER,Red Bull,4,9.0,7.33,0.45,0.5,0.05,17,0,0
+2024,17,Azerbaijan Grand Prix,SAI,Ferrari,3,5.2,18.33,0.45,0.5,0.05,18,0,0
+2024,17,Azerbaijan Grand Prix,STR,Aston Martin,13,12.0,2.67,0.45,0.5,0.05,19,0,0
+2024,17,Azerbaijan Grand Prix,TSU,RB F1 Team,11,14.4,0.0,0.45,0.5,0.05,20,0,0
+2024,18,Singapore Grand Prix,NOR,McLaren,1,3.0,18.0,0.9,0.85,0.05,1,1,1
+2024,18,Singapore Grand Prix,VER,Red Bull,2,4.4,4.67,0.9,0.85,0.05,2,1,0
+2024,18,Singapore Grand Prix,PIA,McLaren,5,2.0,21.0,0.9,0.85,0.05,3,1,0
+2024,18,Singapore Grand Prix,RUS,Mercedes,4,9.0,7.67,0.9,0.85,0.05,4,0,0
+2024,18,Singapore Grand Prix,LEC,Ferrari,9,2.6,10.0,0.9,0.85,0.05,5,0,0
+2024,18,Singapore Grand Prix,HAM,Mercedes,3,5.2,9.67,0.9,0.85,0.05,6,0,0
+2024,18,Singapore Grand Prix,SAI,Ferrari,10,7.8,9.33,0.9,0.85,0.05,7,0,0
+2024,18,Singapore Grand Prix,ALO,Aston Martin,7,9.2,2.67,0.9,0.85,0.05,8,0,0
+2024,18,Singapore Grand Prix,HUL,Haas F1 Team,6,14.0,0.33,0.9,0.85,0.05,9,0,0
+2024,18,Singapore Grand Prix,PER,Red Bull,13,9.0,9.33,0.9,0.85,0.05,10,0,0
+2024,18,Singapore Grand Prix,COL,Williams,12,10.0,3.33,0.9,0.85,0.05,11,0,0
+2024,18,Singapore Grand Prix,TSU,RB F1 Team,8,16.4,0.0,0.9,0.85,0.05,12,0,0
+2024,18,Singapore Grand Prix,OCO,Alpine F1 Team,15,14.2,0.0,0.9,0.85,0.05,13,0,0
+2024,18,Singapore Grand Prix,STR,Aston Martin,17,14.4,4.0,0.9,0.85,0.05,14,0,0
+2024,18,Singapore Grand Prix,ZHO,Sauber,20,18.2,0.0,0.9,0.85,0.05,15,0,0
+2024,18,Singapore Grand Prix,BOT,Sauber,19,16.4,0.0,0.9,0.85,0.05,16,0,0
+2024,18,Singapore Grand Prix,GAS,Alpine F1 Team,18,13.8,0.0,0.9,0.85,0.05,17,0,0
+2024,18,Singapore Grand Prix,RIC,RB F1 Team,16,12.0,0.0,0.9,0.85,0.05,18,0,0
+2024,18,Singapore Grand Prix,MAG,Haas F1 Team,14,13.8,1.0,0.9,0.85,0.05,19,0,0
+2024,18,Singapore Grand Prix,ALB,Williams,11,11.2,3.33,0.9,0.85,0.05,20,0,0
+2024,19,United States Grand Prix,LEC,Ferrari,4,2.8,5.33,0.65,0.65,0.05,1,1,1
+2024,19,United States Grand Prix,SAI,Ferrari,3,8.0,13.67,0.65,0.65,0.05,2,1,0
+2024,19,United States Grand Prix,VER,Red Bull,2,3.8,6.33,0.65,0.65,0.05,3,1,0
+2024,19,United States Grand Prix,NOR,McLaren,1,2.8,17.67,0.65,0.65,0.05,4,0,0
+2024,19,United States Grand Prix,PIA,McLaren,5,2.4,17.33,0.65,0.65,0.05,5,0,0
+2024,19,United States Grand Prix,RUS,Mercedes,20,8.2,7.33,0.65,0.65,0.05,6,0,0
+2024,19,United States Grand Prix,PER,Red Bull,9,9.6,11.33,0.65,0.65,0.05,7,0,0
+2024,19,United States Grand Prix,HUL,Haas F1 Team,11,13.2,0.67,0.65,0.65,0.05,8,0,0
+2024,19,United States Grand Prix,LAW,RB F1 Team,19,12.2,0.0,0.65,0.65,0.05,9,0,0
+2024,19,United States Grand Prix,COL,Williams,15,10.33,1.33,0.65,0.65,0.05,10,0,0
+2024,19,United States Grand Prix,MAG,Haas F1 Team,8,15.2,2.0,0.65,0.65,0.05,11,0,0
+2024,19,United States Grand Prix,GAS,Alpine F1 Team,6,13.2,0.0,0.65,0.65,0.05,12,0,0
+2024,19,United States Grand Prix,ALO,Aston Martin,7,8.6,1.33,0.65,0.65,0.05,13,0,0
+2024,19,United States Grand Prix,TSU,RB F1 Team,10,17.0,0.67,0.65,0.65,0.05,14,0,0
+2024,19,United States Grand Prix,STR,Aston Martin,13,15.2,1.33,0.65,0.65,0.05,15,0,0
+2024,19,United States Grand Prix,ALB,Williams,14,12.4,0.33,0.65,0.65,0.05,16,0,0
+2024,19,United States Grand Prix,BOT,Sauber,16,16.4,0.0,0.65,0.65,0.05,17,0,0
+2024,19,United States Grand Prix,OCO,Alpine F1 Team,12,13.2,0.0,0.65,0.65,0.05,18,0,0
+2024,19,United States Grand Prix,ZHO,Sauber,18,17.4,0.0,0.65,0.65,0.05,19,0,0
+2024,19,United States Grand Prix,HAM,Mercedes,17,5.8,9.33,0.65,0.65,0.05,20,0,0
+2024,20,Mexico City Grand Prix,SAI,Ferrari,1,7.2,16.33,0.95,0.6,0.05,1,1,1
+2024,20,Mexico City Grand Prix,NOR,McLaren,3,2.6,12.33,0.95,0.6,0.05,2,1,0
+2024,20,Mexico City Grand Prix,LEC,Ferrari,4,2.4,22.67,0.95,0.6,0.05,3,1,0
+2024,20,Mexico City Grand Prix,HAM,Mercedes,6,9.6,5.33,0.95,0.6,0.05,4,0,0
+2024,20,Mexico City Grand Prix,RUS,Mercedes,5,5.4,6.67,0.95,0.6,0.05,5,0,0
+2024,20,Mexico City Grand Prix,VER,Red Bull,2,3.6,7.33,0.95,0.6,0.05,6,0,0
+2024,20,Mexico City Grand Prix,MAG,Haas F1 Team,7,14.4,1.33,0.95,0.6,0.05,7,0,0
+2024,20,Mexico City Grand Prix,PIA,McLaren,17,3.0,13.33,0.95,0.6,0.05,8,0,0
+2024,20,Mexico City Grand Prix,HUL,Haas F1 Team,10,11.2,3.33,0.95,0.6,0.05,9,0,0
+2024,20,Mexico City Grand Prix,GAS,Alpine F1 Team,8,13.0,0.0,0.95,0.6,0.05,10,0,0
+2024,20,Mexico City Grand Prix,STR,Aston Martin,14,16.0,0.0,0.95,0.6,0.05,11,0,0
+2024,20,Mexico City Grand Prix,COL,Williams,16,10.25,0.33,0.95,0.6,0.05,12,0,0
+2024,20,Mexico City Grand Prix,OCO,Alpine F1 Team,20,15.0,0.33,0.95,0.6,0.05,13,0,0
+2024,20,Mexico City Grand Prix,BOT,Sauber,15,16.8,0.0,0.95,0.6,0.05,14,0,0
+2024,20,Mexico City Grand Prix,ZHO,Sauber,19,17.2,0.0,0.95,0.6,0.05,15,0,0
+2024,20,Mexico City Grand Prix,LAW,RB F1 Team,12,11.4,0.67,0.95,0.6,0.05,16,0,0
+2024,20,Mexico City Grand Prix,PER,Red Bull,18,9.6,9.67,0.95,0.6,0.05,17,0,0
+2024,20,Mexico City Grand Prix,ALO,Aston Martin,13,9.6,0.0,0.95,0.6,0.05,20,0,0
+2024,20,Mexico City Grand Prix,ALB,Williams,9,13.2,0.33,0.95,0.6,0.05,20,0,0
+2024,20,Mexico City Grand Prix,TSU,RB F1 Team,11,16.6,0.67,0.95,0.6,0.05,20,0,0
+2024,21,São Paulo Grand Prix,VER,Red Bull,17,4.4,4.67,0.65,0.65,0.05,1,1,1
+2024,21,São Paulo Grand Prix,OCO,Alpine F1 Team,4,14.6,0.33,0.65,0.65,0.05,2,1,0
+2024,21,São Paulo Grand Prix,GAS,Alpine F1 Team,13,13.2,6.33,0.65,0.65,0.05,3,1,0
+2024,21,São Paulo Grand Prix,RUS,Mercedes,2,5.0,7.33,0.65,0.65,0.05,4,0,0
+2024,21,São Paulo Grand Prix,LEC,Ferrari,6,2.4,19.67,0.65,0.65,0.05,5,0,0
+2024,21,São Paulo Grand Prix,NOR,McLaren,1,2.8,10.67,0.65,0.65,0.05,6,0,0
+2024,21,São Paulo Grand Prix,TSU,RB F1 Team,3,17.2,0.0,0.65,0.65,0.05,7,0,0
+2024,21,São Paulo Grand Prix,PIA,McLaren,8,3.8,10.0,0.65,0.65,0.05,8,0,0
+2024,21,São Paulo Grand Prix,LAW,RB F1 Team,5,12.4,2.0,0.65,0.65,0.05,9,0,0
+2024,21,São Paulo Grand Prix,HAM,Mercedes,14,8.8,11.33,0.65,0.65,0.05,10,0,0
+2024,21,São Paulo Grand Prix,PER,Red Bull,12,11.8,11.33,0.65,0.65,0.05,11,0,0
+2024,21,São Paulo Grand Prix,BEA,Haas F1 Team,15,8.5,2.67,0.65,0.65,0.05,12,0,0
+2024,21,São Paulo Grand Prix,BOT,Sauber,11,15.8,0.0,0.65,0.65,0.05,13,0,0
+2024,21,São Paulo Grand Prix,ALO,Aston Martin,9,11.6,0.0,0.65,0.65,0.05,14,0,0
+2024,21,São Paulo Grand Prix,ZHO,Sauber,19,16.2,0.0,0.65,0.65,0.05,15,0,0
+2024,21,São Paulo Grand Prix,SAI,Ferrari,20,6.4,17.0,0.65,0.65,0.05,20,0,0
+2024,21,São Paulo Grand Prix,COL,Williams,16,10.6,0.0,0.65,0.65,0.05,20,0,0
+2024,21,São Paulo Grand Prix,ALB,Williams,7,14.4,0.0,0.65,0.65,0.05,20,0,0
+2024,21,São Paulo Grand Prix,STR,Aston Martin,10,15.6,0.0,0.65,0.65,0.05,20,0,0
+2024,21,São Paulo Grand Prix,HUL,Haas F1 Team,18,10.8,2.67,0.65,0.65,0.05,20,0,0
+2024,22,Las Vegas Grand Prix,RUS,Mercedes,1,4.4,7.67,0.3,0.4,0.05,1,1,1
+2024,22,Las Vegas Grand Prix,HAM,Mercedes,10,9.8,12.67,0.3,0.4,0.05,2,1,0
+2024,22,Las Vegas Grand Prix,SAI,Ferrari,2,9.6,8.67,0.3,0.4,0.05,3,1,0
+2024,22,Las Vegas Grand Prix,LEC,Ferrari,4,3.2,8.33,0.3,0.4,0.05,4,0,0
+2024,22,Las Vegas Grand Prix,VER,Red Bull,5,3.4,8.67,0.3,0.4,0.05,5,0,0
+2024,22,Las Vegas Grand Prix,NOR,McLaren,6,3.4,5.33,0.3,0.4,0.05,6,0,0
+2024,22,Las Vegas Grand Prix,PIA,McLaren,8,5.0,7.0,0.3,0.4,0.05,7,0,0
+2024,22,Las Vegas Grand Prix,HUL,Haas F1 Team,9,11.4,0.67,0.3,0.4,0.05,8,0,0
+2024,22,Las Vegas Grand Prix,TSU,RB F1 Team,7,14.6,2.67,0.3,0.4,0.05,9,0,0
+2024,22,Las Vegas Grand Prix,PER,Red Bull,15,12.4,12.0,0.3,0.4,0.05,10,0,0
+2024,22,Las Vegas Grand Prix,ALO,Aston Martin,16,12.2,0.0,0.3,0.4,0.05,11,0,0
+2024,22,Las Vegas Grand Prix,MAG,Haas F1 Team,12,13.0,1.33,0.3,0.4,0.05,12,0,0
+2024,22,Las Vegas Grand Prix,ZHO,Sauber,13,15.6,0.0,0.3,0.4,0.05,13,0,0
+2024,22,Las Vegas Grand Prix,COL,Williams,20,12.2,0.0,0.3,0.4,0.05,14,0,0
+2024,22,Las Vegas Grand Prix,STR,Aston Martin,18,15.8,0.0,0.3,0.4,0.05,15,0,0
+2024,22,Las Vegas Grand Prix,LAW,RB F1 Team,14,12.4,3.33,0.3,0.4,0.05,16,0,0
+2024,22,Las Vegas Grand Prix,OCO,Alpine F1 Team,11,12.2,11.0,0.3,0.4,0.05,17,0,0
+2024,22,Las Vegas Grand Prix,BOT,Sauber,19,15.2,0.0,0.3,0.4,0.05,18,0,0
+2024,22,Las Vegas Grand Prix,ALB,Williams,17,16.6,0.0,0.3,0.4,0.05,20,0,0
+2024,22,Las Vegas Grand Prix,GAS,Alpine F1 Team,3,10.8,11.0,0.3,0.4,0.05,20,0,0
+2024,23,Qatar Grand Prix,VER,Red Bull,2,3.4,3.67,0.8,0.9,0.05,1,1,1
+2024,23,Qatar Grand Prix,LEC,Ferrari,5,3.6,9.0,0.8,0.9,0.05,2,1,0
+2024,23,Qatar Grand Prix,PIA,McLaren,4,6.2,6.33,0.8,0.9,0.05,3,1,0
+2024,23,Qatar Grand Prix,RUS,Mercedes,1,4.0,14.67,0.8,0.9,0.05,4,0,0
+2024,23,Qatar Grand Prix,GAS,Alpine F1 Team,11,12.4,5.0,0.8,0.9,0.05,5,0,0
+2024,23,Qatar Grand Prix,SAI,Ferrari,7,6.6,15.0,0.8,0.9,0.05,6,0,0
+2024,23,Qatar Grand Prix,ALO,Aston Martin,8,13.2,0.0,0.8,0.9,0.05,7,0,0
+2024,23,Qatar Grand Prix,ZHO,Sauber,12,15.4,0.0,0.8,0.9,0.05,8,0,0
+2024,23,Qatar Grand Prix,MAG,Haas F1 Team,10,11.8,1.33,0.8,0.9,0.05,9,0,0
+2024,23,Qatar Grand Prix,NOR,McLaren,3,3.8,10.0,0.8,0.9,0.05,10,0,0
+2024,23,Qatar Grand Prix,BOT,Sauber,13,15.6,1.33,0.8,0.9,0.05,11,0,0
+2024,23,Qatar Grand Prix,HAM,Mercedes,6,8.4,18.33,0.8,0.9,0.05,12,0,0
+2024,23,Qatar Grand Prix,TSU,RB F1 Team,14,12.4,1.33,0.8,0.9,0.05,13,0,0
+2024,23,Qatar Grand Prix,LAW,RB F1 Team,17,13.4,0.67,0.8,0.9,0.05,14,0,0
+2024,23,Qatar Grand Prix,ALB,Williams,16,19.2,0.0,0.8,0.9,0.05,15,0,0
+2024,23,Qatar Grand Prix,HUL,Haas F1 Team,18,10.8,2.0,0.8,0.9,0.05,20,0,0
+2024,23,Qatar Grand Prix,PER,Red Bull,9,11.0,12.0,0.8,0.9,0.05,20,0,0
+2024,23,Qatar Grand Prix,STR,Aston Martin,15,15.0,2.0,0.8,0.9,0.05,20,0,0
+2024,23,Qatar Grand Prix,COL,Williams,19,13.4,0.0,0.8,0.9,0.05,20,0,0
+2024,23,Qatar Grand Prix,OCO,Alpine F1 Team,20,12.6,3.33,0.8,0.9,0.05,20,0,0
+2024,24,Abu Dhabi Grand Prix,NOR,McLaren,1,5.6,7.67,0.65,0.65,0.05,1,1,1
+2024,24,Abu Dhabi Grand Prix,SAI,Ferrari,3,6.4,12.67,0.65,0.65,0.05,2,1,0
+2024,24,Abu Dhabi Grand Prix,LEC,Ferrari,19,3.0,14.67,0.65,0.65,0.05,3,1,0
+2024,24,Abu Dhabi Grand Prix,HAM,Mercedes,16,9.6,10.0,0.65,0.65,0.05,4,0,0
+2024,24,Abu Dhabi Grand Prix,RUS,Mercedes,6,4.0,8.0,0.65,0.65,0.05,5,0,0
+2024,24,Abu Dhabi Grand Prix,VER,Red Bull,4,3.2,8.67,0.65,0.65,0.05,6,0,0
+2024,24,Abu Dhabi Grand Prix,GAS,Alpine F1 Team,5,10.0,3.33,0.65,0.65,0.05,7,0,0
+2024,24,Abu Dhabi Grand Prix,HUL,Haas F1 Team,7,13.0,0.67,0.65,0.65,0.05,8,0,0
+2024,24,Abu Dhabi Grand Prix,ALO,Aston Martin,8,13.0,2.0,0.65,0.65,0.05,9,0,0
+2024,24,Abu Dhabi Grand Prix,PIA,McLaren,2,6.2,14.0,0.65,0.65,0.05,10,0,0
+2024,24,Abu Dhabi Grand Prix,ALB,Williams,18,18.2,0.0,0.65,0.65,0.05,11,0,0
+2024,24,Abu Dhabi Grand Prix,TSU,RB F1 Team,11,12.6,0.0,0.65,0.65,0.05,12,0,0
+2024,24,Abu Dhabi Grand Prix,ZHO,Sauber,15,14.0,1.33,0.65,0.65,0.05,13,0,0
+2024,24,Abu Dhabi Grand Prix,STR,Aston Martin,13,16.2,2.67,0.65,0.65,0.05,14,0,0
+2024,24,Abu Dhabi Grand Prix,DOO,Alpine F1 Team,17,17.0,5.33,0.65,0.65,0.05,15,0,0
+2024,24,Abu Dhabi Grand Prix,MAG,Haas F1 Team,14,11.6,2.0,0.65,0.65,0.05,16,0,0
+2024,24,Abu Dhabi Grand Prix,LAW,RB F1 Team,12,12.8,0.0,0.65,0.65,0.05,17,0,0
+2024,24,Abu Dhabi Grand Prix,BOT,Sauber,9,14.6,1.33,0.65,0.65,0.05,20,0,0
+2024,24,Abu Dhabi Grand Prix,COL,Williams,20,15.2,0.0,0.65,0.65,0.05,20,0,0
+2024,24,Abu Dhabi Grand Prix,PER,Red Bull,10,13.0,11.0,0.65,0.65,0.05,20,0,0
+2025,1,Australian Grand Prix,NOR,McLaren,1,5.0,9.33,0.6,0.6,0.05,1,1,1
+2025,1,Australian Grand Prix,VER,Red Bull,3,3.8,2.67,0.6,0.6,0.05,2,1,0
+2025,1,Australian Grand Prix,RUS,Mercedes,4,3.8,7.33,0.6,0.6,0.05,3,1,0
+2025,1,Australian Grand Prix,ANT,Mercedes,16,16.0,12.33,0.6,0.6,0.05,4,0,0
+2025,1,Australian Grand Prix,ALB,Williams,6,17.2,0.0,0.6,0.6,0.05,5,0,0
+2025,1,Australian Grand Prix,STR,Aston Martin,13,16.0,0.67,0.6,0.6,0.05,6,0,0
+2025,1,Australian Grand Prix,HUL,Sauber,17,13.0,0.0,0.6,0.6,0.05,7,0,0
+2025,1,Australian Grand Prix,LEC,Ferrari,7,3.4,13.67,0.6,0.6,0.05,8,0,0
+2025,1,Australian Grand Prix,PIA,McLaren,2,7.2,17.0,0.6,0.6,0.05,9,0,0
+2025,1,Australian Grand Prix,HAM,Ferrari,8,6.4,12.33,0.6,0.6,0.05,10,0,0
+2025,1,Australian Grand Prix,GAS,Alpine F1 Team,9,9.0,2.0,0.6,0.6,0.05,11,0,0
+2025,1,Australian Grand Prix,TSU,RB F1 Team,5,12.2,0.0,0.6,0.6,0.05,12,0,0
+2025,1,Australian Grand Prix,OCO,Haas F1 Team,19,14.0,1.33,0.6,0.6,0.05,13,0,0
+2025,1,Australian Grand Prix,BEA,Haas F1 Team,20,9.67,1.33,0.6,0.6,0.05,14,0,0
+2025,1,Australian Grand Prix,LAW,Red Bull,18,14.4,8.67,0.6,0.6,0.05,20,0,0
+2025,1,Australian Grand Prix,BOR,Sauber,15,15.0,2.0,0.6,0.6,0.05,20,0,0
+2025,1,Australian Grand Prix,ALO,Aston Martin,12,12.2,3.33,0.6,0.6,0.05,20,0,0
+2025,1,Australian Grand Prix,SAI,Williams,10,6.4,3.33,0.6,0.6,0.05,20,0,0
+2025,1,Australian Grand Prix,DOO,Alpine F1 Team,14,15.0,2.0,0.6,0.6,0.05,20,0,0
+2025,1,Australian Grand Prix,HAD,RB F1 Team,11,11.0,0.0,0.6,0.6,0.05,20,0,0
+2025,2,Chinese Grand Prix,PIA,McLaren,1,7.4,9.33,0.7,0.7,0.05,1,1,1
+2025,2,Chinese Grand Prix,NOR,McLaren,3,4.8,17.33,0.7,0.7,0.05,2,1,0
+2025,2,Chinese Grand Prix,RUS,Mercedes,2,3.4,12.33,0.7,0.7,0.05,3,1,0
+2025,2,Chinese Grand Prix,VER,Red Bull,4,3.0,6.0,0.7,0.7,0.05,4,0,0
+2025,2,Chinese Grand Prix,OCO,Haas F1 Team,11,13.0,0.0,0.7,0.7,0.05,5,0,0
+2025,2,Chinese Grand Prix,ANT,Mercedes,8,4.0,14.0,0.7,0.7,0.05,6,0,0
+2025,2,Chinese Grand Prix,ALB,Williams,10,14.2,3.33,0.7,0.7,0.05,7,0,0
+2025,2,Chinese Grand Prix,BEA,Haas F1 Team,17,10.75,3.33,0.7,0.7,0.05,8,0,0
+2025,2,Chinese Grand Prix,STR,Aston Martin,14,15.0,2.67,0.7,0.7,0.05,9,0,0
+2025,2,Chinese Grand Prix,SAI,Williams,15,10.2,5.33,0.7,0.7,0.05,10,0,0
+2025,2,Chinese Grand Prix,HAD,RB F1 Team,7,20.0,0.0,0.7,0.7,0.05,11,0,0
+2025,2,Chinese Grand Prix,LAW,Red Bull,20,15.2,10.0,0.7,0.7,0.05,12,0,0
+2025,2,Chinese Grand Prix,DOO,Alpine F1 Team,18,17.5,0.0,0.7,0.7,0.05,13,0,0
+2025,2,Chinese Grand Prix,BOR,Sauber,19,20.0,2.0,0.7,0.7,0.05,14,0,0
+2025,2,Chinese Grand Prix,HUL,Sauber,12,12.6,2.0,0.7,0.7,0.05,15,0,0
+2025,2,Chinese Grand Prix,TSU,RB F1 Team,9,10.6,0.0,0.7,0.7,0.05,16,0,0
+2025,2,Chinese Grand Prix,ALO,Aston Martin,13,12.2,3.33,0.7,0.7,0.05,20,0,0
+2025,2,Chinese Grand Prix,LEC,Ferrari,6,4.4,6.67,0.7,0.7,0.05,20,0,0
+2025,2,Chinese Grand Prix,HAM,Ferrari,5,7.6,1.67,0.7,0.7,0.05,20,0,0
+2025,2,Chinese Grand Prix,GAS,Alpine F1 Team,16,9.2,0.0,0.7,0.7,0.05,20,0,0
+2025,3,Japanese Grand Prix,VER,Red Bull,1,3.6,4.0,0.85,0.8,0.05,1,1,1
+2025,3,Japanese Grand Prix,NOR,McLaren,2,4.0,15.0,0.85,0.8,0.05,2,1,0
+2025,3,Japanese Grand Prix,PIA,McLaren,3,6.0,20.33,0.85,0.8,0.05,3,1,0
+2025,3,Japanese Grand Prix,LEC,Ferrari,4,7.4,0.33,0.85,0.8,0.05,4,0,0
+2025,3,Japanese Grand Prix,RUS,Mercedes,5,3.2,11.67,0.85,0.8,0.05,5,0,0
+2025,3,Japanese Grand Prix,ANT,Mercedes,6,5.0,11.0,0.85,0.8,0.05,6,0,0
+2025,3,Japanese Grand Prix,HAM,Ferrari,8,9.6,4.0,0.85,0.8,0.05,7,0,0
+2025,3,Japanese Grand Prix,HAD,RB F1 Team,7,15.5,0.0,0.85,0.8,0.05,8,0,0
+2025,3,Japanese Grand Prix,ALB,Williams,9,11.6,2.33,0.85,0.8,0.05,9,0,0
+2025,3,Japanese Grand Prix,BEA,Haas F1 Team,10,10.2,4.67,0.85,0.8,0.05,10,0,0
+2025,3,Japanese Grand Prix,ALO,Aston Martin,12,13.4,0.67,0.85,0.8,0.05,11,0,0
+2025,3,Japanese Grand Prix,TSU,Red Bull,14,12.4,12.33,0.85,0.8,0.05,12,0,0
+2025,3,Japanese Grand Prix,GAS,Alpine F1 Team,11,12.6,0.0,0.85,0.8,0.05,13,0,0
+2025,3,Japanese Grand Prix,SAI,Williams,15,8.2,3.0,0.85,0.8,0.05,14,0,0
+2025,3,Japanese Grand Prix,DOO,Alpine F1 Team,19,16.0,0.0,0.85,0.8,0.05,15,0,0
+2025,3,Japanese Grand Prix,HUL,Sauber,16,11.6,0.0,0.85,0.8,0.05,16,0,0
+2025,3,Japanese Grand Prix,LAW,RB F1 Team,13,15.8,1.33,0.85,0.8,0.05,17,0,0
+2025,3,Japanese Grand Prix,OCO,Haas F1 Team,18,11.4,5.0,0.85,0.8,0.05,18,0,0
+2025,3,Japanese Grand Prix,BOR,Sauber,17,17.0,0.0,0.85,0.8,0.05,19,0,0
+2025,3,Japanese Grand Prix,STR,Aston Martin,20,12.8,0.67,0.85,0.8,0.05,20,0,0
+2025,4,Bahrain Grand Prix,PIA,McLaren,1,5.2,17.0,0.65,0.65,0.05,1,1,1
+2025,4,Bahrain Grand Prix,RUS,Mercedes,3,4.0,8.67,0.65,0.65,0.05,2,1,0
+2025,4,Bahrain Grand Prix,NOR,McLaren,6,3.2,19.33,0.65,0.65,0.05,3,1,0
+2025,4,Bahrain Grand Prix,LEC,Ferrari,2,7.4,6.0,0.65,0.65,0.05,4,0,0
+2025,4,Bahrain Grand Prix,HAM,Ferrari,9,10.6,10.0,0.65,0.65,0.05,5,0,0
+2025,4,Bahrain Grand Prix,VER,Red Bull,7,2.8,8.33,0.65,0.65,0.05,6,0,0
+2025,4,Bahrain Grand Prix,GAS,Alpine F1 Team,4,11.2,0.0,0.65,0.65,0.05,7,0,0
+2025,4,Bahrain Grand Prix,OCO,Haas F1 Team,14,14.6,1.67,0.65,0.65,0.05,8,0,0
+2025,4,Bahrain Grand Prix,TSU,Red Bull,10,13.0,11.0,0.65,0.65,0.05,9,0,0
+2025,4,Bahrain Grand Prix,BEA,Haas F1 Team,20,10.8,1.67,0.65,0.65,0.05,10,0,0
+2025,4,Bahrain Grand Prix,ANT,Mercedes,5,5.33,12.0,0.65,0.65,0.05,11,0,0
+2025,4,Bahrain Grand Prix,ALB,Williams,15,9.4,1.0,0.65,0.65,0.05,12,0,0
+2025,4,Bahrain Grand Prix,HAD,RB F1 Team,12,13.0,1.33,0.65,0.65,0.05,13,0,0
+2025,4,Bahrain Grand Prix,DOO,Alpine F1 Team,11,15.75,2.0,0.65,0.65,0.05,14,0,0
+2025,4,Bahrain Grand Prix,ALO,Aston Martin,13,13.4,0.0,0.65,0.65,0.05,15,0,0
+2025,4,Bahrain Grand Prix,LAW,RB F1 Team,17,16.0,1.33,0.65,0.65,0.05,16,0,0
+2025,4,Bahrain Grand Prix,STR,Aston Martin,19,13.8,0.0,0.65,0.65,0.05,17,0,0
+2025,4,Bahrain Grand Prix,BOR,Sauber,18,17.67,0.0,0.65,0.65,0.05,18,0,0
+2025,4,Bahrain Grand Prix,SAI,Williams,8,10.4,0.67,0.65,0.65,0.05,20,0,0
+2025,4,Bahrain Grand Prix,HUL,Sauber,16,13.2,0.0,0.65,0.65,0.05,20,0,0
+2025,5,Saudi Arabian Grand Prix,PIA,McLaren,2,4.8,18.33,0.4,0.5,0.05,1,1,1
+2025,5,Saudi Arabian Grand Prix,VER,Red Bull,1,3.8,3.33,0.4,0.5,0.05,2,1,0
+2025,5,Saudi Arabian Grand Prix,LEC,Ferrari,4,7.8,9.33,0.4,0.5,0.05,3,1,0
+2025,5,Saudi Arabian Grand Prix,NOR,McLaren,10,1.8,21.67,0.4,0.5,0.05,4,0,0
+2025,5,Saudi Arabian Grand Prix,RUS,Mercedes,3,3.6,8.67,0.4,0.5,0.05,5,0,0
+2025,5,Saudi Arabian Grand Prix,ANT,Mercedes,5,6.75,9.33,0.4,0.5,0.05,6,0,0
+2025,5,Saudi Arabian Grand Prix,HAM,Ferrari,7,9.2,12.33,0.4,0.5,0.05,7,0,0
+2025,5,Saudi Arabian Grand Prix,SAI,Williams,6,13.2,0.0,0.4,0.5,0.05,8,0,0
+2025,5,Saudi Arabian Grand Prix,ALB,Williams,11,8.8,1.33,0.4,0.5,0.05,9,0,0
+2025,5,Saudi Arabian Grand Prix,HAD,RB F1 Team,14,13.0,0.0,0.4,0.5,0.05,10,0,0
+2025,5,Saudi Arabian Grand Prix,ALO,Aston Martin,13,15.0,0.0,0.4,0.5,0.05,11,0,0
+2025,5,Saudi Arabian Grand Prix,LAW,RB F1 Team,12,16.4,0.33,0.4,0.5,0.05,12,0,0
+2025,5,Saudi Arabian Grand Prix,BEA,Haas F1 Team,15,10.8,1.67,0.4,0.5,0.05,13,0,0
+2025,5,Saudi Arabian Grand Prix,OCO,Haas F1 Team,19,12.8,1.67,0.4,0.5,0.05,14,0,0
+2025,5,Saudi Arabian Grand Prix,HUL,Sauber,18,13.2,0.0,0.4,0.5,0.05,15,0,0
+2025,5,Saudi Arabian Grand Prix,STR,Aston Martin,16,13.2,0.0,0.4,0.5,0.05,16,0,0
+2025,5,Saudi Arabian Grand Prix,DOO,Alpine F1 Team,17,15.4,2.0,0.4,0.5,0.05,17,0,0
+2025,5,Saudi Arabian Grand Prix,BOR,Sauber,20,17.75,0.0,0.4,0.5,0.05,18,0,0
+2025,5,Saudi Arabian Grand Prix,TSU,Red Bull,8,12.2,9.33,0.4,0.5,0.05,20,0,0
+2025,5,Saudi Arabian Grand Prix,GAS,Alpine F1 Team,9,11.6,2.0,0.4,0.5,0.05,20,0,0
+2025,6,Miami Grand Prix,PIA,McLaren,4,3.0,17.33,0.55,0.65,0.05,1,1,1
+2025,6,Miami Grand Prix,NOR,McLaren,2,2.4,20.67,0.55,0.65,0.05,2,1,0
+2025,6,Miami Grand Prix,RUS,Mercedes,5,3.6,6.0,0.55,0.65,0.05,3,1,0
+2025,6,Miami Grand Prix,VER,Red Bull,1,3.0,6.67,0.55,0.65,0.05,4,0,0
+2025,6,Miami Grand Prix,ALB,Williams,7,8.4,2.0,0.55,0.65,0.05,5,0,0
+2025,6,Miami Grand Prix,ANT,Mercedes,3,6.6,11.0,0.55,0.65,0.05,6,0,0
+2025,6,Miami Grand Prix,LEC,Ferrari,8,7.8,10.33,0.55,0.65,0.05,7,0,0
+2025,6,Miami Grand Prix,HAM,Ferrari,12,9.8,9.0,0.55,0.65,0.05,8,0,0
+2025,6,Miami Grand Prix,SAI,Williams,6,14.4,5.33,0.55,0.65,0.05,9,0,0
+2025,6,Miami Grand Prix,TSU,Red Bull,10,13.8,10.0,0.55,0.65,0.05,10,0,0
+2025,6,Miami Grand Prix,HAD,RB F1 Team,11,12.4,0.33,0.55,0.65,0.05,11,0,0
+2025,6,Miami Grand Prix,OCO,Haas F1 Team,9,11.6,0.33,0.55,0.65,0.05,12,0,0
+2025,6,Miami Grand Prix,GAS,Alpine F1 Team,20,14.2,0.0,0.55,0.65,0.05,13,0,0
+2025,6,Miami Grand Prix,HUL,Sauber,16,14.6,0.0,0.55,0.65,0.05,14,0,0
+2025,6,Miami Grand Prix,ALO,Aston Martin,17,15.4,0.0,0.55,0.65,0.05,15,0,0
+2025,6,Miami Grand Prix,STR,Aston Martin,18,13.6,0.0,0.55,0.65,0.05,16,0,0
+2025,6,Miami Grand Prix,LAW,RB F1 Team,15,15.4,0.33,0.55,0.65,0.05,20,0,0
+2025,6,Miami Grand Prix,BOR,Sauber,13,17.8,0.0,0.55,0.65,0.05,20,0,0
+2025,6,Miami Grand Prix,BEA,Haas F1 Team,19,11.0,0.0,0.55,0.65,0.05,20,0,0
+2025,6,Miami Grand Prix,DOO,Alpine F1 Team,14,15.8,0.0,0.55,0.65,0.05,20,0,0
+2025,7,Emilia Romagna Grand Prix,VER,Red Bull,2,3.4,4.33,0.65,0.65,0.05,1,1,1
+2025,7,Emilia Romagna Grand Prix,NOR,McLaren,4,2.6,18.33,0.65,0.65,0.05,2,1,0
+2025,7,Emilia Romagna Grand Prix,PIA,McLaren,1,1.4,20.33,0.65,0.65,0.05,3,1,0
+2025,7,Emilia Romagna Grand Prix,HAM,Ferrari,12,9.4,5.33,0.65,0.65,0.05,4,0,0
+2025,7,Emilia Romagna Grand Prix,ALB,Williams,7,8.4,4.67,0.65,0.65,0.05,5,0,0
+2025,7,Emilia Romagna Grand Prix,LEC,Ferrari,11,7.6,7.33,0.65,0.65,0.05,6,0,0
+2025,7,Emilia Romagna Grand Prix,RUS,Mercedes,3,3.6,10.33,0.65,0.65,0.05,7,0,0
+2025,7,Emilia Romagna Grand Prix,SAI,Williams,6,12.2,7.33,0.65,0.65,0.05,8,0,0
+2025,7,Emilia Romagna Grand Prix,HAD,RB F1 Team,9,10.6,0.0,0.65,0.65,0.05,9,0,0
+2025,7,Emilia Romagna Grand Prix,TSU,Red Bull,20,13.4,12.67,0.65,0.65,0.05,10,0,0
+2025,7,Emilia Romagna Grand Prix,ALO,Aston Martin,5,14.4,0.0,0.65,0.65,0.05,11,0,0
+2025,7,Emilia Romagna Grand Prix,HUL,Sauber,17,16.0,0.0,0.65,0.65,0.05,12,0,0
+2025,7,Emilia Romagna Grand Prix,GAS,Alpine F1 Team,10,14.6,0.0,0.65,0.65,0.05,13,0,0
+2025,7,Emilia Romagna Grand Prix,LAW,RB F1 Team,15,15.4,0.67,0.65,0.65,0.05,14,0,0
+2025,7,Emilia Romagna Grand Prix,STR,Aston Martin,8,15.6,0.0,0.65,0.65,0.05,15,0,0
+2025,7,Emilia Romagna Grand Prix,COL,Alpine F1 Team,16,17.2,0.0,0.65,0.65,0.05,16,0,0
+2025,7,Emilia Romagna Grand Prix,BEA,Haas F1 Team,19,12.2,0.0,0.65,0.65,0.05,17,0,0
+2025,7,Emilia Romagna Grand Prix,BOR,Sauber,14,17.8,0.0,0.65,0.65,0.05,18,0,0
+2025,7,Emilia Romagna Grand Prix,ANT,Mercedes,13,7.0,9.67,0.65,0.65,0.05,20,0,0
+2025,7,Emilia Romagna Grand Prix,OCO,Haas F1 Team,18,11.4,0.0,0.65,0.65,0.05,20,0,0
+2025,8,Monaco Grand Prix,NOR,McLaren,1,2.6,17.0,0.98,0.3,0.05,1,1,1
+2025,8,Monaco Grand Prix,LEC,Ferrari,2,4.8,8.0,0.98,0.3,0.05,2,1,0
+2025,8,Monaco Grand Prix,PIA,McLaren,3,1.8,19.33,0.98,0.3,0.05,3,1,0
+2025,8,Monaco Grand Prix,VER,Red Bull,4,2.8,9.0,0.98,0.3,0.05,4,0,0
+2025,8,Monaco Grand Prix,HAM,Ferrari,7,6.2,12.67,0.98,0.3,0.05,5,0,0
+2025,8,Monaco Grand Prix,HAD,RB F1 Team,5,10.2,0.67,0.98,0.3,0.05,6,0,0
+2025,8,Monaco Grand Prix,OCO,Haas F1 Team,8,14.4,0.0,0.98,0.3,0.05,7,0,0
+2025,8,Monaco Grand Prix,LAW,RB F1 Team,9,15.8,3.33,0.98,0.3,0.05,8,0,0
+2025,8,Monaco Grand Prix,ALB,Williams,10,8.0,5.33,0.98,0.3,0.05,9,0,0
+2025,8,Monaco Grand Prix,SAI,Williams,11,11.8,5.33,0.98,0.3,0.05,10,0,0
+2025,8,Monaco Grand Prix,RUS,Mercedes,14,4.4,4.67,0.98,0.3,0.05,11,0,0
+2025,8,Monaco Grand Prix,BEA,Haas F1 Team,20,14.0,2.0,0.98,0.3,0.05,12,0,0
+2025,8,Monaco Grand Prix,COL,Alpine F1 Team,18,18.0,0.0,0.98,0.3,0.05,13,0,0
+2025,8,Monaco Grand Prix,BOR,Sauber,16,18.6,0.0,0.98,0.3,0.05,14,0,0
+2025,8,Monaco Grand Prix,STR,Aston Martin,19,16.8,0.0,0.98,0.3,0.05,15,0,0
+2025,8,Monaco Grand Prix,HUL,Sauber,13,15.4,0.0,0.98,0.3,0.05,16,0,0
+2025,8,Monaco Grand Prix,TSU,Red Bull,12,12.2,12.67,0.98,0.3,0.05,17,0,0
+2025,8,Monaco Grand Prix,ANT,Mercedes,15,9.8,2.0,0.98,0.3,0.05,18,0,0
+2025,8,Monaco Grand Prix,ALO,Aston Martin,6,12.6,0.0,0.98,0.3,0.05,20,0,0
+2025,8,Monaco Grand Prix,GAS,Alpine F1 Team,17,13.2,0.0,0.98,0.3,0.05,20,0,0
+2025,9,Spanish Grand Prix,PIA,McLaren,1,1.8,18.33,0.6,0.75,0.05,1,1,1
+2025,9,Spanish Grand Prix,NOR,McLaren,2,2.4,21.67,0.6,0.75,0.05,2,1,0
+2025,9,Spanish Grand Prix,LEC,Ferrari,7,4.4,12.0,0.6,0.75,0.05,3,1,0
+2025,9,Spanish Grand Prix,RUS,Mercedes,4,5.6,0.0,0.6,0.75,0.05,4,0,0
+2025,9,Spanish Grand Prix,HUL,Sauber,15,15.4,0.0,0.6,0.75,0.05,5,0,0
+2025,9,Spanish Grand Prix,HAM,Ferrari,5,5.8,14.33,0.6,0.75,0.05,6,0,0
+2025,9,Spanish Grand Prix,HAD,RB F1 Team,9,9.8,4.0,0.6,0.75,0.05,7,0,0
+2025,9,Spanish Grand Prix,GAS,Alpine F1 Team,8,14.6,0.0,0.6,0.75,0.05,8,0,0
+2025,9,Spanish Grand Prix,ALO,Aston Martin,10,14.4,0.0,0.6,0.75,0.05,9,0,0
+2025,9,Spanish Grand Prix,VER,Red Bull,3,3.4,4.33,0.6,0.75,0.05,10,0,0
+2025,9,Spanish Grand Prix,LAW,RB F1 Team,13,14.0,6.0,0.6,0.75,0.05,11,0,0
+2025,9,Spanish Grand Prix,BOR,Sauber,12,17.6,3.33,0.6,0.75,0.05,12,0,0
+2025,9,Spanish Grand Prix,TSU,Red Bull,19,13.2,4.33,0.6,0.75,0.05,13,0,0
+2025,9,Spanish Grand Prix,SAI,Williams,17,11.0,2.33,0.6,0.75,0.05,14,0,0
+2025,9,Spanish Grand Prix,COL,Alpine F1 Team,18,16.6,1.33,0.6,0.75,0.05,15,0,0
+2025,9,Spanish Grand Prix,OCO,Haas F1 Team,16,12.2,2.0,0.6,0.75,0.05,16,0,0
+2025,9,Spanish Grand Prix,BEA,Haas F1 Team,14,14.4,2.0,0.6,0.75,0.05,17,0,0
+2025,9,Spanish Grand Prix,ANT,Mercedes,6,12.2,4.0,0.6,0.75,0.05,20,0,0
+2025,9,Spanish Grand Prix,ALB,Williams,11,8.0,1.0,0.6,0.75,0.05,20,0,0
+2025,10,Canadian Grand Prix,RUS,Mercedes,1,6.0,4.0,0.65,0.65,0.05,1,1,1
+2025,10,Canadian Grand Prix,VER,Red Bull,2,4.2,0.33,0.65,0.65,0.05,2,1,0
+2025,10,Canadian Grand Prix,ANT,Mercedes,4,14.0,12.33,0.65,0.65,0.05,3,1,0
+2025,10,Canadian Grand Prix,PIA,McLaren,3,1.8,19.33,0.65,0.65,0.05,4,0,0
+2025,10,Canadian Grand Prix,LEC,Ferrari,8,4.2,11.0,0.65,0.65,0.05,5,0,0
+2025,10,Canadian Grand Prix,HAM,Ferrari,5,6.0,11.0,0.65,0.65,0.05,6,0,0
+2025,10,Canadian Grand Prix,ALO,Aston Martin,6,13.2,0.67,0.65,0.65,0.05,7,0,0
+2025,10,Canadian Grand Prix,HUL,Sauber,11,12.4,3.33,0.65,0.65,0.05,8,0,0
+2025,10,Canadian Grand Prix,OCO,Haas F1 Team,14,13.8,0.0,0.65,0.65,0.05,9,0,0
+2025,10,Canadian Grand Prix,SAI,Williams,16,9.8,0.33,0.65,0.65,0.05,10,0,0
+2025,10,Canadian Grand Prix,BEA,Haas F1 Team,13,15.8,0.67,0.65,0.65,0.05,11,0,0
+2025,10,Canadian Grand Prix,TSU,Red Bull,18,14.0,6.33,0.65,0.65,0.05,12,0,0
+2025,10,Canadian Grand Prix,COL,Alpine F1 Team,10,16.8,1.33,0.65,0.65,0.05,13,0,0
+2025,10,Canadian Grand Prix,BOR,Sauber,15,16.4,4.67,0.65,0.65,0.05,14,0,0
+2025,10,Canadian Grand Prix,GAS,Alpine F1 Team,20,14.8,1.33,0.65,0.65,0.05,15,0,0
+2025,10,Canadian Grand Prix,HAD,RB F1 Team,12,8.6,3.33,0.65,0.65,0.05,16,0,0
+2025,10,Canadian Grand Prix,STR,Aston Martin,17,15.8,2.67,0.65,0.65,0.05,17,0,0
+2025,10,Canadian Grand Prix,NOR,McLaren,7,2.2,18.33,0.65,0.65,0.05,18,0,0
+2025,10,Canadian Grand Prix,LAW,RB F1 Team,19,13.0,2.0,0.65,0.65,0.05,20,0,0
+2025,10,Canadian Grand Prix,ALB,Williams,9,9.6,0.33,0.65,0.65,0.05,20,0,0
+2025,11,Austrian Grand Prix,NOR,McLaren,1,5.0,10.0,0.5,0.7,0.05,1,1,1
+2025,11,Austrian Grand Prix,PIA,McLaren,3,2.4,12.33,0.5,0.7,0.05,2,1,0
+2025,11,Austrian Grand Prix,LEC,Ferrari,2,4.6,8.67,0.5,0.7,0.05,3,1,0
+2025,11,Austrian Grand Prix,HAM,Ferrari,4,5.8,11.0,0.5,0.7,0.05,4,0,0
+2025,11,Austrian Grand Prix,RUS,Mercedes,5,5.2,13.33,0.5,0.7,0.05,5,0,0
+2025,11,Austrian Grand Prix,LAW,RB F1 Team,6,14.6,0.0,0.5,0.7,0.05,6,0,0
+2025,11,Austrian Grand Prix,ALO,Aston Martin,11,12.4,2.67,0.5,0.7,0.05,7,0,0
+2025,11,Austrian Grand Prix,BOR,Sauber,8,15.6,1.33,0.5,0.7,0.05,8,0,0
+2025,11,Austrian Grand Prix,HUL,Sauber,20,11.0,2.67,0.5,0.7,0.05,9,0,0
+2025,11,Austrian Grand Prix,OCO,Haas F1 Team,17,12.8,0.67,0.5,0.7,0.05,10,0,0
+2025,11,Austrian Grand Prix,BEA,Haas F1 Team,15,15.4,1.0,0.5,0.7,0.05,11,0,0
+2025,11,Austrian Grand Prix,HAD,RB F1 Team,13,9.8,2.67,0.5,0.7,0.05,12,0,0
+2025,11,Austrian Grand Prix,GAS,Alpine F1 Team,10,13.8,0.0,0.5,0.7,0.05,13,0,0
+2025,11,Austrian Grand Prix,STR,Aston Martin,16,15.8,4.0,0.5,0.7,0.05,14,0,0
+2025,11,Austrian Grand Prix,COL,Alpine F1 Team,14,15.4,0.0,0.5,0.7,0.05,15,0,0
+2025,11,Austrian Grand Prix,TSU,Red Bull,18,12.4,6.0,0.5,0.7,0.05,16,0,0
+2025,11,Austrian Grand Prix,ALB,Williams,12,11.8,0.33,0.5,0.7,0.05,20,0,0
+2025,11,Austrian Grand Prix,VER,Red Bull,7,4.2,6.0,0.5,0.7,0.05,20,0,0
+2025,11,Austrian Grand Prix,ANT,Mercedes,9,13.4,16.67,0.5,0.7,0.05,20,0,0
+2025,11,Austrian Grand Prix,SAI,Williams,19,10.2,0.33,0.5,0.7,0.05,20,0,0
+2025,12,British Grand Prix,NOR,McLaren,3,4.8,14.33,0.75,0.8,0.05,1,1,1
+2025,12,British Grand Prix,PIA,McLaren,2,2.6,22.67,0.75,0.8,0.05,2,1,0
+2025,12,British Grand Prix,HUL,Sauber,19,10.0,2.0,0.75,0.8,0.05,3,1,0
+2025,12,British Grand Prix,HAM,Ferrari,5,5.0,11.67,0.75,0.8,0.05,4,0,0
+2025,12,British Grand Prix,VER,Red Bull,1,7.4,0.0,0.75,0.8,0.05,5,0,0
+2025,12,British Grand Prix,GAS,Alpine F1 Team,8,13.8,0.0,0.75,0.8,0.05,6,0,0
+2025,12,British Grand Prix,STR,Aston Martin,17,15.4,2.0,0.75,0.8,0.05,7,0,0
+2025,12,British Grand Prix,ALB,Williams,13,14.8,0.0,0.75,0.8,0.05,8,0,0
+2025,12,British Grand Prix,ALO,Aston Martin,7,10.8,4.0,0.75,0.8,0.05,9,0,0
+2025,12,British Grand Prix,RUS,Mercedes,4,5.6,8.33,0.75,0.8,0.05,10,0,0
+2025,12,British Grand Prix,BEA,Haas F1 Team,18,13.6,0.33,0.75,0.8,0.05,11,0,0
+2025,12,British Grand Prix,SAI,Williams,9,12.4,1.33,0.75,0.8,0.05,12,0,0
+2025,12,British Grand Prix,OCO,Haas F1 Team,14,12.4,0.33,0.75,0.8,0.05,13,0,0
+2025,12,British Grand Prix,LEC,Ferrari,6,3.8,13.0,0.75,0.8,0.05,14,0,0
+2025,12,British Grand Prix,TSU,Red Bull,11,13.6,3.33,0.75,0.8,0.05,15,0,0
+2025,12,British Grand Prix,ANT,Mercedes,10,16.2,3.67,0.75,0.8,0.05,20,0,0
+2025,12,British Grand Prix,HAD,RB F1 Team,12,10.0,2.67,0.75,0.8,0.05,20,0,0
+2025,12,British Grand Prix,BOR,Sauber,16,13.2,7.0,0.75,0.8,0.05,20,0,0
+2025,12,British Grand Prix,LAW,RB F1 Team,15,11.8,2.67,0.75,0.8,0.05,20,0,0
+2025,12,British Grand Prix,COL,Alpine F1 Team,20,14.4,2.67,0.75,0.8,0.05,20,0,0
+2025,13,Belgian Grand Prix,PIA,McLaren,2,2.4,20.33,0.6,0.75,0.05,1,1,1
+2025,13,Belgian Grand Prix,NOR,McLaren,1,4.6,22.67,0.6,0.75,0.05,2,1,0
+2025,13,Belgian Grand Prix,LEC,Ferrari,3,5.4,8.0,0.6,0.75,0.05,3,1,0
+2025,13,Belgian Grand Prix,VER,Red Bull,4,8.2,3.33,0.6,0.75,0.05,4,0,0
+2025,13,Belgian Grand Prix,RUS,Mercedes,6,6.2,0.33,0.6,0.75,0.05,5,0,0
+2025,13,Belgian Grand Prix,ALB,Williams,5,15.4,1.33,0.6,0.75,0.05,6,0,0
+2025,13,Belgian Grand Prix,HAM,Ferrari,18,5.0,9.0,0.6,0.75,0.05,7,0,0
+2025,13,Belgian Grand Prix,LAW,RB F1 Team,9,13.0,0.0,0.6,0.75,0.05,8,0,0
+2025,13,Belgian Grand Prix,BOR,Sauber,10,13.6,5.67,0.6,0.75,0.05,9,0,0
+2025,13,Belgian Grand Prix,GAS,Alpine F1 Team,13,12.4,2.67,0.6,0.75,0.05,10,0,0
+2025,13,Belgian Grand Prix,BEA,Haas F1 Team,12,12.4,0.0,0.6,0.75,0.05,11,0,0
+2025,13,Belgian Grand Prix,HUL,Sauber,14,8.2,5.67,0.6,0.75,0.05,12,0,0
+2025,13,Belgian Grand Prix,TSU,Red Bull,7,14.6,7.33,0.6,0.75,0.05,13,0,0
+2025,13,Belgian Grand Prix,STR,Aston Martin,16,13.6,2.67,0.6,0.75,0.05,14,0,0
+2025,13,Belgian Grand Prix,OCO,Haas F1 Team,11,11.0,0.0,0.6,0.75,0.05,15,0,0
+2025,13,Belgian Grand Prix,ANT,Mercedes,19,16.2,3.67,0.6,0.75,0.05,16,0,0
+2025,13,Belgian Grand Prix,ALO,Aston Martin,20,10.4,2.67,0.6,0.75,0.05,17,0,0
+2025,13,Belgian Grand Prix,SAI,Williams,17,13.2,4.0,0.6,0.75,0.05,18,0,0
+2025,13,Belgian Grand Prix,COL,Alpine F1 Team,15,15.2,3.0,0.6,0.75,0.05,19,0,0
+2025,13,Belgian Grand Prix,HAD,RB F1 Team,8,12.2,1.33,0.6,0.75,0.05,20,0,0
+2025,14,Hungarian Grand Prix,NOR,McLaren,3,4.8,20.33,0.9,0.65,0.05,1,1,1
+2025,14,Hungarian Grand Prix,PIA,McLaren,2,2.0,22.67,0.9,0.65,0.05,2,1,0
+2025,14,Hungarian Grand Prix,RUS,Mercedes,4,5.0,3.33,0.9,0.65,0.05,3,1,0
+2025,14,Hungarian Grand Prix,LEC,Ferrari,1,5.6,7.0,0.9,0.65,0.05,4,0,0
+2025,14,Hungarian Grand Prix,ALO,Aston Martin,5,9.8,0.67,0.9,0.65,0.05,5,0,0
+2025,14,Hungarian Grand Prix,BOR,Sauber,7,12.6,0.67,0.9,0.65,0.05,6,0,0
+2025,14,Hungarian Grand Prix,STR,Aston Martin,6,13.4,3.33,0.9,0.65,0.05,7,0,0
+2025,14,Hungarian Grand Prix,LAW,RB F1 Team,9,13.0,1.33,0.9,0.65,0.05,8,0,0
+2025,14,Hungarian Grand Prix,VER,Red Bull,8,8.2,4.0,0.9,0.65,0.05,9,0,0
+2025,14,Hungarian Grand Prix,ANT,Mercedes,15,15.8,8.33,0.9,0.65,0.05,10,0,0
+2025,14,Hungarian Grand Prix,HAD,RB F1 Team,10,15.0,2.67,0.9,0.65,0.05,11,0,0
+2025,14,Hungarian Grand Prix,HAM,Ferrari,12,5.4,11.0,0.9,0.65,0.05,12,0,0
+2025,14,Hungarian Grand Prix,HUL,Sauber,18,7.4,3.33,0.9,0.65,0.05,13,0,0
+2025,14,Hungarian Grand Prix,SAI,Williams,13,14.8,2.67,0.9,0.65,0.05,14,0,0
+2025,14,Hungarian Grand Prix,ALB,Williams,19,14.8,2.67,0.9,0.65,0.05,15,0,0
+2025,14,Hungarian Grand Prix,OCO,Haas F1 Team,17,12.6,0.0,0.9,0.65,0.05,16,0,0
+2025,14,Hungarian Grand Prix,TSU,Red Bull,20,13.8,4.67,0.9,0.65,0.05,17,0,0
+2025,14,Hungarian Grand Prix,COL,Alpine F1 Team,14,16.4,0.33,0.9,0.65,0.05,18,0,0
+2025,14,Hungarian Grand Prix,GAS,Alpine F1 Team,16,10.4,0.33,0.9,0.65,0.05,19,0,0
+2025,14,Hungarian Grand Prix,BEA,Haas F1 Team,11,12.2,0.0,0.9,0.65,0.05,20,0,0
+2025,15,Dutch Grand Prix,PIA,McLaren,1,2.2,20.33,0.88,0.7,0.05,1,1,1
+2025,15,Dutch Grand Prix,VER,Red Bull,3,8.0,0.67,0.88,0.7,0.05,2,1,0
+2025,15,Dutch Grand Prix,HAD,RB F1 Team,4,15.8,1.33,0.88,0.7,0.05,3,1,0
+2025,15,Dutch Grand Prix,RUS,Mercedes,5,4.8,5.33,0.88,0.7,0.05,4,0,0
+2025,15,Dutch Grand Prix,ALB,Williams,15,13.8,0.0,0.88,0.7,0.05,5,0,0
+2025,15,Dutch Grand Prix,BEA,Haas F1 Team,20,12.8,0.0,0.88,0.7,0.05,6,0,0
+2025,15,Dutch Grand Prix,STR,Aston Martin,19,11.8,5.33,0.88,0.7,0.05,7,0,0
+2025,15,Dutch Grand Prix,ALO,Aston Martin,10,9.0,7.33,0.88,0.7,0.05,8,0,0
+2025,15,Dutch Grand Prix,TSU,Red Bull,12,14.6,6.67,0.88,0.7,0.05,9,0,0
+2025,15,Dutch Grand Prix,OCO,Haas F1 Team,18,12.6,2.67,0.88,0.7,0.05,10,0,0
+2025,15,Dutch Grand Prix,COL,Alpine F1 Team,16,17.0,0.0,0.88,0.7,0.05,11,0,0
+2025,15,Dutch Grand Prix,LAW,RB F1 Team,8,12.4,6.33,0.88,0.7,0.05,12,0,0
+2025,15,Dutch Grand Prix,SAI,Williams,9,14.8,3.33,0.88,0.7,0.05,13,0,0
+2025,15,Dutch Grand Prix,HUL,Sauber,17,9.0,2.67,0.88,0.7,0.05,14,0,0
+2025,15,Dutch Grand Prix,BOR,Sauber,13,11.4,2.67,0.88,0.7,0.05,15,0,0
+2025,15,Dutch Grand Prix,ANT,Mercedes,11,13.8,9.33,0.88,0.7,0.05,16,0,0
+2025,15,Dutch Grand Prix,GAS,Alpine F1 Team,14,12.6,0.0,0.88,0.7,0.05,17,0,0
+2025,15,Dutch Grand Prix,NOR,McLaren,2,4.6,22.67,0.88,0.7,0.05,18,0,0
+2025,15,Dutch Grand Prix,LEC,Ferrari,6,5.8,6.0,0.88,0.7,0.05,20,0,0
+2025,15,Dutch Grand Prix,HAM,Ferrari,7,6.6,4.0,0.88,0.7,0.05,20,0,0
+2025,16,Italian Grand Prix,VER,Red Bull,1,8.0,6.67,0.2,0.5,0.05,1,1,1
+2025,16,Italian Grand Prix,NOR,McLaren,2,4.6,14.33,0.2,0.5,0.05,2,1,0
+2025,16,Italian Grand Prix,PIA,McLaren,3,1.6,14.33,0.2,0.5,0.05,3,1,0
+2025,16,Italian Grand Prix,LEC,Ferrari,4,8.8,0.0,0.2,0.5,0.05,4,0,0
+2025,16,Italian Grand Prix,RUS,Mercedes,5,5.4,4.33,0.2,0.5,0.05,5,0,0
+2025,16,Italian Grand Prix,HAM,Ferrari,10,9.4,4.0,0.2,0.5,0.05,6,0,0
+2025,16,Italian Grand Prix,ALB,Williams,14,10.8,3.33,0.2,0.5,0.05,7,0,0
+2025,16,Italian Grand Prix,BOR,Sauber,7,11.6,0.0,0.2,0.5,0.05,8,0,0
+2025,16,Italian Grand Prix,ANT,Mercedes,6,16.4,7.33,0.2,0.5,0.05,9,0,0
+2025,16,Italian Grand Prix,HAD,RB F1 Team,19,13.2,5.0,0.2,0.5,0.05,10,0,0
+2025,16,Italian Grand Prix,SAI,Williams,13,15.4,5.33,0.2,0.5,0.05,11,0,0
+2025,16,Italian Grand Prix,BEA,Haas F1 Team,11,11.8,3.0,0.2,0.5,0.05,12,0,0
+2025,16,Italian Grand Prix,TSU,Red Bull,9,14.0,15.0,0.2,0.5,0.05,13,0,0
+2025,16,Italian Grand Prix,LAW,RB F1 Team,18,10.8,5.33,0.2,0.5,0.05,14,0,0
+2025,16,Italian Grand Prix,OCO,Haas F1 Team,15,12.8,3.0,0.2,0.5,0.05,15,0,0
+2025,16,Italian Grand Prix,GAS,Alpine F1 Team,20,13.0,0.0,0.2,0.5,0.05,16,0,0
+2025,16,Italian Grand Prix,COL,Alpine F1 Team,17,16.6,0.0,0.2,0.5,0.05,17,0,0
+2025,16,Italian Grand Prix,STR,Aston Martin,16,9.8,5.33,0.2,0.5,0.05,18,0,0
+2025,16,Italian Grand Prix,ALO,Aston Martin,8,9.2,3.33,0.2,0.5,0.05,20,0,0
+2025,16,Italian Grand Prix,HUL,Sauber,12,10.2,1.33,0.2,0.5,0.05,20,0,0
+2025,17,Azerbaijan Grand Prix,VER,Red Bull,1,4.2,9.0,0.45,0.5,0.05,1,1,1
+2025,17,Azerbaijan Grand Prix,RUS,Mercedes,5,5.4,4.0,0.45,0.5,0.05,2,1,0
+2025,17,Azerbaijan Grand Prix,SAI,Williams,2,13.6,2.0,0.45,0.5,0.05,3,1,0
+2025,17,Azerbaijan Grand Prix,ANT,Mercedes,4,14.2,10.0,0.45,0.5,0.05,4,0,0
+2025,17,Azerbaijan Grand Prix,LAW,RB F1 Team,3,12.4,0.33,0.45,0.5,0.05,5,0,0
+2025,17,Azerbaijan Grand Prix,TSU,Red Bull,6,13.4,16.67,0.45,0.5,0.05,6,0,0
+2025,17,Azerbaijan Grand Prix,NOR,McLaren,7,4.8,11.0,0.45,0.5,0.05,7,0,0
+2025,17,Azerbaijan Grand Prix,HAM,Ferrari,12,9.8,6.67,0.45,0.5,0.05,8,0,0
+2025,17,Azerbaijan Grand Prix,LEC,Ferrari,10,9.0,8.0,0.45,0.5,0.05,9,0,0
+2025,17,Azerbaijan Grand Prix,HAD,RB F1 Team,8,12.8,3.67,0.45,0.5,0.05,10,0,0
+2025,17,Azerbaijan Grand Prix,BOR,Sauber,13,11.6,1.33,0.45,0.5,0.05,11,0,0
+2025,17,Azerbaijan Grand Prix,BEA,Haas F1 Team,15,12.0,0.33,0.45,0.5,0.05,12,0,0
+2025,17,Azerbaijan Grand Prix,ALB,Williams,19,8.2,7.0,0.45,0.5,0.05,13,0,0
+2025,17,Azerbaijan Grand Prix,OCO,Haas F1 Team,20,13.8,0.0,0.45,0.5,0.05,14,0,0
+2025,17,Azerbaijan Grand Prix,ALO,Aston Martin,11,11.8,1.33,0.45,0.5,0.05,15,0,0
+2025,17,Azerbaijan Grand Prix,HUL,Sauber,17,12.4,1.33,0.45,0.5,0.05,16,0,0
+2025,17,Azerbaijan Grand Prix,STR,Aston Martin,14,10.6,0.0,0.45,0.5,0.05,17,0,0
+2025,17,Azerbaijan Grand Prix,GAS,Alpine F1 Team,18,13.6,0.0,0.45,0.5,0.05,18,0,0
+2025,17,Azerbaijan Grand Prix,COL,Alpine F1 Team,16,17.0,0.0,0.45,0.5,0.05,19,0,0
+2025,17,Azerbaijan Grand Prix,PIA,McLaren,9,1.8,13.0,0.45,0.5,0.05,20,0,0
+2025,18,Singapore Grand Prix,RUS,Mercedes,1,3.8,10.67,0.9,0.85,0.05,1,1,1
+2025,18,Singapore Grand Prix,VER,Red Bull,2,3.4,11.0,0.9,0.85,0.05,2,1,0
+2025,18,Singapore Grand Prix,NOR,McLaren,5,6.0,7.0,0.9,0.85,0.05,3,1,0
+2025,18,Singapore Grand Prix,PIA,McLaren,3,5.4,7.0,0.9,0.85,0.05,4,0,0
+2025,18,Singapore Grand Prix,ANT,Mercedes,4,11.0,18.33,0.9,0.85,0.05,5,0,0
+2025,18,Singapore Grand Prix,LEC,Ferrari,7,8.0,4.67,0.9,0.85,0.05,6,0,0
+2025,18,Singapore Grand Prix,ALO,Aston Martin,10,13.0,0.0,0.9,0.85,0.05,7,0,0
+2025,18,Singapore Grand Prix,HAM,Ferrari,6,10.6,4.67,0.9,0.85,0.05,8,0,0
+2025,18,Singapore Grand Prix,BEA,Haas F1 Team,9,12.2,0.0,0.9,0.85,0.05,9,0,0
+2025,18,Singapore Grand Prix,SAI,Williams,18,11.8,5.0,0.9,0.85,0.05,10,0,0
+2025,18,Singapore Grand Prix,HAD,RB F1 Team,8,10.8,3.67,0.9,0.85,0.05,11,0,0
+2025,18,Singapore Grand Prix,TSU,Red Bull,13,11.6,17.0,0.9,0.85,0.05,12,0,0
+2025,18,Singapore Grand Prix,STR,Aston Martin,15,12.6,2.0,0.9,0.85,0.05,13,0,0
+2025,18,Singapore Grand Prix,ALB,Williams,20,9.2,5.33,0.9,0.85,0.05,14,0,0
+2025,18,Singapore Grand Prix,LAW,RB F1 Team,12,9.4,3.67,0.9,0.85,0.05,15,0,0
+2025,18,Singapore Grand Prix,COL,Alpine F1 Team,16,16.8,0.0,0.9,0.85,0.05,16,0,0
+2025,18,Singapore Grand Prix,BOR,Sauber,14,9.8,0.0,0.9,0.85,0.05,17,0,0
+2025,18,Singapore Grand Prix,OCO,Haas F1 Team,17,14.0,0.67,0.9,0.85,0.05,18,0,0
+2025,18,Singapore Grand Prix,GAS,Alpine F1 Team,19,16.0,0.0,0.9,0.85,0.05,19,0,0
+2025,18,Singapore Grand Prix,HUL,Sauber,11,15.0,0.0,0.9,0.85,0.05,20,0,0
+2025,19,United States Grand Prix,VER,Red Bull,1,3.0,8.67,0.65,0.65,0.05,1,1,1
+2025,19,United States Grand Prix,NOR,McLaren,2,6.2,9.0,0.65,0.65,0.05,2,1,0
+2025,19,United States Grand Prix,LEC,Ferrari,3,8.6,4.67,0.65,0.65,0.05,3,1,0
+2025,19,United States Grand Prix,HAM,Ferrari,5,10.8,9.0,0.65,0.65,0.05,4,0,0
+2025,19,United States Grand Prix,PIA,McLaren,6,6.0,15.0,0.65,0.65,0.05,5,0,0
+2025,19,United States Grand Prix,RUS,Mercedes,4,3.0,15.67,0.65,0.65,0.05,6,0,0
+2025,19,United States Grand Prix,TSU,Red Bull,13,11.4,14.33,0.65,0.65,0.05,7,0,0
+2025,19,United States Grand Prix,HUL,Sauber,11,16.6,0.0,0.65,0.65,0.05,8,0,0
+2025,19,United States Grand Prix,BEA,Haas F1 Team,8,11.8,0.67,0.65,0.65,0.05,9,0,0
+2025,19,United States Grand Prix,ALO,Aston Martin,10,11.0,2.0,0.65,0.65,0.05,10,0,0
+2025,19,United States Grand Prix,LAW,RB F1 Team,12,10.8,0.33,0.65,0.65,0.05,11,0,0
+2025,19,United States Grand Prix,STR,Aston Martin,19,12.4,2.33,0.65,0.65,0.05,12,0,0
+2025,19,United States Grand Prix,ANT,Mercedes,7,8.8,14.33,0.65,0.65,0.05,13,0,0
+2025,19,United States Grand Prix,ALB,Williams,18,10.8,0.33,0.65,0.65,0.05,14,0,0
+2025,19,United States Grand Prix,OCO,Haas F1 Team,17,14.6,1.33,0.65,0.65,0.05,15,0,0
+2025,19,United States Grand Prix,HAD,RB F1 Team,20,9.0,0.0,0.65,0.65,0.05,16,0,0
+2025,19,United States Grand Prix,COL,Alpine F1 Team,15,16.2,0.0,0.65,0.65,0.05,17,0,0
+2025,19,United States Grand Prix,BOR,Sauber,16,11.4,1.33,0.65,0.65,0.05,18,0,0
+2025,19,United States Grand Prix,GAS,Alpine F1 Team,14,17.8,0.0,0.65,0.65,0.05,19,0,0
+2025,19,United States Grand Prix,SAI,Williams,9,10.2,0.33,0.65,0.65,0.05,20,0,0
+2025,20,Mexico City Grand Prix,NOR,McLaren,1,6.4,13.33,0.95,0.6,0.05,1,1,1
+2025,20,Mexico City Grand Prix,LEC,Ferrari,2,8.4,10.33,0.95,0.6,0.05,2,1,0
+2025,20,Mexico City Grand Prix,VER,Red Bull,5,1.4,10.33,0.95,0.6,0.05,3,1,0
+2025,20,Mexico City Grand Prix,BEA,Haas F1 Team,9,9.6,0.67,0.95,0.6,0.05,4,0,0
+2025,20,Mexico City Grand Prix,PIA,McLaren,7,6.6,17.67,0.95,0.6,0.05,5,0,0
+2025,20,Mexico City Grand Prix,ANT,Mercedes,6,9.4,6.0,0.95,0.6,0.05,6,0,0
+2025,20,Mexico City Grand Prix,RUS,Mercedes,4,3.6,5.33,0.95,0.6,0.05,7,0,0
+2025,20,Mexico City Grand Prix,HAM,Ferrari,3,9.2,15.0,0.95,0.6,0.05,8,0,0
+2025,20,Mexico City Grand Prix,OCO,Haas F1 Team,11,14.4,4.67,0.95,0.6,0.05,9,0,0
+2025,20,Mexico City Grand Prix,BOR,Sauber,16,13.8,1.33,0.95,0.6,0.05,10,0,0
+2025,20,Mexico City Grand Prix,TSU,Red Bull,10,9.4,15.33,0.95,0.6,0.05,11,0,0
+2025,20,Mexico City Grand Prix,ALB,Williams,17,10.6,0.0,0.95,0.6,0.05,12,0,0
+2025,20,Mexico City Grand Prix,HAD,RB F1 Team,8,10.0,0.0,0.95,0.6,0.05,13,0,0
+2025,20,Mexico City Grand Prix,STR,Aston Martin,19,13.4,0.33,0.95,0.6,0.05,14,0,0
+2025,20,Mexico City Grand Prix,GAS,Alpine F1 Team,18,17.8,0.0,0.95,0.6,0.05,15,0,0
+2025,20,Mexico City Grand Prix,COL,Alpine F1 Team,20,16.0,0.0,0.95,0.6,0.05,16,0,0
+2025,20,Mexico City Grand Prix,SAI,Williams,12,11.4,0.0,0.95,0.6,0.05,17,0,0
+2025,20,Mexico City Grand Prix,ALO,Aston Martin,14,12.0,0.33,0.95,0.6,0.05,20,0,0
+2025,20,Mexico City Grand Prix,HUL,Sauber,13,15.6,1.67,0.95,0.6,0.05,20,0,0
+2025,20,Mexico City Grand Prix,LAW,RB F1 Team,15,11.4,0.0,0.95,0.6,0.05,20,0,0
+2025,21,São Paulo Grand Prix,NOR,McLaren,1,3.0,15.0,0.65,0.65,0.05,1,1,1
+2025,21,São Paulo Grand Prix,ANT,Mercedes,2,7.4,4.67,0.65,0.65,0.05,2,1,0
+2025,21,São Paulo Grand Prix,VER,Red Bull,19,1.6,7.0,0.65,0.65,0.05,3,1,0
+2025,21,São Paulo Grand Prix,RUS,Mercedes,6,4.2,10.67,0.65,0.65,0.05,4,0,0
+2025,21,São Paulo Grand Prix,PIA,McLaren,4,7.4,20.0,0.65,0.65,0.05,5,0,0
+2025,21,São Paulo Grand Prix,BEA,Haas F1 Team,8,9.2,4.67,0.65,0.65,0.05,6,0,0
+2025,21,São Paulo Grand Prix,LAW,RB F1 Team,7,13.0,0.0,0.65,0.65,0.05,7,0,0
+2025,21,São Paulo Grand Prix,HAD,RB F1 Team,5,12.0,2.0,0.65,0.65,0.05,8,0,0
+2025,21,São Paulo Grand Prix,HUL,Sauber,10,16.8,0.33,0.65,0.65,0.05,9,0,0
+2025,21,São Paulo Grand Prix,GAS,Alpine F1 Team,9,17.4,0.0,0.65,0.65,0.05,10,0,0
+2025,21,São Paulo Grand Prix,ALB,Williams,12,12.0,0.0,0.65,0.65,0.05,11,0,0
+2025,21,São Paulo Grand Prix,OCO,Haas F1 Team,20,14.2,7.33,0.65,0.65,0.05,12,0,0
+2025,21,São Paulo Grand Prix,SAI,Williams,15,12.2,0.0,0.65,0.65,0.05,13,0,0
+2025,21,São Paulo Grand Prix,ALO,Aston Martin,11,14.4,0.0,0.65,0.65,0.05,14,0,0
+2025,21,São Paulo Grand Prix,COL,Alpine F1 Team,16,17.0,0.33,0.65,0.65,0.05,15,0,0
+2025,21,São Paulo Grand Prix,STR,Aston Martin,14,14.8,0.0,0.65,0.65,0.05,16,0,0
+2025,21,São Paulo Grand Prix,TSU,Red Bull,17,9.8,10.0,0.65,0.65,0.05,17,0,0
+2025,21,São Paulo Grand Prix,HAM,Ferrari,13,6.8,11.33,0.65,0.65,0.05,20,0,0
+2025,21,São Paulo Grand Prix,LEC,Ferrari,3,4.8,7.33,0.65,0.65,0.05,20,0,0
+2025,21,São Paulo Grand Prix,BOR,Sauber,18,12.8,1.0,0.65,0.65,0.05,20,0,0
+2025,22,Las Vegas Grand Prix,VER,Red Bull,2,2.0,5.0,0.3,0.4,0.05,1,1,1
+2025,22,Las Vegas Grand Prix,RUS,Mercedes,4,4.0,12.0,0.3,0.4,0.05,2,1,0
+2025,22,Las Vegas Grand Prix,ANT,Mercedes,17,6.0,16.0,0.3,0.4,0.05,3,1,0
+2025,22,Las Vegas Grand Prix,LEC,Ferrari,9,8.0,1.33,0.3,0.4,0.05,4,0,0
+2025,22,Las Vegas Grand Prix,SAI,Williams,3,12.6,0.0,0.3,0.4,0.05,5,0,0
+2025,22,Las Vegas Grand Prix,HAD,RB F1 Team,8,11.6,3.33,0.3,0.4,0.05,6,0,0
+2025,22,Las Vegas Grand Prix,HUL,Sauber,11,14.6,0.67,0.3,0.4,0.05,7,0,0
+2025,22,Las Vegas Grand Prix,HAM,Ferrari,19,9.6,4.0,0.3,0.4,0.05,8,0,0
+2025,22,Las Vegas Grand Prix,OCO,Haas F1 Team,13,13.6,3.33,0.3,0.4,0.05,9,0,0
+2025,22,Las Vegas Grand Prix,BEA,Haas F1 Team,14,8.0,3.33,0.3,0.4,0.05,10,0,0
+2025,22,Las Vegas Grand Prix,ALO,Aston Martin,7,13.2,0.0,0.3,0.4,0.05,11,0,0
+2025,22,Las Vegas Grand Prix,TSU,Red Bull,20,10.6,13.33,0.3,0.4,0.05,12,0,0
+2025,22,Las Vegas Grand Prix,GAS,Alpine F1 Team,10,16.2,0.33,0.3,0.4,0.05,13,0,0
+2025,22,Las Vegas Grand Prix,LAW,RB F1 Team,6,11.6,6.0,0.3,0.4,0.05,14,0,0
+2025,22,Las Vegas Grand Prix,COL,Alpine F1 Team,15,16.6,0.33,0.3,0.4,0.05,15,0,0
+2025,22,Las Vegas Grand Prix,ALB,Williams,16,12.8,3.33,0.3,0.4,0.05,20,0,0
+2025,22,Las Vegas Grand Prix,BOR,Sauber,18,15.2,2.67,0.3,0.4,0.05,20,0,0
+2025,22,Las Vegas Grand Prix,STR,Aston Martin,12,14.4,0.0,0.3,0.4,0.05,20,0,0
+2025,22,Las Vegas Grand Prix,NOR,McLaren,1,2.8,15.0,0.3,0.4,0.05,20,0,0
+2025,22,Las Vegas Grand Prix,PIA,McLaren,5,7.8,11.67,0.3,0.4,0.05,20,0,0
+2025,23,Qatar Grand Prix,VER,Red Bull,3,2.0,8.33,0.8,0.9,0.05,1,1,1
+2025,23,Qatar Grand Prix,PIA,McLaren,1,7.8,3.33,0.8,0.9,0.05,2,1,0
+2025,23,Qatar Grand Prix,SAI,Williams,7,13.0,3.33,0.8,0.9,0.05,3,1,0
+2025,23,Qatar Grand Prix,NOR,McLaren,2,5.4,6.0,0.8,0.9,0.05,4,0,0
+2025,23,Qatar Grand Prix,ANT,Mercedes,5,5.8,15.0,0.8,0.9,0.05,5,0,0
+2025,23,Qatar Grand Prix,RUS,Mercedes,4,4.0,14.33,0.8,0.9,0.05,6,0,0
+2025,23,Qatar Grand Prix,ALO,Aston Martin,8,12.4,0.0,0.8,0.9,0.05,7,0,0
+2025,23,Qatar Grand Prix,LEC,Ferrari,10,7.0,5.33,0.8,0.9,0.05,8,0,0
+2025,23,Qatar Grand Prix,LAW,RB F1 Team,12,13.4,4.0,0.8,0.9,0.05,9,0,0
+2025,23,Qatar Grand Prix,TSU,Red Bull,15,11.8,16.67,0.8,0.9,0.05,10,0,0
+2025,23,Qatar Grand Prix,ALB,Williams,14,14.2,8.33,0.8,0.9,0.05,11,0,0
+2025,23,Qatar Grand Prix,HAM,Ferrari,17,9.6,6.67,0.8,0.9,0.05,12,0,0
+2025,23,Qatar Grand Prix,BOR,Sauber,19,17.0,2.0,0.8,0.9,0.05,13,0,0
+2025,23,Qatar Grand Prix,COL,Alpine F1 Team,20,15.8,0.0,0.8,0.9,0.05,14,0,0
+2025,23,Qatar Grand Prix,OCO,Haas F1 Team,16,12.6,1.0,0.8,0.9,0.05,15,0,0
+2025,23,Qatar Grand Prix,GAS,Alpine F1 Team,9,15.2,0.0,0.8,0.9,0.05,16,0,0
+2025,23,Qatar Grand Prix,STR,Aston Martin,18,15.0,2.0,0.8,0.9,0.05,17,0,0
+2025,23,Qatar Grand Prix,HAD,RB F1 Team,6,10.8,3.33,0.8,0.9,0.05,18,0,0
+2025,23,Qatar Grand Prix,BEA,Haas F1 Team,13,7.6,1.0,0.8,0.9,0.05,20,0,0
+2025,23,Qatar Grand Prix,HUL,Sauber,11,12.8,2.0,0.8,0.9,0.05,20,0,0
+2025,24,Abu Dhabi Grand Prix,VER,Red Bull,1,1.8,8.67,0.65,0.65,0.05,1,1,1
+2025,24,Abu Dhabi Grand Prix,PIA,McLaren,3,7.4,10.0,0.65,0.65,0.05,2,1,0
+2025,24,Abu Dhabi Grand Prix,NOR,McLaren,2,5.6,16.0,0.65,0.65,0.05,3,1,0
+2025,24,Abu Dhabi Grand Prix,LEC,Ferrari,5,7.4,2.67,0.65,0.65,0.05,4,0,0
+2025,24,Abu Dhabi Grand Prix,RUS,Mercedes,4,5.0,11.0,0.65,0.65,0.05,5,0,0
+2025,24,Abu Dhabi Grand Prix,ALO,Aston Martin,6,12.4,2.0,0.65,0.65,0.05,6,0,0
+2025,24,Abu Dhabi Grand Prix,OCO,Haas F1 Team,8,12.0,0.33,0.65,0.65,0.05,7,0,0
+2025,24,Abu Dhabi Grand Prix,HAM,Ferrari,16,10.4,5.33,0.65,0.65,0.05,8,0,0
+2025,24,Abu Dhabi Grand Prix,HUL,Sauber,18,12.8,0.0,0.65,0.65,0.05,9,0,0
+2025,24,Abu Dhabi Grand Prix,STR,Aston Martin,15,15.8,4.67,0.65,0.65,0.05,10,0,0
+2025,24,Abu Dhabi Grand Prix,BOR,Sauber,7,16.2,0.67,0.65,0.65,0.05,11,0,0
+2025,24,Abu Dhabi Grand Prix,BEA,Haas F1 Team,11,9.8,2.0,0.65,0.65,0.05,12,0,0
+2025,24,Abu Dhabi Grand Prix,SAI,Williams,12,11.6,5.0,0.65,0.65,0.05,13,0,0
+2025,24,Abu Dhabi Grand Prix,TSU,Red Bull,10,11.4,17.0,0.65,0.65,0.05,14,0,0
+2025,24,Abu Dhabi Grand Prix,ANT,Mercedes,14,5.8,9.33,0.65,0.65,0.05,15,0,0
+2025,24,Abu Dhabi Grand Prix,ALB,Williams,17,13.6,5.0,0.65,0.65,0.05,16,0,0
+2025,24,Abu Dhabi Grand Prix,HAD,RB F1 Team,9,12.2,0.67,0.65,0.65,0.05,17,0,0
+2025,24,Abu Dhabi Grand Prix,LAW,RB F1 Team,13,12.2,0.67,0.65,0.65,0.05,18,0,0
+2025,24,Abu Dhabi Grand Prix,GAS,Alpine F1 Team,19,14.6,0.0,0.65,0.65,0.05,19,0,0
+2025,24,Abu Dhabi Grand Prix,COL,Alpine F1 Team,20,15.4,0.0,0.65,0.65,0.05,20,0,0
+2026,1,Australian Grand Prix,RUS,Mercedes,1,4.8,6.0,0.6,0.6,0.05,1,1,1
+2026,1,Australian Grand Prix,ANT,Mercedes,2,6.2,11.67,0.6,0.6,0.05,2,1,0
+2026,1,Australian Grand Prix,LEC,Ferrari,4,7.6,5.33,0.6,0.6,0.05,3,1,0
+2026,1,Australian Grand Prix,HAM,Ferrari,7,11.2,10.33,0.6,0.6,0.05,4,0,0
+2026,1,Australian Grand Prix,NOR,McLaren,6,5.8,15.0,0.6,0.6,0.05,5,0,0
+2026,1,Australian Grand Prix,VER,Red Bull,20,1.8,8.67,0.6,0.6,0.05,6,0,0
+2026,1,Australian Grand Prix,BEA,Haas F1 Team,12,10.4,2.0,0.6,0.6,0.05,7,0,0
+2026,1,Australian Grand Prix,LIN,RB F1 Team,9,9.0,0.0,0.6,0.6,0.05,8,0,0
+2026,1,Australian Grand Prix,BOR,Audi,10,14.8,5.0,0.6,0.6,0.05,9,0,0
+2026,1,Australian Grand Prix,GAS,Alpine F1 Team,14,14.6,0.0,0.6,0.6,0.05,10,0,0
+2026,1,Australian Grand Prix,OCO,Haas F1 Team,13,10.4,4.0,0.6,0.6,0.05,11,0,0
+2026,1,Australian Grand Prix,ALB,Williams,15,14.0,0.0,0.6,0.6,0.05,12,0,0
+2026,1,Australian Grand Prix,LAW,RB F1 Team,8,13.6,1.33,0.6,0.6,0.05,13,0,0
+2026,1,Australian Grand Prix,COL,Alpine F1 Team,16,16.0,0.33,0.6,0.6,0.05,14,0,0
+2026,1,Australian Grand Prix,SAI,Williams,21,10.2,0.0,0.6,0.6,0.05,15,0,0
+2026,1,Australian Grand Prix,PER,Cadillac F1 Team,18,15.6,5.0,0.6,0.6,0.05,16,0,0
+2026,1,Australian Grand Prix,STR,Aston Martin,22,15.4,3.0,0.6,0.6,0.05,20,0,0
+2026,1,Australian Grand Prix,ALO,Aston Martin,17,11.6,3.0,0.6,0.6,0.05,20,0,0
+2026,1,Australian Grand Prix,BOT,Cadillac F1 Team,19,15.2,0.0,0.6,0.6,0.05,20,0,0
+2026,1,Australian Grand Prix,HAD,Red Bull,3,12.4,11.0,0.6,0.6,0.05,20,0,0
+2026,1,Australian Grand Prix,PIA,McLaren,5,6.8,14.33,0.6,0.6,0.05,20,0,0
+2026,1,Australian Grand Prix,HUL,Audi,11,13.0,2.0,0.6,0.6,0.05,20,0,0
+2026,2,Chinese Grand Prix,ANT,Mercedes,1,5.4,14.33,0.7,0.7,0.05,1,1,1
+2026,2,Chinese Grand Prix,RUS,Mercedes,2,3.6,22.67,0.7,0.7,0.05,2,1,0
+2026,2,Chinese Grand Prix,HAM,Ferrari,3,10.4,10.33,0.7,0.7,0.05,3,1,0
+2026,2,Chinese Grand Prix,LEC,Ferrari,4,7.8,14.0,0.7,0.7,0.05,4,0,0
+2026,2,Chinese Grand Prix,BEA,Haas F1 Team,10,11.0,2.0,0.7,0.7,0.05,5,0,0
+2026,2,Chinese Grand Prix,GAS,Alpine F1 Team,7,13.6,0.33,0.7,0.7,0.05,6,0,0
+2026,2,Chinese Grand Prix,LAW,RB F1 Team,14,12.2,1.33,0.7,0.7,0.05,7,0,0
+2026,2,Chinese Grand Prix,HAD,Red Bull,9,13.8,2.67,0.7,0.7,0.05,8,0,0
+2026,2,Chinese Grand Prix,SAI,Williams,17,9.8,0.0,0.7,0.7,0.05,9,0,0
+2026,2,Chinese Grand Prix,COL,Alpine F1 Team,12,15.6,3.0,0.7,0.7,0.05,10,0,0
+2026,2,Chinese Grand Prix,HUL,Audi,11,13.0,1.0,0.7,0.7,0.05,11,0,0
+2026,2,Chinese Grand Prix,LIN,RB F1 Team,15,8.0,3.33,0.7,0.7,0.05,12,0,0
+2026,2,Chinese Grand Prix,BOT,Cadillac F1 Team,19,16.4,0.0,0.7,0.7,0.05,13,0,0
+2026,2,Chinese Grand Prix,OCO,Haas F1 Team,13,10.8,5.33,0.7,0.7,0.05,14,0,0
+2026,2,Chinese Grand Prix,PER,Cadillac F1 Team,21,15.4,0.0,0.7,0.7,0.05,15,0,0
+2026,2,Chinese Grand Prix,VER,Red Bull,8,2.4,4.0,0.7,0.7,0.05,20,0,0
+2026,2,Chinese Grand Prix,ALO,Aston Martin,18,11.6,0.33,0.7,0.7,0.05,20,0,0
+2026,2,Chinese Grand Prix,STR,Aston Martin,20,16.6,0.0,0.7,0.7,0.05,20,0,0
+2026,2,Chinese Grand Prix,PIA,McLaren,5,9.8,8.33,0.7,0.7,0.05,20,0,0
+2026,2,Chinese Grand Prix,NOR,McLaren,6,6.6,3.33,0.7,0.7,0.05,20,0,0
+2026,2,Chinese Grand Prix,BOR,Audi,16,14.6,0.67,0.7,0.7,0.05,20,0,0
+2026,2,Chinese Grand Prix,ALB,Williams,22,14.0,0.67,0.7,0.7,0.05,20,0,0
+2026,3,Japanese Grand Prix,ANT,Mercedes,1,5.2,20.33,0.85,0.8,0.05,1,1,1
+2026,3,Japanese Grand Prix,PIA,McLaren,3,12.8,0.0,0.85,0.8,0.05,2,1,0
+2026,3,Japanese Grand Prix,LEC,Ferrari,4,4.6,13.0,0.85,0.8,0.05,3,1,0
+2026,3,Japanese Grand Prix,RUS,Mercedes,2,3.2,22.67,0.85,0.8,0.05,4,0,0
+2026,3,Japanese Grand Prix,NOR,McLaren,5,10.4,6.0,0.85,0.8,0.05,5,0,0
+2026,3,Japanese Grand Prix,HAM,Ferrari,6,7.0,14.0,0.85,0.8,0.05,6,0,0
+2026,3,Japanese Grand Prix,GAS,Alpine F1 Team,7,12.8,3.0,0.85,0.8,0.05,7,0,0
+2026,3,Japanese Grand Prix,VER,Red Bull,11,5.8,1.33,0.85,0.8,0.05,8,0,0
+2026,3,Japanese Grand Prix,LAW,RB F1 Team,14,12.2,2.0,0.85,0.8,0.05,9,0,0
+2026,3,Japanese Grand Prix,OCO,Haas F1 Team,12,11.2,3.33,0.85,0.8,0.05,10,0,0
+2026,3,Japanese Grand Prix,HUL,Audi,13,13.4,0.0,0.85,0.8,0.05,11,0,0
+2026,3,Japanese Grand Prix,HAD,Red Bull,8,13.8,2.67,0.85,0.8,0.05,12,0,0
+2026,3,Japanese Grand Prix,BOR,Audi,9,14.6,0.0,0.85,0.8,0.05,13,0,0
+2026,3,Japanese Grand Prix,LIN,RB F1 Team,10,10.0,2.67,0.85,0.8,0.05,14,0,0
+2026,3,Japanese Grand Prix,SAI,Williams,16,9.0,0.67,0.85,0.8,0.05,15,0,0
+2026,3,Japanese Grand Prix,COL,Alpine F1 Team,15,14.6,5.0,0.85,0.8,0.05,16,0,0
+2026,3,Japanese Grand Prix,PER,Cadillac F1 Team,19,16.2,0.0,0.85,0.8,0.05,17,0,0
+2026,3,Japanese Grand Prix,ALO,Aston Martin,21,12.8,0.0,0.85,0.8,0.05,18,0,0
+2026,3,Japanese Grand Prix,BOT,Cadillac F1 Team,20,16.4,0.0,0.85,0.8,0.05,19,0,0
+2026,3,Japanese Grand Prix,ALB,Williams,17,15.8,0.67,0.85,0.8,0.05,20,0,0
+2026,3,Japanese Grand Prix,STR,Aston Martin,22,17.4,0.0,0.85,0.8,0.05,20,0,0
+2026,3,Japanese Grand Prix,BEA,Haas F1 Team,18,10.8,3.67,0.85,0.8,0.05,20,0,0
+2026,4,Miami Grand Prix,ANT,Mercedes,1,4.8,18.33,0.55,0.65,0.05,1,1,1
+2026,4,Miami Grand Prix,NOR,McLaren,4,7.4,9.33,0.55,0.65,0.05,2,1,0
+2026,4,Miami Grand Prix,PIA,McLaren,7,9.2,15.33,0.55,0.65,0.05,3,1,0
+2026,4,Miami Grand Prix,RUS,Mercedes,5,3.6,20.67,0.55,0.65,0.05,4,0,0
+2026,4,Miami Grand Prix,VER,Red Bull,2,7.2,1.33,0.55,0.65,0.05,5,0,0
+2026,4,Miami Grand Prix,HAM,Ferrari,6,6.6,11.67,0.55,0.65,0.05,6,0,0
+2026,4,Miami Grand Prix,COL,Alpine F1 Team,8,14.8,2.33,0.55,0.65,0.05,7,0,0
+2026,4,Miami Grand Prix,LEC,Ferrari,3,4.4,10.33,0.55,0.65,0.05,8,0,0
+2026,4,Miami Grand Prix,SAI,Williams,13,11.0,0.0,0.55,0.65,0.05,9,0,0
+2026,4,Miami Grand Prix,ALB,Williams,15,15.8,0.67,0.55,0.65,0.05,10,0,0
+2026,4,Miami Grand Prix,BEA,Haas F1 Team,12,12.8,0.33,0.55,0.65,0.05,11,0,0
+2026,4,Miami Grand Prix,BOR,Audi,21,13.2,0.0,0.55,0.65,0.05,12,0,0
+2026,4,Miami Grand Prix,OCO,Haas F1 Team,14,11.4,0.33,0.55,0.65,0.05,13,0,0
+2026,4,Miami Grand Prix,LIN,RB F1 Team,16,11.33,0.67,0.55,0.65,0.05,14,0,0
+2026,4,Miami Grand Prix,ALO,Aston Martin,17,14.2,0.0,0.55,0.65,0.05,15,0,0
+2026,4,Miami Grand Prix,PER,Cadillac F1 Team,20,17.6,0.0,0.55,0.65,0.05,16,0,0
+2026,4,Miami Grand Prix,STR,Aston Martin,18,17.4,0.0,0.55,0.65,0.05,17,0,0
+2026,4,Miami Grand Prix,BOT,Cadillac F1 Team,19,16.6,0.0,0.55,0.65,0.05,18,0,0
+2026,4,Miami Grand Prix,HUL,Audi,10,14.2,0.0,0.55,0.65,0.05,20,0,0
+2026,4,Miami Grand Prix,LAW,RB F1 Team,11,11.2,0.67,0.55,0.65,0.05,20,0,0
+2026,4,Miami Grand Prix,GAS,Alpine F1 Team,9,11.6,4.0,0.55,0.65,0.05,20,0,0
+2026,4,Miami Grand Prix,HAD,Red Bull,22,15.0,4.67,0.55,0.65,0.05,20,0,0
+2026,5,Canadian Grand Prix,ANT,Mercedes,2,4.0,16.33,0.65,0.65,0.05,1,1,1
+2026,5,Canadian Grand Prix,HAM,Ferrari,5,5.4,6.67,0.65,0.65,0.05,2,1,0
+2026,5,Canadian Grand Prix,VER,Red Bull,6,8.0,3.33,0.65,0.65,0.05,3,1,0
+2026,5,Canadian Grand Prix,LEC,Ferrari,8,4.4,10.0,0.65,0.65,0.05,4,0,0
+2026,5,Canadian Grand Prix,HAD,Red Bull,7,15.4,8.33,0.65,0.65,0.05,5,0,0
+2026,5,Canadian Grand Prix,COL,Alpine F1 Team,10,13.4,2.0,0.65,0.65,0.05,6,0,0
+2026,5,Canadian Grand Prix,LAW,RB F1 Team,12,13.4,0.0,0.65,0.65,0.05,7,0,0
+2026,5,Canadian Grand Prix,GAS,Alpine F1 Team,14,12.4,4.67,0.65,0.65,0.05,8,0,0
+2026,5,Canadian Grand Prix,SAI,Williams,15,12.2,1.0,0.65,0.65,0.05,9,0,0
+2026,5,Canadian Grand Prix,BEA,Haas F1 Team,16,11.0,0.0,0.65,0.65,0.05,10,0,0
+2026,5,Canadian Grand Prix,PIA,McLaren,4,9.4,14.33,0.65,0.65,0.05,11,0,0
+2026,5,Canadian Grand Prix,HUL,Audi,11,14.2,0.0,0.65,0.65,0.05,12,0,0
+2026,5,Canadian Grand Prix,BOR,Audi,13,13.0,0.0,0.65,0.65,0.05,13,0,0
+2026,5,Canadian Grand Prix,OCO,Haas F1 Team,17,11.0,0.33,0.65,0.65,0.05,14,0,0
+2026,5,Canadian Grand Prix,STR,Aston Martin,22,17.4,0.0,0.65,0.65,0.05,15,0,0
+2026,5,Canadian Grand Prix,BOT,Cadillac F1 Team,21,18.0,0.0,0.65,0.65,0.05,16,0,0
+2026,5,Canadian Grand Prix,PER,Cadillac F1 Team,20,16.8,0.0,0.65,0.65,0.05,20,0,0
+2026,5,Canadian Grand Prix,NOR,McLaren,3,7.0,11.0,0.65,0.65,0.05,20,0,0
+2026,5,Canadian Grand Prix,RUS,Mercedes,1,3.2,20.67,0.65,0.65,0.05,20,0,0
+2026,5,Canadian Grand Prix,ALO,Aston Martin,19,15.8,0.0,0.65,0.65,0.05,20,0,0
+2026,5,Canadian Grand Prix,ALB,Williams,18,15.6,1.67,0.65,0.65,0.05,20,0,0
+2026,5,Canadian Grand Prix,LIN,RB F1 Team,9,12.0,2.0,0.65,0.65,0.05,20,0,0
+2026,6,Monaco Grand Prix,ANT,Mercedes,1,1.2,12.33,0.98,0.3,0.05,1,1,1
+2026,6,Monaco Grand Prix,HAM,Ferrari,3,4.2,11.33,0.98,0.3,0.05,2,1,0
+2026,6,Monaco Grand Prix,HAD,Red Bull,5,13.0,8.33,0.98,0.3,0.05,3,1,0
+2026,6,Monaco Grand Prix,PIA,McLaren,7,11.2,5.0,0.98,0.3,0.05,4,0,0
+2026,6,Monaco Grand Prix,LAW,RB F1 Team,10,11.2,2.0,0.98,0.3,0.05,5,0,0
+2026,6,Monaco Grand Prix,LIN,RB F1 Team,15,13.6,5.33,0.98,0.3,0.05,6,0,0
+2026,6,Monaco Grand Prix,GAS,Alpine F1 Team,9,10.2,4.0,0.98,0.3,0.05,7,0,0
+2026,6,Monaco Grand Prix,ALB,Williams,11,16.4,1.0,0.98,0.3,0.05,8,0,0
+2026,6,Monaco Grand Prix,OCO,Haas F1 Team,17,12.4,0.33,0.98,0.3,0.05,9,0,0
+2026,6,Monaco Grand Prix,ALO,Aston Martin,21,18.6,0.0,0.98,0.3,0.05,10,0,0
+2026,6,Monaco Grand Prix,BOR,Audi,16,13.4,0.0,0.98,0.3,0.05,11,0,0
+2026,6,Monaco Grand Prix,RUS,Mercedes,6,6.2,16.67,0.98,0.3,0.05,12,0,0
+2026,6,Monaco Grand Prix,HUL,Audi,13,14.8,0.0,0.98,0.3,0.05,13,0,0
+2026,6,Monaco Grand Prix,COL,Alpine F1 Team,14,10.6,6.0,0.98,0.3,0.05,14,0,0
+2026,6,Monaco Grand Prix,PER,Cadillac F1 Team,18,16.8,0.0,0.98,0.3,0.05,15,0,0
+2026,6,Monaco Grand Prix,SAI,Williams,12,11.4,2.0,0.98,0.3,0.05,16,0,0
+2026,6,Monaco Grand Prix,LEC,Ferrari,4,4.4,16.0,0.98,0.3,0.05,20,0,0
+2026,6,Monaco Grand Prix,STR,Aston Martin,22,18.4,0.33,0.98,0.3,0.05,20,0,0
+2026,6,Monaco Grand Prix,NOR,McLaren,8,10.4,4.0,0.98,0.3,0.05,20,0,0
+2026,6,Monaco Grand Prix,BEA,Haas F1 Team,19,10.6,1.0,0.98,0.3,0.05,20,0,0
+2026,6,Monaco Grand Prix,BOT,Cadillac F1 Team,20,17.2,0.0,0.98,0.3,0.05,20,0,0
+2026,6,Monaco Grand Prix,VER,Red Bull,2,8.4,13.33,0.98,0.3,0.05,20,0,0
+2026,7,Barcelona Grand Prix,HAM,Ferrari,2,3.8,10.0,0.8,0.75,0.05,1,1,1
+2026,7,Barcelona Grand Prix,RUS,Mercedes,1,8.4,8.33,0.8,0.75,0.05,2,1,0
+2026,7,Barcelona Grand Prix,NOR,McLaren,4,13.4,4.0,0.8,0.75,0.05,3,1,0
+2026,7,Barcelona Grand Prix,VER,Red Bull,5,11.2,8.33,0.8,0.75,0.05,4,0,0
+2026,7,Barcelona Grand Prix,PIA,McLaren,7,8.0,9.0,0.8,0.75,0.05,5,0,0
+2026,7,Barcelona Grand Prix,HAD,Red Bull,6,9.6,9.0,0.8,0.75,0.05,6,0,0
+2026,7,Barcelona Grand Prix,GAS,Alpine F1 Team,14,9.6,3.33,0.8,0.75,0.05,7,0,0
+2026,7,Barcelona Grand Prix,LAW,RB F1 Team,8,9.6,6.0,0.8,0.75,0.05,8,0,0
+2026,7,Barcelona Grand Prix,LIN,RB F1 Team,11,13.2,7.33,0.8,0.75,0.05,9,0,0
+2026,7,Barcelona Grand Prix,COL,Alpine F1 Team,13,10.6,4.0,0.8,0.75,0.05,10,0,0
+2026,7,Barcelona Grand Prix,BOR,Audi,12,13.8,0.0,0.8,0.75,0.05,11,0,0
+2026,7,Barcelona Grand Prix,SAI,Williams,16,11.6,1.33,0.8,0.75,0.05,12,0,0
+2026,7,Barcelona Grand Prix,OCO,Haas F1 Team,17,12.0,0.67,0.8,0.75,0.05,13,0,0
+2026,7,Barcelona Grand Prix,PER,Cadillac F1 Team,19,16.6,0.0,0.8,0.75,0.05,14,0,0
+2026,7,Barcelona Grand Prix,LEC,Ferrari,10,7.8,14.33,0.8,0.75,0.05,15,0,0
+2026,7,Barcelona Grand Prix,ANT,Mercedes,3,1.0,14.33,0.8,0.75,0.05,16,0,0
+2026,7,Barcelona Grand Prix,BEA,Haas F1 Team,15,13.2,0.67,0.8,0.75,0.05,17,0,0
+2026,7,Barcelona Grand Prix,ALB,Williams,18,15.6,1.33,0.8,0.75,0.05,20,0,0
+2026,7,Barcelona Grand Prix,ALO,Aston Martin,22,16.6,0.33,0.8,0.75,0.05,20,0,0
+2026,7,Barcelona Grand Prix,HUL,Audi,9,13.4,0.0,0.8,0.75,0.05,20,0,0
+2026,7,Barcelona Grand Prix,BOT,Cadillac F1 Team,20,17.2,0.0,0.8,0.75,0.05,20,0,0
+2026,7,Barcelona Grand Prix,STR,Aston Martin,21,18.4,0.33,0.8,0.75,0.05,20,0,0
+2026,8,Austrian Grand Prix,RUS,Mercedes,1,8.4,6.0,0.5,0.7,0.05,1,1,1
+2026,8,Austrian Grand Prix,VER,Red Bull,5,8.0,6.67,0.5,0.7,0.05,2,1,0
+2026,8,Austrian Grand Prix,ANT,Mercedes,4,4.0,14.33,0.5,0.7,0.05,3,1,0
+2026,8,Austrian Grand Prix,PIA,McLaren,7,5.0,8.33,0.5,0.7,0.05,4,0,0
+2026,8,Austrian Grand Prix,HAM,Ferrari,3,3.4,8.33,0.5,0.7,0.05,5,0,0
+2026,8,Austrian Grand Prix,HAD,Red Bull,8,9.2,12.67,0.5,0.7,0.05,6,0,0
+2026,8,Austrian Grand Prix,NOR,McLaren,6,10.0,12.33,0.5,0.7,0.05,7,0,0
+2026,8,Austrian Grand Prix,LEC,Ferrari,2,10.0,11.67,0.5,0.7,0.05,8,0,0
+2026,8,Austrian Grand Prix,LAW,RB F1 Team,9,9.8,4.67,0.5,0.7,0.05,9,0,0
+2026,8,Austrian Grand Prix,LIN,RB F1 Team,10,12.6,2.67,0.5,0.7,0.05,10,0,0
+2026,8,Austrian Grand Prix,BOR,Audi,12,12.0,0.0,0.5,0.7,0.05,11,0,0
+2026,8,Austrian Grand Prix,HUL,Audi,14,15.2,0.0,0.5,0.7,0.05,12,0,0
+2026,8,Austrian Grand Prix,GAS,Alpine F1 Team,11,9.8,2.33,0.5,0.7,0.05,13,0,0
+2026,8,Austrian Grand Prix,BEA,Haas F1 Team,13,15.6,0.0,0.5,0.7,0.05,14,0,0
+2026,8,Austrian Grand Prix,COL,Alpine F1 Team,16,10.6,2.33,0.5,0.7,0.05,15,0,0
+2026,8,Austrian Grand Prix,OCO,Haas F1 Team,15,11.8,0.0,0.5,0.7,0.05,16,0,0
+2026,8,Austrian Grand Prix,ALB,Williams,18,15.6,0.0,0.5,0.7,0.05,17,0,0
+2026,8,Austrian Grand Prix,ALO,Aston Martin,21,16.6,0.0,0.5,0.7,0.05,18,0,0
+2026,8,Austrian Grand Prix,STR,Aston Martin,22,18.4,0.0,0.5,0.7,0.05,20,0,0
+2026,8,Austrian Grand Prix,SAI,Williams,17,12.2,0.0,0.5,0.7,0.05,20,0,0
+2026,8,Austrian Grand Prix,PER,Cadillac F1 Team,19,16.4,0.0,0.5,0.7,0.05,20,0,0
+2026,8,Austrian Grand Prix,BOT,Cadillac F1 Team,20,18.6,0.0,0.5,0.7,0.05,20,0,0
+2026,9,British Grand Prix,LEC,Ferrari,2,11.0,4.67,0.75,0.8,0.05,1,1,1
+2026,9,British Grand Prix,RUS,Mercedes,4,7.8,13.33,0.75,0.8,0.05,2,1,0
+2026,9,British Grand Prix,HAM,Ferrari,3,3.2,13.0,0.75,0.8,0.05,3,1,0
+2026,9,British Grand Prix,NOR,McLaren,6,10.4,9.33,0.75,0.8,0.05,4,0,0
+2026,9,British Grand Prix,HAD,Red Bull,5,8.0,11.33,0.75,0.8,0.05,5,0,0
+2026,9,British Grand Prix,LAW,RB F1 Team,10,9.8,1.67,0.75,0.8,0.05,6,0,0
+2026,9,British Grand Prix,LIN,RB F1 Team,9,11.8,3.67,0.75,0.8,0.05,7,0,0
+2026,9,British Grand Prix,BOR,Audi,11,11.6,0.0,0.75,0.8,0.05,8,0,0
+2026,9,British Grand Prix,COL,Alpine F1 Team,19,10.4,0.33,0.75,0.8,0.05,9,0,0
+2026,9,British Grand Prix,GAS,Alpine F1 Team,15,11.0,0.67,0.75,0.8,0.05,10,0,0
+2026,9,British Grand Prix,PIA,McLaren,8,5.4,10.0,0.75,0.8,0.05,11,0,0
+2026,9,British Grand Prix,BEA,Haas F1 Team,13,14.4,0.0,0.75,0.8,0.05,12,0,0
+2026,9,British Grand Prix,OCO,Haas F1 Team,17,13.0,0.0,0.75,0.8,0.05,13,0,0
+2026,9,British Grand Prix,PER,Cadillac F1 Team,20,17.0,0.0,0.75,0.8,0.05,14,0,0
+2026,9,British Grand Prix,ANT,Mercedes,1,4.4,19.33,0.75,0.8,0.05,15,0,0
+2026,9,British Grand Prix,BOT,Cadillac F1 Team,18,18.8,0.0,0.75,0.8,0.05,16,0,0
+2026,9,British Grand Prix,SAI,Williams,14,13.2,0.0,0.75,0.8,0.05,17,0,0
+2026,9,British Grand Prix,ALO,Aston Martin,21,16.6,0.0,0.75,0.8,0.05,18,0,0
+2026,9,British Grand Prix,STR,Aston Martin,22,18.4,0.0,0.75,0.8,0.05,19,0,0
+2026,9,British Grand Prix,VER,Red Bull,7,6.8,12.0,0.75,0.8,0.05,20,0,0
+2026,9,British Grand Prix,ALB,Williams,16,15.0,0.0,0.75,0.8,0.05,20,0,0
+2026,9,British Grand Prix,HUL,Audi,12,15.4,1.33,0.75,0.8,0.05,20,0,0
+2026,10,Belgian Grand Prix,ANT,Mercedes,1,7.2,11.0,0.6,0.75,0.05,1,1,1
+2026,10,Belgian Grand Prix,LEC,Ferrari,4,9.6,14.67,0.6,0.75,0.05,2,1,0
+2026,10,Belgian Grand Prix,VER,Red Bull,2,9.8,6.0,0.6,0.75,0.05,3,1,0
+2026,10,Belgian Grand Prix,HAM,Ferrari,5,2.6,19.33,0.6,0.75,0.05,4,0,0
+2026,10,Belgian Grand Prix,PIA,McLaren,6,7.0,6.0,0.6,0.75,0.05,5,0,0
+2026,10,Belgian Grand Prix,HAD,Red Bull,21,5.0,8.33,0.6,0.75,0.05,6,0,0
+2026,10,Belgian Grand Prix,NOR,McLaren,13,10.8,7.33,0.6,0.75,0.05,7,0,0
+2026,10,Belgian Grand Prix,BOR,Audi,8,10.8,1.33,0.6,0.75,0.05,8,0,0
+2026,10,Belgian Grand Prix,LIN,RB F1 Team,7,10.4,5.0,0.6,0.75,0.05,9,0,0
+2026,10,Belgian Grand Prix,COL,Alpine F1 Team,11,10.8,1.0,0.6,0.75,0.05,10,0,0
+2026,10,Belgian Grand Prix,GAS,Alpine F1 Team,10,9.0,1.33,0.6,0.75,0.05,11,0,0
+2026,10,Belgian Grand Prix,LAW,RB F1 Team,9,7.0,5.33,0.6,0.75,0.05,12,0,0
+2026,10,Belgian Grand Prix,HUL,Audi,12,15.4,2.67,0.6,0.75,0.05,13,0,0
+2026,10,Belgian Grand Prix,BEA,Haas F1 Team,14,14.6,0.0,0.6,0.75,0.05,14,0,0
+2026,10,Belgian Grand Prix,ALB,Williams,15,17.0,0.0,0.6,0.75,0.05,15,0,0
+2026,10,Belgian Grand Prix,SAI,Williams,19,14.8,0.0,0.6,0.75,0.05,16,0,0
+2026,10,Belgian Grand Prix,OCO,Haas F1 Team,16,13.0,0.0,0.6,0.75,0.05,17,0,0
+2026,10,Belgian Grand Prix,BOT,Cadillac F1 Team,17,18.4,0.0,0.6,0.75,0.05,18,0,0
+2026,10,Belgian Grand Prix,ALO,Aston Martin,22,17.2,0.0,0.6,0.75,0.05,19,0,0
+2026,10,Belgian Grand Prix,STR,Aston Martin,20,18.8,0.0,0.6,0.75,0.05,20,0,0
+2026,10,Belgian Grand Prix,PER,Cadillac F1 Team,18,16.6,0.0,0.6,0.75,0.05,20,0,0
+2026,10,Belgian Grand Prix,RUS,Mercedes,3,7.4,14.33,0.6,0.75,0.05,20,0,0
+2026,11,Hungarian Grand Prix,NOR,McLaren,1,8.2,5.33,0.9,0.65,0.05,1,1,1
+2026,11,Hungarian Grand Prix,VER,Red Bull,4,9.8,7.67,0.9,0.65,0.05,2,1,0
+2026,11,Hungarian Grand Prix,ANT,Mercedes,7,7.2,8.33,0.9,0.65,0.05,3,1,0
+2026,11,Hungarian Grand Prix,LEC,Ferrari,2,9.2,15.0,0.9,0.65,0.05,4,0,0
+2026,11,Hungarian Grand Prix,HAM,Ferrari,5,3.0,14.0,0.9,0.65,0.05,5,0,0
+2026,11,Hungarian Grand Prix,HAD,Red Bull,8,5.2,13.67,0.9,0.65,0.05,6,0,0
+2026,11,Hungarian Grand Prix,RUS,Mercedes,6,7.4,13.33,0.9,0.65,0.05,7,0,0
+2026,11,Hungarian Grand Prix,LAW,RB F1 Team,11,8.0,2.67,0.9,0.65,0.05,8,0,0
+2026,11,Hungarian Grand Prix,HUL,Audi,10,15.6,1.33,0.9,0.65,0.05,9,0,0
+2026,11,Hungarian Grand Prix,LIN,RB F1 Team,9,8.2,2.0,0.9,0.65,0.05,10,0,0
+2026,11,Hungarian Grand Prix,BOR,Audi,14,9.8,2.0,0.9,0.65,0.05,11,0,0
+2026,11,Hungarian Grand Prix,GAS,Alpine F1 Team,12,9.6,0.67,0.9,0.65,0.05,12,0,0
+2026,11,Hungarian Grand Prix,STR,Aston Martin,20,19.8,0.0,0.9,0.65,0.05,13,0,0
+2026,11,Hungarian Grand Prix,ALO,Aston Martin,16,17.0,0.0,0.9,0.65,0.05,14,0,0
+2026,11,Hungarian Grand Prix,COL,Alpine F1 Team,13,11.6,0.33,0.9,0.65,0.05,15,0,0
+2026,11,Hungarian Grand Prix,OCO,Haas F1 Team,15,13.6,0.0,0.9,0.65,0.05,16,0,0
+2026,11,Hungarian Grand Prix,ALB,Williams,19,16.0,0.0,0.9,0.65,0.05,17,0,0
+2026,11,Hungarian Grand Prix,SAI,Williams,18,16.2,0.0,0.9,0.65,0.05,18,0,0
+2026,11,Hungarian Grand Prix,BEA,Haas F1 Team,17,15.4,0.0,0.9,0.65,0.05,19,0,0
+2026,11,Hungarian Grand Prix,PIA,McLaren,3,5.8,13.67,0.9,0.65,0.05,20,0,0
+2026,11,Hungarian Grand Prix,PER,Cadillac F1 Team,22,16.6,0.0,0.9,0.65,0.05,20,0,0
+2026,11,Hungarian Grand Prix,BOT,Cadillac F1 Team,21,18.8,0.0,0.9,0.65,0.05,20,0,0
+2026,12,Dutch Grand Prix,NOR,McLaren,1,4.4,10.33,0.88,0.7,0.05,1,1,1
+2026,12,Dutch Grand Prix,ANT,Mercedes,3,7.6,7.0,0.88,0.7,0.05,2,1,0
+2026,12,Dutch Grand Prix,RUS,Mercedes,2,6.4,13.0,0.88,0.7,0.05,3,1,0
+2026,12,Dutch Grand Prix,HAM,Ferrari,5,3.6,11.33,0.88,0.7,0.05,4,0,0
+2026,12,Dutch Grand Prix,LEC,Ferrari,6,6.0,11.33,0.88,0.7,0.05,5,0,0
+2026,12,Dutch Grand Prix,PIA,McLaren,4,9.0,16.67,0.88,0.7,0.05,6,0,0
+2026,12,Dutch Grand Prix,LAW,Red Bull,8,8.6,11.33,0.88,0.7,0.05,7,0,0
+2026,12,Dutch Grand Prix,HUL,Audi,13,14.8,0.67,0.88,0.7,0.05,8,0,0
+2026,12,Dutch Grand Prix,ALO,Aston Martin,18,17.8,0.0,0.88,0.7,0.05,9,0,0
+2026,12,Dutch Grand Prix,GAS,Alpine F1 Team,11,10.6,0.0,0.88,0.7,0.05,10,0,0
+2026,12,Dutch Grand Prix,TSU,RB F1 Team,12,12.8,1.67,0.88,0.7,0.05,11,0,0
+2026,12,Dutch Grand Prix,LIN,RB F1 Team,10,9.0,1.67,0.88,0.7,0.05,12,0,0
+2026,12,Dutch Grand Prix,BOR,Audi,9,9.8,2.0,0.88,0.7,0.05,13,0,0
+2026,12,Dutch Grand Prix,COL,Alpine F1 Team,14,11.8,0.33,0.88,0.7,0.05,14,0,0
+2026,12,Dutch Grand Prix,PER,Cadillac F1 Team,22,17.6,0.0,0.88,0.7,0.05,15,0,0
+2026,12,Dutch Grand Prix,SAI,Williams,17,16.6,0.0,0.88,0.7,0.05,16,0,0
+2026,12,Dutch Grand Prix,ALB,Williams,16,17.8,0.0,0.88,0.7,0.05,17,0,0
+2026,12,Dutch Grand Prix,BOT,Cadillac F1 Team,21,18.8,0.0,0.88,0.7,0.05,20,0,0
+2026,12,Dutch Grand Prix,OCO,Haas F1 Team,15,15.0,0.0,0.88,0.7,0.05,20,0,0
+2026,12,Dutch Grand Prix,STR,Aston Martin,19,18.4,0.67,0.88,0.7,0.05,20,0,0
+2026,12,Dutch Grand Prix,BEA,Haas F1 Team,20,15.2,0.0,0.88,0.7,0.05,20,0,0
+2026,12,Dutch Grand Prix,VER,Red Bull,7,6.2,10.67,0.88,0.7,0.05,20,0,0
+2026,13,Italian Grand Prix,ANT,Mercedes,19,4.8,13.0,0.2,0.5,0.05,1,1,1
+2026,13,Italian Grand Prix,RUS,Mercedes,2,6.6,19.33,0.2,0.5,0.05,2,1,0
+2026,13,Italian Grand Prix,VER,Red Bull,5,9.4,4.67,0.2,0.5,0.05,3,1,0
+2026,13,Italian Grand Prix,NOR,McLaren,8,4.0,11.0,0.2,0.5,0.05,4,0,0
+2026,13,Italian Grand Prix,PIA,McLaren,6,9.2,15.0,0.2,0.5,0.05,5,0,0
+2026,13,Italian Grand Prix,HAM,Ferrari,4,4.2,10.67,0.2,0.5,0.05,6,0,0
+2026,13,Italian Grand Prix,GAS,Alpine F1 Team,1,11.2,0.33,0.2,0.5,0.05,7,0,0
+2026,13,Italian Grand Prix,LIN,RB F1 Team,9,9.6,0.33,0.2,0.5,0.05,8,0,0
+2026,13,Italian Grand Prix,COL,Alpine F1 Team,7,12.6,2.33,0.2,0.5,0.05,9,0,0
+2026,13,Italian Grand Prix,TSU,RB F1 Team,15,12.8,1.33,0.2,0.5,0.05,10,0,0
+2026,13,Italian Grand Prix,BOR,Audi,10,10.2,1.33,0.2,0.5,0.05,11,0,0
+2026,13,Italian Grand Prix,HUL,Audi,12,12.4,1.33,0.2,0.5,0.05,12,0,0
+2026,13,Italian Grand Prix,SAI,Williams,13,17.4,0.0,0.2,0.5,0.05,13,0,0
+2026,13,Italian Grand Prix,LAW,Red Bull,22,8.4,7.0,0.2,0.5,0.05,14,0,0
+2026,13,Italian Grand Prix,BEA,Haas F1 Team,11,15.8,0.0,0.2,0.5,0.05,15,0,0
+2026,13,Italian Grand Prix,OCO,Haas F1 Team,14,16.4,0.0,0.2,0.5,0.05,16,0,0
+2026,13,Italian Grand Prix,ALB,Williams,20,17.2,0.0,0.2,0.5,0.05,17,0,0
+2026,13,Italian Grand Prix,PER,Cadillac F1 Team,17,17.8,0.0,0.2,0.5,0.05,18,0,0
+2026,13,Italian Grand Prix,BOT,Cadillac F1 Team,16,18.8,0.0,0.2,0.5,0.05,19,0,0
+2026,13,Italian Grand Prix,STR,Aston Martin,18,18.4,0.67,0.2,0.5,0.05,20,0,0
+2026,13,Italian Grand Prix,ALO,Aston Martin,21,15.6,0.67,0.2,0.5,0.05,20,0,0
+2026,13,Italian Grand Prix,LEC,Ferrari,3,4.0,10.0,0.2,0.5,0.05,20,0,0
+2026,14,Spanish Grand Prix,ANT,Mercedes,2,4.4,19.33,0.6,0.75,0.05,1,1,1
+2026,14,Spanish Grand Prix,VER,Red Bull,3,9.6,5.0,0.6,0.75,0.05,2,1,0
+2026,14,Spanish Grand Prix,NOR,McLaren,1,3.4,10.0,0.6,0.75,0.05,3,1,0
+2026,14,Spanish Grand Prix,LEC,Ferrari,5,6.4,6.0,0.6,0.75,0.05,4,0,0
+2026,14,Spanish Grand Prix,RUS,Mercedes,6,6.8,22.67,0.6,0.75,0.05,5,0,0
+2026,14,Spanish Grand Prix,LAW,Red Bull,8,9.4,11.0,0.6,0.75,0.05,6,0,0
+2026,14,Spanish Grand Prix,COL,Alpine F1 Team,9,11.4,2.67,0.6,0.75,0.05,7,0,0
+2026,14,Spanish Grand Prix,PIA,McLaren,7,9.4,12.33,0.6,0.75,0.05,8,0,0
+2026,14,Spanish Grand Prix,LIN,RB F1 Team,10,9.2,1.67,0.6,0.75,0.05,9,0,0
+2026,14,Spanish Grand Prix,HUL,Audi,11,12.4,0.0,0.6,0.75,0.05,10,0,0
+2026,14,Spanish Grand Prix,OCO,Haas F1 Team,13,16.4,0.0,0.6,0.75,0.05,11,0,0
+2026,14,Spanish Grand Prix,GAS,Alpine F1 Team,14,10.0,4.67,0.6,0.75,0.05,12,0,0
+2026,14,Spanish Grand Prix,BOR,Audi,12,10.2,0.33,0.6,0.75,0.05,13,0,0
+2026,14,Spanish Grand Prix,TSU,RB F1 Team,15,11.4,2.33,0.6,0.75,0.05,14,0,0
+2026,14,Spanish Grand Prix,ALB,Williams,16,17.2,0.0,0.6,0.75,0.05,15,0,0
+2026,14,Spanish Grand Prix,BEA,Haas F1 Team,22,16.0,0.0,0.6,0.75,0.05,16,0,0
+2026,14,Spanish Grand Prix,ALO,Aston Martin,17,16.0,0.0,0.6,0.75,0.05,17,0,0
+2026,14,Spanish Grand Prix,BOT,Cadillac F1 Team,19,18.6,0.0,0.6,0.75,0.05,18,0,0
+2026,14,Spanish Grand Prix,SAI,Williams,20,16.0,0.0,0.6,0.75,0.05,20,0,0
+2026,14,Spanish Grand Prix,PER,Cadillac F1 Team,18,17.4,0.0,0.6,0.75,0.05,20,0,0
+2026,14,Spanish Grand Prix,STR,Aston Martin,21,18.4,0.0,0.6,0.75,0.05,20,0,0
+2026,14,Spanish Grand Prix,HAM,Ferrari,4,4.4,6.67,0.6,0.75,0.05,20,0,0
+2026,15,Azerbaijan Grand Prix,RUS,Mercedes,1,7.4,17.67,0.45,0.5,0.05,1,1,1
+2026,15,Azerbaijan Grand Prix,VER,Red Bull,8,6.0,8.67,0.45,0.5,0.05,2,1,0
+2026,15,Azerbaijan Grand Prix,HAD,Red Bull,4,5.8,14.67,0.45,0.5,0.05,3,1,0
+2026,15,Azerbaijan Grand Prix,LEC,Ferrari,2,7.0,4.0,0.45,0.5,0.05,4,0,0
+2026,15,Azerbaijan Grand Prix,ANT,Mercedes,16,1.6,20.0,0.45,0.5,0.05,5,0,0
+2026,15,Azerbaijan Grand Prix,HAM,Ferrari,6,7.8,8.0,0.45,0.5,0.05,6,0,0
+2026,15,Azerbaijan Grand Prix,LIN,RB F1 Team,15,9.6,1.0,0.45,0.5,0.05,7,0,0
+2026,15,Azerbaijan Grand Prix,OCO,Haas F1 Team,13,16.0,0.0,0.45,0.5,0.05,8,0,0
+2026,15,Azerbaijan Grand Prix,BEA,Haas F1 Team,10,16.8,1.33,0.45,0.5,0.05,9,0,0
+2026,15,Azerbaijan Grand Prix,SAI,Williams,14,16.6,0.0,0.45,0.5,0.05,10,0,0
+2026,15,Azerbaijan Grand Prix,HUL,Audi,18,10.4,0.33,0.45,0.5,0.05,11,0,0
+2026,15,Azerbaijan Grand Prix,LAW,RB F1 Team,11,9.4,2.67,0.45,0.5,0.05,12,0,0
+2026,15,Azerbaijan Grand Prix,PIA,McLaren,3,8.8,9.67,0.45,0.5,0.05,13,0,0
+2026,15,Azerbaijan Grand Prix,PER,Cadillac F1 Team,20,18.6,0.0,0.45,0.5,0.05,14,0,0
+2026,15,Azerbaijan Grand Prix,BOR,Audi,17,11.2,0.33,0.45,0.5,0.05,15,0,0
+2026,15,Azerbaijan Grand Prix,BOT,Cadillac F1 Team,19,19.0,0.0,0.45,0.5,0.05,16,0,0
+2026,15,Azerbaijan Grand Prix,COL,Alpine F1 Team,9,11.0,2.67,0.45,0.5,0.05,20,0,0
+2026,15,Azerbaijan Grand Prix,GAS,Alpine F1 Team,7,10.4,2.0,0.45,0.5,0.05,20,0,0
+2026,15,Azerbaijan Grand Prix,NOR,McLaren,5,3.2,6.33,0.45,0.5,0.05,20,0,0
+2026,15,Azerbaijan Grand Prix,ALB,Williams,12,16.2,0.33,0.45,0.5,0.05,20,0,0
+2026,15,Azerbaijan Grand Prix,ALO,Aston Martin,21,15.8,0.0,0.45,0.5,0.05,20,0,0
+2026,15,Azerbaijan Grand Prix,STR,Aston Martin,22,18.6,0.0,0.45,0.5,0.05,20,0,0
+2026,16,Bahrain Grand Prix in Malaysia,VER,Red Bull,1,5.8,13.67,0.65,0.65,0.05,1,1,1
+2026,16,Bahrain Grand Prix in Malaysia,ANT,Mercedes,3,2.4,15.0,0.65,0.65,0.05,2,1,0
+2026,16,Bahrain Grand Prix in Malaysia,HAM,Ferrari,2,8.2,6.67,0.65,0.65,0.05,3,1,0
+2026,16,Bahrain Grand Prix in Malaysia,LEC,Ferrari,4,7.4,11.67,0.65,0.65,0.05,4,0,0
+2026,16,Bahrain Grand Prix in Malaysia,HAD,Red Bull,8,5.2,19.33,0.65,0.65,0.05,5,0,0
+2026,16,Bahrain Grand Prix in Malaysia,PIA,McLaren,6,10.4,1.33,0.65,0.65,0.05,6,0,0
+2026,16,Bahrain Grand Prix in Malaysia,LAW,RB F1 Team,11,9.4,2.0,0.65,0.65,0.05,7,0,0
+2026,16,Bahrain Grand Prix in Malaysia,ALO,Aston Martin,12,16.0,0.0,0.65,0.65,0.05,8,0,0
+2026,16,Bahrain Grand Prix in Malaysia,NOR,McLaren,5,5.8,2.67,0.65,0.65,0.05,9,0,0
+2026,16,Bahrain Grand Prix in Malaysia,LIN,RB F1 Team,22,9.2,4.0,0.65,0.65,0.05,10,0,0
+2026,16,Bahrain Grand Prix in Malaysia,HUL,Audi,15,10.0,0.0,0.65,0.65,0.05,11,0,0
+2026,16,Bahrain Grand Prix in Malaysia,STR,Aston Martin,14,18.6,1.33,0.65,0.65,0.05,12,0,0
+2026,16,Bahrain Grand Prix in Malaysia,COL,Alpine F1 Team,21,13.0,0.0,0.65,0.65,0.05,13,0,0
+2026,16,Bahrain Grand Prix in Malaysia,BEA,Haas F1 Team,16,15.8,2.0,0.65,0.65,0.05,14,0,0
+2026,16,Bahrain Grand Prix in Malaysia,OCO,Haas F1 Team,17,14.2,2.0,0.65,0.65,0.05,15,0,0
+2026,16,Bahrain Grand Prix in Malaysia,GAS,Alpine F1 Team,9,12.2,0.0,0.65,0.65,0.05,16,0,0
+2026,16,Bahrain Grand Prix in Malaysia,SAI,Williams,13,15.4,0.33,0.65,0.65,0.05,17,0,0
+2026,16,Bahrain Grand Prix in Malaysia,BOR,Audi,10,12.6,0.0,0.65,0.65,0.05,18,0,0
+2026,16,Bahrain Grand Prix in Malaysia,PER,Cadillac F1 Team,20,17.4,0.0,0.65,0.65,0.05,19,0,0
+2026,16,Bahrain Grand Prix in Malaysia,RUS,Mercedes,7,3.6,17.67,0.65,0.65,0.05,20,0,0
+2026,16,Bahrain Grand Prix in Malaysia,ALB,Williams,18,17.2,0.33,0.65,0.65,0.05,20,0,0
+2026,16,Bahrain Grand Prix in Malaysia,BOT,Cadillac F1 Team,19,18.6,0.0,0.65,0.65,0.05,20,0,0
+2026,17,Singapore Grand Prix,VER,Red Bull,1,5.6,16.67,0.9,0.85,0.05,1,1,1
+2026,17,Singapore Grand Prix,LEC,Ferrari,2,7.4,11.67,0.9,0.85,0.05,2,1,0
+2026,17,Singapore Grand Prix,ANT,Mercedes,4,2.2,9.33,0.9,0.85,0.05,3,1,0
+2026,17,Singapore Grand Prix,NOR,McLaren,5,7.4,3.33,0.9,0.85,0.05,4,0,0
+2026,17,Singapore Grand Prix,PIA,McLaren,6,7.6,7.33,0.9,0.85,0.05,5,0,0
+2026,17,Singapore Grand Prix,HAM,Ferrari,3,7.8,15.0,0.9,0.85,0.05,6,0,0
+2026,17,Singapore Grand Prix,LAW,RB F1 Team,8,9.2,2.33,0.9,0.85,0.05,7,0,0
+2026,17,Singapore Grand Prix,HUL,Audi,10,10.4,0.0,0.9,0.85,0.05,8,0,0
+2026,17,Singapore Grand Prix,RUS,Mercedes,19,6.2,11.0,0.9,0.85,0.05,9,0,0
+2026,17,Singapore Grand Prix,HAD,Red Bull,22,5.0,20.0,0.9,0.85,0.05,10,0,0
+2026,17,Singapore Grand Prix,GAS,Alpine F1 Team,7,13.0,0.0,0.9,0.85,0.05,11,0,0
+2026,17,Singapore Grand Prix,BEA,Haas F1 Team,11,14.8,0.67,0.9,0.85,0.05,12,0,0
+2026,17,Singapore Grand Prix,OCO,Haas F1 Team,12,14.0,0.0,0.9,0.85,0.05,13,0,0
+2026,17,Singapore Grand Prix,SAI,Williams,13,15.2,0.0,0.9,0.85,0.05,14,0,0
+2026,17,Singapore Grand Prix,LIN,RB F1 Team,9,9.2,4.33,0.9,0.85,0.05,15,0,0
+2026,17,Singapore Grand Prix,ALO,Aston Martin,20,14.8,1.33,0.9,0.85,0.05,16,0,0
+2026,17,Singapore Grand Prix,PER,Cadillac F1 Team,17,17.2,0.0,0.9,0.85,0.05,17,0,0
+2026,17,Singapore Grand Prix,ALB,Williams,16,17.8,0.0,0.9,0.85,0.05,18,0,0
+2026,17,Singapore Grand Prix,BOT,Cadillac F1 Team,18,18.6,0.0,0.9,0.85,0.05,19,0,0
+2026,17,Singapore Grand Prix,STR,Aston Martin,21,18.4,1.33,0.9,0.85,0.05,20,0,0
+2026,17,Singapore Grand Prix,COL,Alpine F1 Team,15,12.6,0.0,0.9,0.85,0.05,20,0,0
+2026,17,Singapore Grand Prix,BOR,Audi,14,14.0,1.33,0.9,0.85,0.05,20,0,0
+2026,18,United States Grand Prix,ANT,Mercedes,1,2.4,5.67,0.65,0.65,0.05,1,1,1
+2026,18,United States Grand Prix,LEC,Ferrari,4,6.8,12.67,0.65,0.65,0.05,2,1,0
+2026,18,United States Grand Prix,VER,Red Bull,2,1.8,12.0,0.65,0.65,0.05,3,1,0
+2026,18,United States Grand Prix,HAM,Ferrari,5,8.2,14.67,0.65,0.65,0.05,4,0,0
+2026,18,United States Grand Prix,NOR,McLaren,8,8.0,8.0,0.65,0.65,0.05,5,0,0
+2026,18,United States Grand Prix,HAD,Red Bull,3,6.0,13.67,0.65,0.65,0.05,6,0,0
+2026,18,United States Grand Prix,PIA,McLaren,7,7.4,10.67,0.65,0.65,0.05,7,0,0
+2026,18,United States Grand Prix,RUS,Mercedes,6,7.4,14.0,0.65,0.65,0.05,8,0,0
+2026,18,United States Grand Prix,LAW,RB F1 Team,9,9.2,2.33,0.65,0.65,0.05,9,0,0
+2026,18,United States Grand Prix,GAS,Alpine F1 Team,10,13.2,0.0,0.65,0.65,0.05,10,0,0
+2026,18,United States Grand Prix,HUL,Audi,11,10.4,1.33,0.65,0.65,0.05,11,0,0
+2026,18,United States Grand Prix,LIN,RB F1 Team,14,9.8,2.67,0.65,0.65,0.05,12,0,0
+2026,18,United States Grand Prix,BOR,Audi,21,15.4,1.33,0.65,0.65,0.05,13,0,0
+2026,18,United States Grand Prix,OCO,Haas F1 Team,15,12.6,0.0,0.65,0.65,0.05,14,0,0
+2026,18,United States Grand Prix,STR,Aston Martin,22,18.4,0.0,0.65,0.65,0.05,15,0,0
+2026,18,United States Grand Prix,ALO,Aston Martin,12,16.2,0.0,0.65,0.65,0.05,16,0,0
+2026,18,United States Grand Prix,ALB,Williams,17,18.0,0.0,0.65,0.65,0.05,17,0,0
+2026,18,United States Grand Prix,SAI,Williams,16,14.8,0.0,0.65,0.65,0.05,18,0,0
+2026,18,United States Grand Prix,PER,Cadillac F1 Team,18,17.6,0.0,0.65,0.65,0.05,19,0,0
+2026,18,United States Grand Prix,BOT,Cadillac F1 Team,19,18.4,0.0,0.65,0.65,0.05,20,0,0
+2026,18,United States Grand Prix,COL,Alpine F1 Team,20,13.8,0.33,0.65,0.65,0.05,20,0,0
+2026,18,United States Grand Prix,BEA,Haas F1 Team,13,13.2,0.0,0.65,0.65,0.05,20,0,0
+2026,19,Mexico City Grand Prix,VER,Red Bull,5,1.8,8.0,0.95,0.6,0.05,1,1,1
+2026,19,Mexico City Grand Prix,HAM,Ferrari,1,7.8,12.67,0.95,0.6,0.05,2,1,0
+2026,19,Mexico City Grand Prix,ANT,Mercedes,4,2.4,10.33,0.95,0.6,0.05,3,1,0
+2026,19,Mexico City Grand Prix,LEC,Ferrari,3,3.2,16.0,0.95,0.6,0.05,4,0,0
+2026,19,Mexico City Grand Prix,NOR,McLaren,6,8.2,8.67,0.95,0.6,0.05,5,0,0
+2026,19,Mexico City Grand Prix,RUS,Mercedes,2,8.6,14.67,0.95,0.6,0.05,6,0,0
+2026,19,Mexico City Grand Prix,LAW,RB F1 Team,22,8.2,0.67,0.95,0.6,0.05,7,0,0
+2026,19,Mexico City Grand Prix,BOR,Audi,13,15.8,0.0,0.95,0.6,0.05,8,0,0
+2026,19,Mexico City Grand Prix,HAD,Red Bull,7,6.0,16.0,0.95,0.6,0.05,9,0,0
+2026,19,Mexico City Grand Prix,HIR,Haas F1 Team,18,18.0,0.0,0.95,0.6,0.05,10,0,0
+2026,19,Mexico City Grand Prix,ALB,Williams,16,18.0,0.0,0.95,0.6,0.05,11,0,0
+2026,19,Mexico City Grand Prix,SAI,Williams,15,15.8,0.0,0.95,0.6,0.05,12,0,0
+2026,19,Mexico City Grand Prix,PIA,McLaren,12,7.8,8.67,0.95,0.6,0.05,13,0,0
+2026,19,Mexico City Grand Prix,HUL,Audi,10,10.2,1.33,0.95,0.6,0.05,14,0,0
+2026,19,Mexico City Grand Prix,COL,Alpine F1 Team,11,16.0,0.33,0.95,0.6,0.05,15,0,0
+2026,19,Mexico City Grand Prix,PER,Cadillac F1 Team,20,17.8,0.0,0.95,0.6,0.05,16,0,0
+2026,19,Mexico City Grand Prix,GAS,Alpine F1 Team,9,13.8,0.33,0.95,0.6,0.05,17,0,0
+2026,19,Mexico City Grand Prix,LIN,RB F1 Team,8,10.6,2.67,0.95,0.6,0.05,20,0,0
+2026,19,Mexico City Grand Prix,BEA,Haas F1 Team,14,14.2,0.33,0.95,0.6,0.05,20,0,0
+2026,19,Mexico City Grand Prix,BOT,Cadillac F1 Team,21,18.6,0.0,0.95,0.6,0.05,20,0,0
+2026,19,Mexico City Grand Prix,STR,Aston Martin,19,17.4,0.0,0.95,0.6,0.05,20,0,0
+2026,19,Mexico City Grand Prix,ALO,Aston Martin,17,15.4,0.0,0.95,0.6,0.05,20,0,0
+2026,20,Brazilian Grand Prix,NOR,McLaren,1,8.6,5.33,0.65,0.65,0.05,1,1,1
+2026,20,Brazilian Grand Prix,VER,Red Bull,21,1.6,11.67,0.65,0.65,0.05,2,1,0
+2026,20,Brazilian Grand Prix,HAD,Red Bull,5,6.6,15.0,0.65,0.65,0.05,3,1,0
+2026,20,Brazilian Grand Prix,RUS,Mercedes,7,8.8,9.0,0.65,0.65,0.05,4,0,0
+2026,20,Brazilian Grand Prix,ANT,Mercedes,2,2.8,11.67,0.65,0.65,0.05,5,0,0
+2026,20,Brazilian Grand Prix,PIA,McLaren,10,8.8,11.67,0.65,0.65,0.05,6,0,0
+2026,20,Brazilian Grand Prix,LAW,RB F1 Team,3,8.4,2.0,0.65,0.65,0.05,7,0,0
+2026,20,Brazilian Grand Prix,LEC,Ferrari,14,3.2,14.0,0.65,0.65,0.05,8,0,0
+2026,20,Brazilian Grand Prix,HAM,Ferrari,20,4.2,11.33,0.65,0.65,0.05,9,0,0
+2026,20,Brazilian Grand Prix,HUL,Audi,4,11.0,1.33,0.65,0.65,0.05,10,0,0
+2026,20,Brazilian Grand Prix,LIN,RB F1 Team,18,12.8,4.0,0.65,0.65,0.05,11,0,0
+2026,20,Brazilian Grand Prix,ALO,Aston Martin,8,16.0,0.0,0.65,0.65,0.05,12,0,0
+2026,20,Brazilian Grand Prix,COL,Alpine F1 Team,13,17.6,0.0,0.65,0.65,0.05,13,0,0
+2026,20,Brazilian Grand Prix,GAS,Alpine F1 Team,15,14.8,0.0,0.65,0.65,0.05,14,0,0
+2026,20,Brazilian Grand Prix,ALB,Williams,9,17.2,0.0,0.65,0.65,0.05,15,0,0
+2026,20,Brazilian Grand Prix,BOR,Audi,19,14.8,1.67,0.65,0.65,0.05,16,0,0
+2026,20,Brazilian Grand Prix,BEA,Haas F1 Team,6,15.0,0.33,0.65,0.65,0.05,17,0,0
+2026,20,Brazilian Grand Prix,PER,Cadillac F1 Team,22,17.0,0.0,0.65,0.65,0.05,18,0,0
+2026,20,Brazilian Grand Prix,SAI,Williams,12,14.2,0.0,0.65,0.65,0.05,19,0,0
+2026,20,Brazilian Grand Prix,CAM,Haas F1 Team,11,11.0,0.33,0.65,0.65,0.05,20,0,0
+2026,20,Brazilian Grand Prix,STR,Aston Martin,16,17.4,0.0,0.65,0.65,0.05,20,0,0
+2026,20,Brazilian Grand Prix,BOT,Cadillac F1 Team,17,19.0,0.0,0.65,0.65,0.05,20,0,0
+2026,21,Las Vegas Grand Prix,RUS,Mercedes,2,4.4,21.8,0.3,0.4,0.05,9,0,0
+2026,21,Las Vegas Grand Prix,HAM,Ferrari,11,4.8,23.8,0.3,0.4,0.05,7,0,0
+2026,21,Las Vegas Grand Prix,SAI,Williams,20,16.0,0.0,0.3,0.4,0.05,8,0,0
+2026,21,Las Vegas Grand Prix,LEC,Ferrari,10,4.0,23.8,0.3,0.4,0.05,10,0,0
+2026,21,Las Vegas Grand Prix,VER,Red Bull,1,1.6,28.8,0.3,0.4,0.05,1,1,1
+2026,21,Las Vegas Grand Prix,NOR,McLaren,3,4.8,18.2,0.3,0.4,0.05,2,1,0
+2026,21,Las Vegas Grand Prix,PIA,McLaren,17,7.4,18.2,0.3,0.4,0.05,3,1,0
+2026,21,Las Vegas Grand Prix,HUL,Audi,12,10.8,1.8,0.3,0.4,0.05,11,0,0
+2026,21,Las Vegas Grand Prix,LAW,RB F1 Team,7,7.4,5.4,0.3,0.4,0.05,15,0,0
+2026,21,Las Vegas Grand Prix,PER,Cadillac F1 Team,16,17.8,0.0,0.3,0.4,0.05,21,0,0
+2026,21,Las Vegas Grand Prix,ANT,Mercedes,6,2.8,21.8,0.3,0.4,0.05,4,0,0
+2026,21,Las Vegas Grand Prix,ALO,Aston Martin,18,14.4,0.8,0.3,0.4,0.05,19,0,0
+2026,21,Las Vegas Grand Prix,BEA,Haas F1 Team,22,16.6,0.2,0.3,0.4,0.05,13,0,0
+2026,21,Las Vegas Grand Prix,COL,Alpine F1 Team,9,16.2,0.2,0.3,0.4,0.05,6,0,0
+2026,21,Las Vegas Grand Prix,STR,Aston Martin,21,17.4,0.8,0.3,0.4,0.05,17,0,0
+2026,21,Las Vegas Grand Prix,HAD,Red Bull,4,6.6,28.8,0.3,0.4,0.05,14,0,0
+2026,21,Las Vegas Grand Prix,GAS,Alpine F1 Team,8,13.6,0.2,0.3,0.4,0.05,5,0,0
+2026,21,Las Vegas Grand Prix,BOT,Cadillac F1 Team,19,19.8,0.0,0.3,0.4,0.05,18,0,0
+2026,21,Las Vegas Grand Prix,ALB,Williams,14,16.2,0.0,0.3,0.4,0.05,22,0,0
+2026,21,Las Vegas Grand Prix,BOR,Audi,13,15.0,1.8,0.3,0.4,0.05,12,0,0
+2026,21,Las Vegas Grand Prix,CAM,Haas F1 Team,15,20.0,0.2,0.3,0.4,0.05,16,0,0
+2026,21,Las Vegas Grand Prix,LIN,RB F1 Team,5,13.6,5.4,0.3,0.4,0.05,20,0,0
